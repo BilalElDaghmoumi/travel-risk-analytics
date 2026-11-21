@@ -1,0 +1,21 @@
+country,region,risk_level
+France,Europe,1
+Germany,Europe,1
+Spain,Europe,1
+Turkey,Europe,3
+United States,Americas,2
+Mexico,Americas,3
+Brazil,Americas,3
+Colombia,Americas,4
+Kenya,Africa,3
+Nigeria,Africa,4
+South Africa,Africa,3
+Ghana,Africa,2
+Egypt,Middle East,3
+Jordan,Middle East,2
+UAE,Middle East,1
+India,Asia,3
+Indonesia,Asia,3
+Japan,Asia,1
+Philippines,Asia,4
+Australia,Oceania,1
