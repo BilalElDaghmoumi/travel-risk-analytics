@@ -1,779 +1,779 @@
-incident_id,country,region,incident_date,incident_type,severity,escalated,trip_id,traveller_id,client,department
-INC0001,Indonesia,Asia,2025-10-05,Civil Unrest,3,1,TR00249,T0278,Silverleaf Consulting,Engineering
-INC0001,Indonesia,Asia,2025-10-05,Civil Unrest,3,1,TR01247,T0224,Northstar Energy,Logistics
-INC0002,South Africa,Africa,2025-01-27,Civil Unrest,2,0,TR00742,T0111,Harbourline Engineering,HR
-INC0002,South Africa,Africa,2025-01-27,Civil Unrest,2,0,TR00779,T0203,Acme Logistics,HR
-INC0002,South Africa,Africa,2025-01-27,Civil Unrest,2,0,TR01851,T0271,Northstar Energy,Engineering
-INC0003,India,Asia,2025-02-21,Terrorism,3,0,TR00062,T0161,Harbourline Engineering,Engineering
-INC0003,India,Asia,2025-02-21,Terrorism,3,0,TR00599,T0113,Silverleaf Consulting,Finance
-INC0003,India,Asia,2025-02-21,Terrorism,3,0,TR01436,T0075,Harbourline Engineering,Finance
-INC0004,Turkey,Europe,2026-03-06,Transport Disruption,5,0,TR01912,T0198,Bluepeak Mining,HR
-INC0006,Jordan,Middle East,2025-07-04,Natural Disaster,3,1,TR00541,T0144,Bluepeak Mining,Sales
-INC0008,Nigeria,Africa,2026-04-17,Health Outbreak,3,1,TR00003,T0125,Acme Logistics,HR
-INC0008,Nigeria,Africa,2026-04-17,Health Outbreak,3,1,TR00810,T0186,Acme Logistics,Logistics
-INC0009,Jordan,Middle East,2025-03-20,Health Outbreak,2,0,TR00413,T0206,Bluepeak Mining,Operations
-INC0009,Jordan,Middle East,2025-03-20,Health Outbreak,2,0,TR01473,T0060,Northstar Energy,Engineering
-INC0010,Brazil,Americas,2025-06-20,Health Outbreak,2,0,TR00183,T0245,Northstar Energy,Engineering
-INC0011,South Africa,Africa,2026-05-29,Transport Disruption,3,0,TR01248,T0229,Acme Logistics,Finance
-INC0013,Mexico,Americas,2025-07-14,Natural Disaster,2,0,TR01776,T0024,Bluepeak Mining,Engineering
-INC0014,Indonesia,Asia,2025-02-27,Civil Unrest,3,1,TR00522,T0203,Acme Logistics,HR
-INC0014,Indonesia,Asia,2025-02-27,Civil Unrest,3,1,TR01813,T0030,Northstar Energy,Finance
-INC0015,United States,Americas,2025-10-30,Transport Disruption,3,1,TR01790,T0153,Acme Logistics,Engineering
-INC0015,United States,Americas,2025-10-30,Transport Disruption,3,1,TR01973,T0131,Silverleaf Consulting,Sales
-INC0016,Indonesia,Asia,2026-01-11,Crime,5,1,TR00445,T0087,Harbourline Engineering,Logistics
-INC0016,Indonesia,Asia,2026-01-11,Crime,5,1,TR00552,T0272,Bluepeak Mining,Engineering
-INC0016,Indonesia,Asia,2026-01-11,Crime,5,1,TR01225,T0278,Silverleaf Consulting,Engineering
-INC0017,Mexico,Americas,2025-08-06,Transport Disruption,4,1,TR01987,T0071,Northstar Energy,Engineering
-INC0019,Colombia,Americas,2026-06-30,Civil Unrest,4,1,TR01212,T0121,Bluepeak Mining,Finance
-INC0019,Colombia,Americas,2026-06-30,Civil Unrest,4,1,TR01482,T0289,Northstar Energy,Operations
-INC0020,India,Asia,2025-02-27,Transport Disruption,3,1,TR00866,T0078,Silverleaf Consulting,Engineering
-INC0020,India,Asia,2025-02-27,Transport Disruption,3,1,TR01436,T0075,Harbourline Engineering,Finance
-INC0021,Nigeria,Africa,2025-02-01,Health Outbreak,2,0,TR01679,T0208,Northstar Energy,Logistics
-INC0022,Turkey,Europe,2025-12-03,Civil Unrest,1,0,TR01943,T0015,Harbourline Engineering,HR
-INC0023,Kenya,Africa,2025-03-25,Transport Disruption,3,1,TR00575,T0069,Bluepeak Mining,Logistics
-INC0023,Kenya,Africa,2025-03-25,Transport Disruption,3,1,TR01181,T0235,Bluepeak Mining,Operations
-INC0023,Kenya,Africa,2025-03-25,Transport Disruption,3,1,TR01717,T0281,Northstar Energy,Finance
-INC0025,Philippines,Asia,2026-02-23,Terrorism,4,1,TR00085,T0030,Northstar Energy,Finance
-INC0025,Philippines,Asia,2026-02-23,Terrorism,4,1,TR00387,T0155,Harbourline Engineering,Sales
-INC0025,Philippines,Asia,2026-02-23,Terrorism,4,1,TR00612,T0108,Silverleaf Consulting,Logistics
-INC0026,United States,Americas,2025-10-13,Health Outbreak,1,0,TR00184,T0171,Silverleaf Consulting,Sales
-INC0026,United States,Americas,2025-10-13,Health Outbreak,1,0,TR00418,T0154,Harbourline Engineering,Engineering
-INC0027,South Africa,Africa,2026-05-07,Health Outbreak,1,0,TR00133,T0190,Bluepeak Mining,Operations
-INC0027,South Africa,Africa,2026-05-07,Health Outbreak,1,0,TR01338,T0272,Bluepeak Mining,Engineering
-INC0027,South Africa,Africa,2026-05-07,Health Outbreak,1,0,TR01561,T0218,Silverleaf Consulting,Engineering
-INC0029,Jordan,Middle East,2025-05-10,Terrorism,1,1,TR00127,T0134,Silverleaf Consulting,Operations
-INC0029,Jordan,Middle East,2025-05-10,Terrorism,1,1,TR00135,T0183,Acme Logistics,Sales
-INC0029,Jordan,Middle East,2025-05-10,Terrorism,1,1,TR00329,T0087,Harbourline Engineering,Logistics
-INC0029,Jordan,Middle East,2025-05-10,Terrorism,1,1,TR00978,T0011,Northstar Energy,Engineering
-INC0030,Nigeria,Africa,2025-12-28,Natural Disaster,3,1,TR00190,T0284,Northstar Energy,Operations
-INC0031,France,Europe,2025-07-16,Crime,1,0,TR00002,T0001,Harbourline Engineering,Sales
-INC0031,France,Europe,2025-07-16,Crime,1,0,TR00227,T0006,Northstar Energy,Engineering
-INC0031,France,Europe,2025-07-16,Crime,1,0,TR00739,T0257,Acme Logistics,Engineering
-INC0034,Colombia,Americas,2026-04-17,Crime,5,0,TR00060,T0243,Harbourline Engineering,Engineering
-INC0034,Colombia,Americas,2026-04-17,Crime,5,0,TR00134,T0095,Acme Logistics,Finance
-INC0035,Spain,Europe,2026-02-27,Health Outbreak,1,0,TR01253,T0003,Acme Logistics,Operations
-INC0035,Spain,Europe,2026-02-27,Health Outbreak,1,0,TR01575,T0032,Harbourline Engineering,Operations
-INC0036,Colombia,Americas,2026-05-12,Civil Unrest,4,1,TR00989,T0045,Northstar Energy,Finance
-INC0036,Colombia,Americas,2026-05-12,Civil Unrest,4,1,TR01183,T0129,Acme Logistics,Finance
-INC0037,Colombia,Americas,2025-08-06,Crime,3,0,TR00040,T0168,Acme Logistics,Sales
-INC0037,Colombia,Americas,2025-08-06,Crime,3,0,TR00482,T0026,Harbourline Engineering,Logistics
-INC0038,Brazil,Americas,2026-01-18,Civil Unrest,2,1,TR00049,T0075,Harbourline Engineering,Finance
-INC0038,Brazil,Americas,2026-01-18,Civil Unrest,2,1,TR00354,T0214,Silverleaf Consulting,Engineering
-INC0038,Brazil,Americas,2026-01-18,Civil Unrest,2,1,TR01257,T0146,Northstar Energy,Sales
-INC0038,Brazil,Americas,2026-01-18,Civil Unrest,2,1,TR01287,T0296,Acme Logistics,Logistics
-INC0038,Brazil,Americas,2026-01-18,Civil Unrest,2,1,TR01554,T0202,Harbourline Engineering,Operations
-INC0038,Brazil,Americas,2026-01-18,Civil Unrest,2,1,TR01692,T0291,Northstar Energy,HR
-INC0039,Brazil,Americas,2025-11-23,Transport Disruption,2,0,TR00186,T0127,Acme Logistics,Engineering
-INC0039,Brazil,Americas,2025-11-23,Transport Disruption,2,0,TR01643,T0163,Bluepeak Mining,Engineering
-INC0040,South Africa,Africa,2026-04-06,Transport Disruption,1,0,TR01067,T0270,Harbourline Engineering,Finance
-INC0041,Colombia,Americas,2026-05-01,Civil Unrest,2,0,TR01183,T0129,Acme Logistics,Finance
-INC0041,Colombia,Americas,2026-05-01,Civil Unrest,2,0,TR01709,T0091,Harbourline Engineering,Engineering
-INC0042,Mexico,Americas,2025-06-13,Transport Disruption,3,0,TR00865,T0126,Bluepeak Mining,Sales
-INC0042,Mexico,Americas,2025-06-13,Transport Disruption,3,0,TR01875,T0228,Silverleaf Consulting,HR
-INC0043,Turkey,Europe,2026-03-05,Terrorism,1,0,TR01912,T0198,Bluepeak Mining,HR
-INC0044,Philippines,Asia,2026-01-17,Transport Disruption,4,1,TR01557,T0073,Northstar Energy,Operations
-INC0045,Egypt,Middle East,2025-11-28,Terrorism,3,0,TR01424,T0027,Harbourline Engineering,HR
-INC0047,Egypt,Middle East,2025-07-07,Crime,2,0,TR01074,T0265,Harbourline Engineering,Finance
-INC0048,Turkey,Europe,2026-02-12,Transport Disruption,2,1,TR01440,T0077,Silverleaf Consulting,Operations
-INC0049,South Africa,Africa,2026-01-06,Health Outbreak,3,1,TR00061,T0227,Harbourline Engineering,Operations
-INC0049,South Africa,Africa,2026-01-06,Health Outbreak,3,1,TR00911,T0178,Acme Logistics,Logistics
-INC0049,South Africa,Africa,2026-01-06,Health Outbreak,3,1,TR01088,T0030,Northstar Energy,Finance
-INC0049,South Africa,Africa,2026-01-06,Health Outbreak,3,1,TR01121,T0263,Acme Logistics,Engineering
-INC0049,South Africa,Africa,2026-01-06,Health Outbreak,3,1,TR01560,T0174,Harbourline Engineering,Engineering
-INC0050,Mexico,Americas,2025-10-05,Civil Unrest,2,0,TR00970,T0171,Silverleaf Consulting,Sales
-INC0051,Colombia,Americas,2025-11-11,Natural Disaster,5,1,TR00449,T0141,Bluepeak Mining,Operations
-INC0053,United States,Americas,2025-10-02,Health Outbreak,2,0,TR00418,T0154,Harbourline Engineering,Engineering
-INC0054,Indonesia,Asia,2026-04-20,Transport Disruption,2,0,TR01604,T0053,Harbourline Engineering,Engineering
-INC0055,Egypt,Middle East,2025-05-13,Civil Unrest,4,1,TR00593,T0293,Silverleaf Consulting,Finance
-INC0057,Brazil,Americas,2025-07-30,Natural Disaster,3,1,TR00592,T0182,Bluepeak Mining,Finance
-INC0057,Brazil,Americas,2025-07-30,Natural Disaster,3,1,TR00811,T0090,Harbourline Engineering,Finance
-INC0058,India,Asia,2025-02-22,Health Outbreak,2,0,TR00062,T0161,Harbourline Engineering,Engineering
-INC0058,India,Asia,2025-02-22,Health Outbreak,2,0,TR00599,T0113,Silverleaf Consulting,Finance
-INC0058,India,Asia,2025-02-22,Health Outbreak,2,0,TR01436,T0075,Harbourline Engineering,Finance
-INC0059,Kenya,Africa,2025-12-14,Health Outbreak,2,1,TR00297,T0064,Silverleaf Consulting,Engineering
-INC0059,Kenya,Africa,2025-12-14,Health Outbreak,2,1,TR00830,T0041,Acme Logistics,Finance
-INC0059,Kenya,Africa,2025-12-14,Health Outbreak,2,1,TR01223,T0089,Harbourline Engineering,Sales
-INC0061,South Africa,Africa,2026-02-26,Crime,4,1,TR00228,T0029,Bluepeak Mining,Operations
-INC0061,South Africa,Africa,2026-02-26,Crime,4,1,TR00264,T0061,Northstar Energy,Engineering
-INC0062,Egypt,Middle East,2025-03-08,Crime,4,1,TR01518,T0263,Acme Logistics,Engineering
-INC0063,Philippines,Asia,2026-01-14,Transport Disruption,3,0,TR00220,T0123,Harbourline Engineering,Logistics
-INC0063,Philippines,Asia,2026-01-14,Transport Disruption,3,0,TR01462,T0214,Silverleaf Consulting,Engineering
-INC0063,Philippines,Asia,2026-01-14,Transport Disruption,3,0,TR01557,T0073,Northstar Energy,Operations
-INC0066,Egypt,Middle East,2025-02-16,Terrorism,3,1,TR01590,T0233,Harbourline Engineering,Finance
-INC0068,Indonesia,Asia,2026-04-24,Natural Disaster,2,0,TR01675,T0057,Silverleaf Consulting,Logistics
-INC0069,Philippines,Asia,2025-12-16,Terrorism,4,1,TR00389,T0299,Silverleaf Consulting,Engineering
-INC0070,Nigeria,Africa,2025-04-05,Crime,3,0,TR00047,T0187,Silverleaf Consulting,Logistics
-INC0070,Nigeria,Africa,2025-04-05,Crime,3,0,TR00102,T0148,Acme Logistics,Operations
-INC0071,Colombia,Americas,2026-05-18,Health Outbreak,4,1,TR00989,T0045,Northstar Energy,Finance
-INC0071,Colombia,Americas,2026-05-18,Health Outbreak,4,1,TR01529,T0036,Acme Logistics,Logistics
-INC0072,India,Asia,2025-11-03,Natural Disaster,4,0,TR01294,T0118,Silverleaf Consulting,HR
-INC0073,Philippines,Asia,2025-11-23,Transport Disruption,4,0,TR00075,T0300,Bluepeak Mining,Logistics
-INC0073,Philippines,Asia,2025-11-23,Transport Disruption,4,0,TR01156,T0250,Acme Logistics,Operations
-INC0075,Nigeria,Africa,2025-11-09,Natural Disaster,4,0,TR00208,T0054,Northstar Energy,HR
-INC0076,Brazil,Americas,2026-03-20,Civil Unrest,4,1,TR00169,T0007,Acme Logistics,HR
-INC0077,Ghana,Africa,2026-04-06,Terrorism,1,0,TR00904,T0144,Bluepeak Mining,Sales
-INC0078,United States,Americas,2025-03-05,Natural Disaster,1,1,TR00206,T0025,Harbourline Engineering,HR
-INC0078,United States,Americas,2025-03-05,Natural Disaster,1,1,TR01041,T0178,Acme Logistics,Logistics
-INC0079,Kenya,Africa,2025-01-30,Health Outbreak,3,1,TR00763,T0246,Acme Logistics,Finance
-INC0079,Kenya,Africa,2025-01-30,Health Outbreak,3,1,TR01933,T0194,Bluepeak Mining,Operations
-INC0080,Jordan,Middle East,2026-06-12,Civil Unrest,4,1,TR00346,T0037,Silverleaf Consulting,Logistics
-INC0080,Jordan,Middle East,2026-06-12,Civil Unrest,4,1,TR00519,T0273,Silverleaf Consulting,Finance
-INC0080,Jordan,Middle East,2026-06-12,Civil Unrest,4,1,TR00534,T0130,Silverleaf Consulting,HR
-INC0082,Turkey,Europe,2025-08-19,Natural Disaster,3,1,TR01859,T0242,Bluepeak Mining,HR
-INC0083,Turkey,Europe,2025-08-24,Transport Disruption,2,0,TR01222,T0203,Acme Logistics,HR
-INC0083,Turkey,Europe,2025-08-24,Transport Disruption,2,0,TR01859,T0242,Bluepeak Mining,HR
-INC0085,Kenya,Africa,2026-06-30,Terrorism,3,1,TR00620,T0161,Harbourline Engineering,Engineering
-INC0086,Colombia,Americas,2025-09-16,Crime,5,1,TR01285,T0280,Silverleaf Consulting,Sales
-INC0086,Colombia,Americas,2025-09-16,Crime,5,1,TR01662,T0006,Northstar Energy,Engineering
-INC0086,Colombia,Americas,2025-09-16,Crime,5,1,TR01726,T0277,Acme Logistics,Sales
-INC0087,Jordan,Middle East,2026-01-15,Civil Unrest,2,0,TR00942,T0203,Acme Logistics,HR
-INC0088,Australia,Oceania,2025-04-12,Natural Disaster,1,0,TR00506,T0136,Northstar Energy,Engineering
-INC0088,Australia,Oceania,2025-04-12,Natural Disaster,1,0,TR01589,T0029,Bluepeak Mining,Operations
-INC0089,Turkey,Europe,2026-02-23,Transport Disruption,3,1,TR00934,T0287,Acme Logistics,Operations
-INC0089,Turkey,Europe,2026-02-23,Transport Disruption,3,1,TR01236,T0214,Silverleaf Consulting,Engineering
-INC0089,Turkey,Europe,2026-02-23,Transport Disruption,3,1,TR01750,T0248,Northstar Energy,Operations
-INC0091,Nigeria,Africa,2026-03-05,Transport Disruption,3,0,TR00754,T0249,Harbourline Engineering,Engineering
-INC0092,Colombia,Americas,2025-10-19,Transport Disruption,5,0,TR00793,T0163,Bluepeak Mining,Engineering
-INC0093,Turkey,Europe,2025-10-15,Natural Disaster,3,1,TR00299,T0080,Harbourline Engineering,HR
-INC0093,Turkey,Europe,2025-10-15,Natural Disaster,3,1,TR00908,T0262,Silverleaf Consulting,HR
-INC0096,Nigeria,Africa,2026-04-06,Crime,5,1,TR00029,T0214,Silverleaf Consulting,Engineering
-INC0096,Nigeria,Africa,2026-04-06,Crime,5,1,TR01350,T0187,Silverleaf Consulting,Logistics
-INC0097,Colombia,Americas,2026-01-28,Health Outbreak,3,1,TR00975,T0117,Bluepeak Mining,HR
-INC0098,Jordan,Middle East,2025-12-19,Crime,2,1,TR00474,T0285,Harbourline Engineering,Sales
-INC0098,Jordan,Middle East,2025-12-19,Crime,2,1,TR00987,T0024,Bluepeak Mining,Engineering
-INC0098,Jordan,Middle East,2025-12-19,Crime,2,1,TR01937,T0197,Silverleaf Consulting,Logistics
-INC0100,Philippines,Asia,2025-11-07,Civil Unrest,4,0,TR00579,T0012,Acme Logistics,HR
-INC0102,Nigeria,Africa,2025-05-24,Crime,3,1,TR00153,T0030,Northstar Energy,Finance
-INC0103,Brazil,Americas,2025-01-09,Transport Disruption,2,0,TR01028,T0176,Silverleaf Consulting,Sales
-INC0103,Brazil,Americas,2025-01-09,Transport Disruption,2,0,TR01886,T0108,Silverleaf Consulting,Logistics
-INC0104,Colombia,Americas,2025-12-02,Crime,4,1,TR01213,T0266,Silverleaf Consulting,Sales
-INC0105,Turkey,Europe,2025-05-05,Transport Disruption,4,1,TR00985,T0059,Northstar Energy,Finance
-INC0105,Turkey,Europe,2025-05-05,Transport Disruption,4,1,TR01110,T0176,Silverleaf Consulting,Sales
-INC0106,Philippines,Asia,2026-02-25,Civil Unrest,5,1,TR00387,T0155,Harbourline Engineering,Sales
-INC0106,Philippines,Asia,2026-02-25,Civil Unrest,5,1,TR00612,T0108,Silverleaf Consulting,Logistics
-INC0107,South Africa,Africa,2026-01-25,Terrorism,4,1,TR01911,T0122,Acme Logistics,HR
-INC0109,Jordan,Middle East,2025-06-08,Terrorism,3,0,TR00178,T0151,Silverleaf Consulting,Operations
-INC0109,Jordan,Middle East,2025-06-08,Terrorism,3,0,TR00723,T0259,Northstar Energy,HR
-INC0109,Jordan,Middle East,2025-06-08,Terrorism,3,0,TR01001,T0156,Harbourline Engineering,Finance
-INC0110,Kenya,Africa,2026-06-02,Transport Disruption,2,1,TR00247,T0072,Northstar Energy,Finance
-INC0110,Kenya,Africa,2026-06-02,Transport Disruption,2,1,TR01806,T0012,Acme Logistics,HR
-INC0112,Brazil,Americas,2025-06-25,Health Outbreak,4,1,TR00183,T0245,Northstar Energy,Engineering
-INC0113,Brazil,Americas,2026-06-11,Health Outbreak,3,1,TR01147,T0029,Bluepeak Mining,Operations
-INC0114,Mexico,Americas,2025-11-12,Natural Disaster,2,0,TR01217,T0104,Silverleaf Consulting,HR
-INC0115,Turkey,Europe,2025-03-22,Health Outbreak,2,1,TR00026,T0082,Silverleaf Consulting,HR
-INC0115,Turkey,Europe,2025-03-22,Health Outbreak,2,1,TR00673,T0242,Bluepeak Mining,HR
-INC0115,Turkey,Europe,2025-03-22,Health Outbreak,2,1,TR01879,T0221,Bluepeak Mining,Logistics
-INC0116,Turkey,Europe,2025-02-12,Civil Unrest,3,1,TR01454,T0042,Bluepeak Mining,Operations
-INC0116,Turkey,Europe,2025-02-12,Civil Unrest,3,1,TR01795,T0279,Bluepeak Mining,Operations
-INC0117,Philippines,Asia,2025-05-02,Natural Disaster,4,1,TR00741,T0028,Acme Logistics,HR
-INC0117,Philippines,Asia,2025-05-02,Natural Disaster,4,1,TR01172,T0170,Harbourline Engineering,Logistics
-INC0117,Philippines,Asia,2025-05-02,Natural Disaster,4,1,TR01958,T0089,Harbourline Engineering,Sales
-INC0118,Indonesia,Asia,2025-01-27,Crime,2,1,TR00951,T0065,Acme Logistics,HR
-INC0118,Indonesia,Asia,2025-01-27,Crime,2,1,TR01572,T0115,Northstar Energy,Logistics
-INC0118,Indonesia,Asia,2025-01-27,Crime,2,1,TR01725,T0281,Northstar Energy,Finance
-INC0120,Turkey,Europe,2025-08-22,Crime,3,0,TR01222,T0203,Acme Logistics,HR
-INC0120,Turkey,Europe,2025-08-22,Crime,3,0,TR01859,T0242,Bluepeak Mining,HR
-INC0121,Turkey,Europe,2025-08-22,Health Outbreak,1,0,TR01222,T0203,Acme Logistics,HR
-INC0121,Turkey,Europe,2025-08-22,Health Outbreak,1,0,TR01859,T0242,Bluepeak Mining,HR
-INC0122,India,Asia,2025-01-13,Civil Unrest,2,1,TR01210,T0058,Northstar Energy,Logistics
-INC0123,Colombia,Americas,2025-05-11,Civil Unrest,4,1,TR01161,T0292,Acme Logistics,Engineering
-INC0123,Colombia,Americas,2025-05-11,Civil Unrest,4,1,TR01202,T0177,Northstar Energy,Sales
-INC0124,South Africa,Africa,2026-04-14,Transport Disruption,3,0,TR01738,T0287,Acme Logistics,Operations
-INC0125,Nigeria,Africa,2025-10-05,Civil Unrest,5,1,TR01404,T0004,Acme Logistics,HR
-INC0125,Nigeria,Africa,2025-10-05,Civil Unrest,5,1,TR01528,T0270,Harbourline Engineering,Finance
-INC0125,Nigeria,Africa,2025-10-05,Civil Unrest,5,1,TR01545,T0145,Silverleaf Consulting,Finance
-INC0127,Nigeria,Africa,2025-12-25,Transport Disruption,3,0,TR00190,T0284,Northstar Energy,Operations
-INC0129,United States,Americas,2025-08-03,Natural Disaster,3,1,TR00103,T0217,Northstar Energy,Engineering
-INC0129,United States,Americas,2025-08-03,Natural Disaster,3,1,TR00633,T0172,Northstar Energy,HR
-INC0129,United States,Americas,2025-08-03,Natural Disaster,3,1,TR01235,T0196,Acme Logistics,Finance
-INC0131,Brazil,Americas,2025-11-25,Transport Disruption,5,0,TR00548,T0134,Silverleaf Consulting,Operations
-INC0131,Brazil,Americas,2025-11-25,Transport Disruption,5,0,TR01643,T0163,Bluepeak Mining,Engineering
-INC0132,Egypt,Middle East,2026-06-19,Terrorism,4,1,TR01853,T0058,Northstar Energy,Logistics
-INC0135,Nigeria,Africa,2025-01-17,Transport Disruption,4,0,TR00674,T0093,Bluepeak Mining,Operations
-INC0136,Brazil,Americas,2025-05-04,Terrorism,1,0,TR00365,T0087,Harbourline Engineering,Logistics
-INC0137,United States,Americas,2025-01-14,Natural Disaster,3,0,TR00076,T0077,Silverleaf Consulting,Operations
-INC0137,United States,Americas,2025-01-14,Natural Disaster,3,0,TR00223,T0270,Harbourline Engineering,Finance
-INC0138,Nigeria,Africa,2025-11-23,Civil Unrest,5,1,TR00439,T0001,Harbourline Engineering,Sales
-INC0139,Colombia,Americas,2025-07-12,Terrorism,4,1,TR01059,T0160,Bluepeak Mining,Finance
-INC0141,Brazil,Americas,2025-05-18,Natural Disaster,3,1,TR00458,T0298,Acme Logistics,Sales
-INC0141,Brazil,Americas,2025-05-18,Natural Disaster,3,1,TR00676,T0185,Northstar Energy,Sales
-INC0141,Brazil,Americas,2025-05-18,Natural Disaster,3,1,TR01458,T0102,Acme Logistics,Sales
-INC0142,India,Asia,2026-02-15,Terrorism,2,1,TR00310,T0238,Northstar Energy,Operations
-INC0143,Kenya,Africa,2025-03-25,Crime,4,1,TR00575,T0069,Bluepeak Mining,Logistics
-INC0143,Kenya,Africa,2025-03-25,Crime,4,1,TR01181,T0235,Bluepeak Mining,Operations
-INC0143,Kenya,Africa,2025-03-25,Crime,4,1,TR01717,T0281,Northstar Energy,Finance
-INC0144,Egypt,Middle East,2025-11-25,Transport Disruption,4,1,TR01424,T0027,Harbourline Engineering,HR
-INC0145,Brazil,Americas,2025-01-19,Crime,3,1,TR00366,T0123,Harbourline Engineering,Logistics
-INC0145,Brazil,Americas,2025-01-19,Crime,3,1,TR00733,T0107,Acme Logistics,Logistics
-INC0148,Mexico,Americas,2026-03-10,Crime,2,0,TR00087,T0261,Acme Logistics,Logistics
-INC0148,Mexico,Americas,2026-03-10,Crime,2,0,TR01144,T0134,Silverleaf Consulting,Operations
-INC0151,Brazil,Americas,2025-11-08,Civil Unrest,2,1,TR00390,T0240,Silverleaf Consulting,Engineering
-INC0151,Brazil,Americas,2025-11-08,Civil Unrest,2,1,TR01647,T0038,Harbourline Engineering,Logistics
-INC0152,Jordan,Middle East,2026-03-30,Terrorism,1,1,TR00859,T0131,Silverleaf Consulting,Sales
-INC0153,Brazil,Americas,2026-01-23,Civil Unrest,4,1,TR00049,T0075,Harbourline Engineering,Finance
-INC0153,Brazil,Americas,2026-01-23,Civil Unrest,4,1,TR00354,T0214,Silverleaf Consulting,Engineering
-INC0153,Brazil,Americas,2026-01-23,Civil Unrest,4,1,TR01257,T0146,Northstar Energy,Sales
-INC0153,Brazil,Americas,2026-01-23,Civil Unrest,4,1,TR01287,T0296,Acme Logistics,Logistics
-INC0154,Ghana,Africa,2025-12-21,Terrorism,1,1,TR01243,T0203,Acme Logistics,HR
-INC0154,Ghana,Africa,2025-12-21,Terrorism,1,1,TR01868,T0205,Northstar Energy,Operations
-INC0155,Japan,Asia,2026-05-16,Transport Disruption,3,1,TR00352,T0154,Harbourline Engineering,Engineering
-INC0155,Japan,Asia,2026-05-16,Transport Disruption,3,1,TR00525,T0057,Silverleaf Consulting,Logistics
-INC0156,Turkey,Europe,2025-10-24,Civil Unrest,2,1,TR00299,T0080,Harbourline Engineering,HR
-INC0156,Turkey,Europe,2025-10-24,Civil Unrest,2,1,TR01565,T0293,Silverleaf Consulting,Finance
-INC0157,Nigeria,Africa,2025-08-23,Health Outbreak,3,0,TR01759,T0287,Acme Logistics,Operations
-INC0158,Philippines,Asia,2026-01-25,Crime,5,1,TR00536,T0031,Acme Logistics,HR
-INC0160,France,Europe,2025-01-24,Health Outbreak,1,0,TR01205,T0056,Bluepeak Mining,Logistics
-INC0161,Brazil,Americas,2025-11-08,Transport Disruption,3,1,TR00390,T0240,Silverleaf Consulting,Engineering
-INC0161,Brazil,Americas,2025-11-08,Transport Disruption,3,1,TR01647,T0038,Harbourline Engineering,Logistics
-INC0162,Philippines,Asia,2025-02-21,Civil Unrest,5,1,TR01084,T0270,Harbourline Engineering,Finance
-INC0162,Philippines,Asia,2025-02-21,Civil Unrest,5,1,TR01266,T0085,Northstar Energy,Logistics
-INC0162,Philippines,Asia,2025-02-21,Civil Unrest,5,1,TR01696,T0008,Acme Logistics,HR
-INC0163,Nigeria,Africa,2025-11-08,Terrorism,5,1,TR00208,T0054,Northstar Energy,HR
-INC0163,Nigeria,Africa,2025-11-08,Terrorism,5,1,TR01940,T0094,Northstar Energy,HR
-INC0164,South Africa,Africa,2025-05-08,Civil Unrest,3,1,TR00943,T0154,Harbourline Engineering,Engineering
-INC0164,South Africa,Africa,2025-05-08,Civil Unrest,3,1,TR01316,T0239,Bluepeak Mining,Sales
-INC0165,Philippines,Asia,2026-02-01,Health Outbreak,2,0,TR01850,T0024,Bluepeak Mining,Engineering
-INC0166,Turkey,Europe,2026-02-23,Health Outbreak,3,1,TR00934,T0287,Acme Logistics,Operations
-INC0166,Turkey,Europe,2026-02-23,Health Outbreak,3,1,TR01236,T0214,Silverleaf Consulting,Engineering
-INC0166,Turkey,Europe,2026-02-23,Health Outbreak,3,1,TR01750,T0248,Northstar Energy,Operations
-INC0167,Philippines,Asia,2025-02-26,Transport Disruption,5,1,TR00745,T0175,Acme Logistics,Logistics
-INC0167,Philippines,Asia,2025-02-26,Transport Disruption,5,1,TR01266,T0085,Northstar Energy,Logistics
-INC0167,Philippines,Asia,2025-02-26,Transport Disruption,5,1,TR01696,T0008,Acme Logistics,HR
-INC0168,Indonesia,Asia,2025-11-03,Crime,4,0,TR00856,T0017,Bluepeak Mining,Operations
-INC0168,Indonesia,Asia,2025-11-03,Crime,4,0,TR01186,T0048,Harbourline Engineering,Logistics
-INC0169,Mexico,Americas,2025-11-09,Terrorism,2,1,TR01217,T0104,Silverleaf Consulting,HR
-INC0171,India,Asia,2025-09-07,Natural Disaster,2,1,TR00030,T0063,Bluepeak Mining,Engineering
-INC0172,Philippines,Asia,2025-05-25,Natural Disaster,4,1,TR01986,T0186,Acme Logistics,Logistics
-INC0173,Philippines,Asia,2025-05-09,Civil Unrest,2,1,TR00741,T0028,Acme Logistics,HR
-INC0173,Philippines,Asia,2025-05-09,Civil Unrest,2,1,TR00805,T0086,Bluepeak Mining,HR
-INC0173,Philippines,Asia,2025-05-09,Civil Unrest,2,1,TR01172,T0170,Harbourline Engineering,Logistics
-INC0174,Kenya,Africa,2025-04-04,Civil Unrest,4,1,TR00204,T0094,Northstar Energy,HR
-INC0175,Kenya,Africa,2026-05-24,Civil Unrest,1,0,TR00922,T0103,Northstar Energy,Logistics
-INC0175,Kenya,Africa,2026-05-24,Civil Unrest,1,0,TR01033,T0110,Acme Logistics,Operations
-INC0176,India,Asia,2025-02-23,Crime,4,1,TR00599,T0113,Silverleaf Consulting,Finance
-INC0176,India,Asia,2025-02-23,Crime,4,1,TR01436,T0075,Harbourline Engineering,Finance
-INC0177,Kenya,Africa,2025-06-05,Health Outbreak,3,1,TR00122,T0153,Acme Logistics,Engineering
-INC0177,Kenya,Africa,2025-06-05,Health Outbreak,3,1,TR00769,T0030,Northstar Energy,Finance
-INC0177,Kenya,Africa,2025-06-05,Health Outbreak,3,1,TR01495,T0183,Acme Logistics,Sales
-INC0178,India,Asia,2026-04-04,Civil Unrest,3,1,TR01621,T0204,Bluepeak Mining,Logistics
-INC0179,Philippines,Asia,2026-02-10,Crime,4,1,TR01727,T0162,Harbourline Engineering,Engineering
-INC0179,Philippines,Asia,2026-02-10,Crime,4,1,TR01766,T0213,Acme Logistics,Finance
-INC0180,Kenya,Africa,2025-01-25,Civil Unrest,2,0,TR01933,T0194,Bluepeak Mining,Operations
-INC0181,Indonesia,Asia,2025-01-20,Transport Disruption,2,0,TR00951,T0065,Acme Logistics,HR
-INC0182,Nigeria,Africa,2026-06-15,Civil Unrest,3,0,TR01267,T0069,Bluepeak Mining,Logistics
-INC0183,Philippines,Asia,2025-12-22,Health Outbreak,4,1,TR01268,T0027,Harbourline Engineering,HR
-INC0183,Philippines,Asia,2025-12-22,Health Outbreak,4,1,TR01862,T0209,Bluepeak Mining,HR
-INC0185,Nigeria,Africa,2025-06-13,Natural Disaster,4,0,TR01567,T0256,Harbourline Engineering,Engineering
-INC0186,Nigeria,Africa,2025-05-05,Civil Unrest,3,0,TR00497,T0202,Harbourline Engineering,Operations
-INC0188,Colombia,Americas,2026-05-22,Transport Disruption,4,0,TR01090,T0263,Acme Logistics,Engineering
-INC0188,Colombia,Americas,2026-05-22,Transport Disruption,4,0,TR01529,T0036,Acme Logistics,Logistics
-INC0189,Colombia,Americas,2025-04-08,Transport Disruption,3,0,TR01102,T0059,Northstar Energy,Finance
-INC0189,Colombia,Americas,2025-04-08,Transport Disruption,3,0,TR01627,T0143,Northstar Energy,Finance
-INC0190,Egypt,Middle East,2025-07-04,Natural Disaster,2,1,TR00546,T0028,Acme Logistics,HR
-INC0190,Egypt,Middle East,2025-07-04,Natural Disaster,2,1,TR01074,T0265,Harbourline Engineering,Finance
-INC0190,Egypt,Middle East,2025-07-04,Natural Disaster,2,1,TR01569,T0196,Acme Logistics,Finance
-INC0190,Egypt,Middle East,2025-07-04,Natural Disaster,2,1,TR01981,T0001,Harbourline Engineering,Sales
-INC0191,South Africa,Africa,2025-04-27,Terrorism,3,0,TR00335,T0223,Northstar Energy,Finance
-INC0193,Nigeria,Africa,2025-12-30,Health Outbreak,5,1,TR00190,T0284,Northstar Energy,Operations
-INC0195,Kenya,Africa,2026-01-25,Civil Unrest,4,1,TR00014,T0170,Harbourline Engineering,Logistics
-INC0198,India,Asia,2026-06-22,Natural Disaster,3,1,TR00984,T0240,Silverleaf Consulting,Engineering
-INC0198,India,Asia,2026-06-22,Natural Disaster,3,1,TR01887,T0118,Silverleaf Consulting,HR
-INC0199,Colombia,Americas,2025-08-26,Natural Disaster,4,1,TR01753,T0067,Silverleaf Consulting,Engineering
-INC0199,Colombia,Americas,2025-08-26,Natural Disaster,4,1,TR01824,T0003,Acme Logistics,Operations
-INC0200,South Africa,Africa,2025-07-20,Civil Unrest,3,0,TR00349,T0166,Harbourline Engineering,HR
-INC0201,Ghana,Africa,2025-01-17,Transport Disruption,2,0,TR00560,T0121,Bluepeak Mining,Finance
-INC0201,Ghana,Africa,2025-01-17,Transport Disruption,2,0,TR01432,T0243,Harbourline Engineering,Engineering
-INC0202,Nigeria,Africa,2026-05-23,Health Outbreak,4,1,TR01296,T0216,Northstar Energy,Operations
-INC0203,Colombia,Americas,2025-10-26,Crime,4,1,TR00161,T0253,Harbourline Engineering,Operations
-INC0204,Brazil,Americas,2025-04-15,Natural Disaster,3,0,TR01686,T0108,Silverleaf Consulting,Logistics
-INC0205,Nigeria,Africa,2025-09-02,Transport Disruption,3,0,TR00191,T0203,Acme Logistics,HR
-INC0208,Brazil,Americas,2026-03-05,Transport Disruption,3,0,TR00661,T0292,Acme Logistics,Engineering
-INC0208,Brazil,Americas,2026-03-05,Transport Disruption,3,0,TR01377,T0284,Northstar Energy,Operations
-INC0211,Egypt,Middle East,2025-11-26,Crime,3,0,TR01424,T0027,Harbourline Engineering,HR
-INC0215,South Africa,Africa,2026-01-16,Transport Disruption,1,0,TR01121,T0263,Acme Logistics,Engineering
-INC0215,South Africa,Africa,2026-01-16,Transport Disruption,1,0,TR01560,T0174,Harbourline Engineering,Engineering
-INC0215,South Africa,Africa,2026-01-16,Transport Disruption,1,0,TR01911,T0122,Acme Logistics,HR
-INC0216,UAE,Middle East,2025-08-17,Transport Disruption,1,1,TR00430,T0115,Northstar Energy,Logistics
-INC0216,UAE,Middle East,2025-08-17,Transport Disruption,1,1,TR00466,T0103,Northstar Energy,Logistics
-INC0216,UAE,Middle East,2025-08-17,Transport Disruption,1,1,TR00476,T0103,Northstar Energy,Logistics
-INC0216,UAE,Middle East,2025-08-17,Transport Disruption,1,1,TR00857,T0184,Acme Logistics,Logistics
-INC0217,United States,Americas,2026-06-08,Natural Disaster,2,0,TR00279,T0269,Harbourline Engineering,Finance
-INC0217,United States,Americas,2026-06-08,Natural Disaster,2,0,TR01032,T0013,Harbourline Engineering,Finance
-INC0217,United States,Americas,2026-06-08,Natural Disaster,2,0,TR01039,T0169,Acme Logistics,Sales
-INC0217,United States,Americas,2026-06-08,Natural Disaster,2,0,TR01729,T0068,Bluepeak Mining,HR
-INC0218,Australia,Oceania,2025-11-26,Transport Disruption,1,0,TR01553,T0048,Harbourline Engineering,Logistics
-INC0220,Egypt,Middle East,2025-08-04,Health Outbreak,2,0,TR00607,T0057,Silverleaf Consulting,Logistics
-INC0221,South Africa,Africa,2025-12-12,Terrorism,2,1,TR00786,T0280,Silverleaf Consulting,Sales
-INC0221,South Africa,Africa,2025-12-12,Terrorism,2,1,TR00862,T0096,Acme Logistics,Logistics
-INC0222,UAE,Middle East,2025-01-17,Terrorism,1,0,TR01407,T0058,Northstar Energy,Logistics
-INC0223,Philippines,Asia,2025-05-01,Civil Unrest,4,1,TR00741,T0028,Acme Logistics,HR
-INC0223,Philippines,Asia,2025-05-01,Civil Unrest,4,1,TR01172,T0170,Harbourline Engineering,Logistics
-INC0223,Philippines,Asia,2025-05-01,Civil Unrest,4,1,TR01958,T0089,Harbourline Engineering,Sales
-INC0224,Colombia,Americas,2026-02-21,Crime,4,1,TR01677,T0219,Acme Logistics,Logistics
-INC0225,Turkey,Europe,2025-12-23,Crime,1,0,TR00147,T0006,Northstar Energy,Engineering
-INC0225,Turkey,Europe,2025-12-23,Crime,1,0,TR00523,T0045,Northstar Energy,Finance
-INC0225,Turkey,Europe,2025-12-23,Crime,1,0,TR01063,T0007,Acme Logistics,HR
-INC0226,Australia,Oceania,2025-11-26,Natural Disaster,1,0,TR01553,T0048,Harbourline Engineering,Logistics
-INC0227,Brazil,Americas,2025-08-17,Civil Unrest,5,1,TR01035,T0213,Acme Logistics,Finance
-INC0227,Brazil,Americas,2025-08-17,Civil Unrest,5,1,TR01320,T0190,Bluepeak Mining,Operations
-INC0227,Brazil,Americas,2025-08-17,Civil Unrest,5,1,TR01384,T0241,Silverleaf Consulting,Operations
-INC0228,Nigeria,Africa,2025-06-18,Health Outbreak,5,1,TR01567,T0256,Harbourline Engineering,Engineering
-INC0229,Mexico,Americas,2025-08-30,Health Outbreak,4,0,TR00187,T0001,Harbourline Engineering,Sales
-INC0230,Colombia,Americas,2025-08-07,Terrorism,3,1,TR00040,T0168,Acme Logistics,Sales
-INC0230,Colombia,Americas,2025-08-07,Terrorism,3,1,TR00482,T0026,Harbourline Engineering,Logistics
-INC0231,Turkey,Europe,2025-05-17,Health Outbreak,1,1,TR01837,T0160,Bluepeak Mining,Finance
-INC0232,Brazil,Americas,2026-05-01,Transport Disruption,3,0,TR00806,T0289,Northstar Energy,Operations
-INC0233,Colombia,Americas,2025-10-14,Natural Disaster,4,1,TR00793,T0163,Bluepeak Mining,Engineering
-INC0233,Colombia,Americas,2025-10-14,Natural Disaster,4,1,TR00860,T0185,Northstar Energy,Sales
-INC0234,Turkey,Europe,2025-07-28,Terrorism,3,1,TR00008,T0100,Northstar Energy,Finance
-INC0234,Turkey,Europe,2025-07-28,Terrorism,3,1,TR00054,T0290,Bluepeak Mining,Engineering
-INC0234,Turkey,Europe,2025-07-28,Terrorism,3,1,TR00871,T0124,Silverleaf Consulting,HR
-INC0234,Turkey,Europe,2025-07-28,Terrorism,3,1,TR01258,T0120,Acme Logistics,Sales
-INC0235,Indonesia,Asia,2025-06-13,Transport Disruption,2,0,TR00350,T0042,Bluepeak Mining,Operations
-INC0235,Indonesia,Asia,2025-06-13,Transport Disruption,2,0,TR00781,T0257,Acme Logistics,Engineering
-INC0235,Indonesia,Asia,2025-06-13,Transport Disruption,2,0,TR01721,T0251,Northstar Energy,Engineering
-INC0236,Colombia,Americas,2026-02-01,Health Outbreak,5,1,TR00975,T0117,Bluepeak Mining,HR
-INC0237,South Africa,Africa,2025-07-24,Health Outbreak,2,0,TR00349,T0166,Harbourline Engineering,HR
-INC0239,Indonesia,Asia,2026-01-15,Terrorism,3,0,TR00445,T0087,Harbourline Engineering,Logistics
-INC0239,Indonesia,Asia,2026-01-15,Terrorism,3,0,TR00552,T0272,Bluepeak Mining,Engineering
-INC0239,Indonesia,Asia,2026-01-15,Terrorism,3,0,TR01225,T0278,Silverleaf Consulting,Engineering
-INC0240,South Africa,Africa,2026-04-02,Natural Disaster,5,1,TR01067,T0270,Harbourline Engineering,Finance
-INC0240,South Africa,Africa,2026-04-02,Natural Disaster,5,1,TR01832,T0251,Northstar Energy,Engineering
-INC0241,Nigeria,Africa,2026-04-27,Crime,5,0,TR01208,T0273,Silverleaf Consulting,Finance
-INC0242,Colombia,Americas,2025-05-25,Transport Disruption,4,0,TR00362,T0030,Northstar Energy,Finance
-INC0243,Brazil,Americas,2025-07-20,Terrorism,3,1,TR01779,T0008,Acme Logistics,HR
-INC0243,Brazil,Americas,2025-07-20,Terrorism,3,1,TR01800,T0217,Northstar Energy,Engineering
-INC0244,Indonesia,Asia,2026-04-30,Health Outbreak,4,1,TR00694,T0048,Harbourline Engineering,Logistics
-INC0244,Indonesia,Asia,2026-04-30,Health Outbreak,4,1,TR00794,T0075,Harbourline Engineering,Finance
-INC0244,Indonesia,Asia,2026-04-30,Health Outbreak,4,1,TR01192,T0195,Acme Logistics,Operations
-INC0244,Indonesia,Asia,2026-04-30,Health Outbreak,4,1,TR01675,T0057,Silverleaf Consulting,Logistics
-INC0246,Nigeria,Africa,2025-05-24,Transport Disruption,5,1,TR00153,T0030,Northstar Energy,Finance
-INC0248,Kenya,Africa,2025-10-04,Natural Disaster,4,1,TR00434,T0277,Acme Logistics,Sales
-INC0248,Kenya,Africa,2025-10-04,Natural Disaster,4,1,TR00667,T0027,Harbourline Engineering,HR
-INC0248,Kenya,Africa,2025-10-04,Natural Disaster,4,1,TR01960,T0109,Northstar Energy,Sales
-INC0249,India,Asia,2025-07-01,Crime,2,0,TR00070,T0059,Northstar Energy,Finance
-INC0249,India,Asia,2025-07-01,Crime,2,0,TR00625,T0146,Northstar Energy,Sales
-INC0250,Philippines,Asia,2025-09-16,Health Outbreak,4,1,TR01724,T0191,Acme Logistics,Operations
-INC0251,Egypt,Middle East,2025-11-10,Transport Disruption,3,0,TR01173,T0012,Acme Logistics,HR
-INC0252,Colombia,Americas,2025-12-16,Crime,4,1,TR00709,T0075,Harbourline Engineering,Finance
-INC0254,Ghana,Africa,2025-10-08,Crime,1,0,TR01050,T0052,Silverleaf Consulting,Sales
-INC0256,Indonesia,Asia,2025-08-22,Terrorism,3,1,TR01792,T0002,Acme Logistics,Engineering
-INC0257,Turkey,Europe,2025-07-19,Health Outbreak,2,1,TR00309,T0046,Harbourline Engineering,Sales
-INC0257,Turkey,Europe,2025-07-19,Health Outbreak,2,1,TR00340,T0164,Acme Logistics,Finance
-INC0257,Turkey,Europe,2025-07-19,Health Outbreak,2,1,TR00606,T0235,Bluepeak Mining,Operations
-INC0257,Turkey,Europe,2025-07-19,Health Outbreak,2,1,TR01132,T0138,Bluepeak Mining,Finance
-INC0259,UAE,Middle East,2025-08-25,Terrorism,1,0,TR00476,T0103,Northstar Energy,Logistics
-INC0261,Brazil,Americas,2025-07-30,Civil Unrest,4,1,TR00592,T0182,Bluepeak Mining,Finance
-INC0261,Brazil,Americas,2025-07-30,Civil Unrest,4,1,TR00811,T0090,Harbourline Engineering,Finance
-INC0262,Philippines,Asia,2025-12-05,Health Outbreak,4,1,TR01030,T0148,Acme Logistics,Operations
-INC0263,Turkey,Europe,2025-02-10,Terrorism,4,1,TR01454,T0042,Bluepeak Mining,Operations
-INC0264,Colombia,Americas,2026-02-02,Crime,4,0,TR00975,T0117,Bluepeak Mining,HR
-INC0266,Brazil,Americas,2025-08-21,Civil Unrest,2,1,TR01320,T0190,Bluepeak Mining,Operations
-INC0266,Brazil,Americas,2025-08-21,Civil Unrest,2,1,TR01384,T0241,Silverleaf Consulting,Operations
-INC0267,Egypt,Middle East,2026-05-01,Transport Disruption,3,0,TR01855,T0214,Silverleaf Consulting,Engineering
-INC0268,Mexico,Americas,2025-02-13,Crime,3,0,TR00438,T0286,Silverleaf Consulting,Logistics
-INC0268,Mexico,Americas,2025-02-13,Crime,3,0,TR00583,T0053,Harbourline Engineering,Engineering
-INC0269,Mexico,Americas,2026-06-09,Terrorism,4,1,TR01828,T0092,Acme Logistics,Sales
-INC0270,Indonesia,Asia,2025-06-02,Terrorism,3,1,TR00262,T0142,Northstar Energy,Sales
-INC0271,Turkey,Europe,2026-03-03,Terrorism,3,1,TR01912,T0198,Bluepeak Mining,HR
-INC0272,South Africa,Africa,2025-11-03,Natural Disaster,2,1,TR00217,T0134,Silverleaf Consulting,Operations
-INC0272,South Africa,Africa,2025-11-03,Natural Disaster,2,1,TR01137,T0056,Bluepeak Mining,Logistics
-INC0273,Indonesia,Asia,2025-07-02,Civil Unrest,2,0,TR00510,T0044,Northstar Energy,Engineering
-INC0274,Nigeria,Africa,2026-03-05,Civil Unrest,4,1,TR00754,T0249,Harbourline Engineering,Engineering
-INC0275,Mexico,Americas,2025-09-11,Transport Disruption,3,0,TR00298,T0146,Northstar Energy,Sales
-INC0275,Mexico,Americas,2025-09-11,Transport Disruption,3,0,TR00384,T0208,Northstar Energy,Logistics
-INC0275,Mexico,Americas,2025-09-11,Transport Disruption,3,0,TR00875,T0125,Acme Logistics,HR
-INC0276,Kenya,Africa,2025-09-25,Natural Disaster,2,0,TR00357,T0284,Northstar Energy,Operations
-INC0276,Kenya,Africa,2025-09-25,Natural Disaster,2,0,TR01960,T0109,Northstar Energy,Sales
-INC0277,Indonesia,Asia,2025-10-23,Natural Disaster,4,0,TR01007,T0139,Bluepeak Mining,Logistics
-INC0277,Indonesia,Asia,2025-10-23,Natural Disaster,4,0,TR01848,T0265,Harbourline Engineering,Finance
-INC0278,Nigeria,Africa,2025-02-12,Civil Unrest,4,1,TR00363,T0110,Acme Logistics,Operations
-INC0278,Nigeria,Africa,2025-02-12,Civil Unrest,4,1,TR01073,T0061,Northstar Energy,Engineering
-INC0280,Brazil,Americas,2025-05-20,Crime,1,0,TR00458,T0298,Acme Logistics,Sales
-INC0280,Brazil,Americas,2025-05-20,Crime,1,0,TR00676,T0185,Northstar Energy,Sales
-INC0281,Indonesia,Asia,2025-01-22,Civil Unrest,2,0,TR00951,T0065,Acme Logistics,HR
-INC0281,Indonesia,Asia,2025-01-22,Civil Unrest,2,0,TR01572,T0115,Northstar Energy,Logistics
-INC0282,France,Europe,2025-02-01,Transport Disruption,1,0,TR01188,T0164,Acme Logistics,Finance
-INC0282,France,Europe,2025-02-01,Transport Disruption,1,0,TR01430,T0185,Northstar Energy,Sales
-INC0283,Ghana,Africa,2025-09-24,Health Outbreak,2,0,TR00855,T0262,Silverleaf Consulting,HR
-INC0284,Mexico,Americas,2026-03-29,Civil Unrest,3,0,TR00939,T0119,Northstar Energy,Sales
-INC0284,Mexico,Americas,2026-03-29,Civil Unrest,3,0,TR01756,T0072,Northstar Energy,Finance
-INC0285,Philippines,Asia,2025-09-26,Crime,4,1,TR01900,T0045,Northstar Energy,Finance
-INC0286,Philippines,Asia,2026-02-09,Civil Unrest,5,1,TR01727,T0162,Harbourline Engineering,Engineering
-INC0287,Jordan,Middle East,2025-06-14,Transport Disruption,2,0,TR00723,T0259,Northstar Energy,HR
-INC0287,Jordan,Middle East,2025-06-14,Transport Disruption,2,0,TR01311,T0187,Silverleaf Consulting,Logistics
-INC0288,Indonesia,Asia,2025-02-13,Health Outbreak,4,1,TR00598,T0103,Northstar Energy,Logistics
-INC0289,Brazil,Americas,2025-07-11,Natural Disaster,4,0,TR00130,T0006,Northstar Energy,Engineering
-INC0290,Colombia,Americas,2025-11-10,Natural Disaster,4,0,TR00449,T0141,Bluepeak Mining,Operations
-INC0292,Philippines,Asia,2025-04-04,Natural Disaster,3,1,TR00145,T0079,Harbourline Engineering,Logistics
-INC0292,Philippines,Asia,2025-04-04,Natural Disaster,3,1,TR01387,T0140,Acme Logistics,Sales
-INC0293,South Africa,Africa,2025-06-03,Civil Unrest,3,0,TR01238,T0073,Northstar Energy,Operations
-INC0293,South Africa,Africa,2025-06-03,Civil Unrest,3,0,TR01587,T0297,Acme Logistics,HR
-INC0295,Brazil,Americas,2025-12-15,Civil Unrest,3,1,TR00459,T0229,Acme Logistics,Finance
-INC0295,Brazil,Americas,2025-12-15,Civil Unrest,3,1,TR00901,T0173,Harbourline Engineering,Operations
-INC0295,Brazil,Americas,2025-12-15,Civil Unrest,3,1,TR01180,T0131,Silverleaf Consulting,Sales
-INC0298,Philippines,Asia,2026-02-28,Terrorism,4,1,TR00612,T0108,Silverleaf Consulting,Logistics
-INC0300,Nigeria,Africa,2026-06-26,Health Outbreak,4,1,TR00138,T0201,Acme Logistics,Finance
-INC0300,Nigeria,Africa,2026-06-26,Health Outbreak,4,1,TR01816,T0187,Silverleaf Consulting,Logistics
-INC0301,Colombia,Americas,2026-06-10,Natural Disaster,5,1,TR00257,T0300,Bluepeak Mining,Logistics
-INC0301,Colombia,Americas,2026-06-10,Natural Disaster,5,1,TR00498,T0068,Bluepeak Mining,HR
-INC0302,South Africa,Africa,2026-06-06,Natural Disaster,3,0,TR00958,T0265,Harbourline Engineering,Finance
-INC0302,South Africa,Africa,2026-06-06,Natural Disaster,3,0,TR01027,T0081,Bluepeak Mining,Operations
-INC0302,South Africa,Africa,2026-06-06,Natural Disaster,3,0,TR01889,T0029,Bluepeak Mining,Operations
-INC0303,Indonesia,Asia,2026-05-06,Transport Disruption,2,0,TR00694,T0048,Harbourline Engineering,Logistics
-INC0303,Indonesia,Asia,2026-05-06,Transport Disruption,2,0,TR01192,T0195,Acme Logistics,Operations
-INC0304,Philippines,Asia,2026-05-04,Natural Disaster,3,1,TR00035,T0230,Northstar Energy,Operations
-INC0304,Philippines,Asia,2026-05-04,Natural Disaster,3,1,TR01408,T0261,Acme Logistics,Logistics
-INC0304,Philippines,Asia,2026-05-04,Natural Disaster,3,1,TR01701,T0016,Acme Logistics,HR
-INC0306,Ghana,Africa,2025-04-14,Transport Disruption,2,0,TR00825,T0238,Northstar Energy,Operations
-INC0306,Ghana,Africa,2025-04-14,Transport Disruption,2,0,TR01193,T0232,Harbourline Engineering,Logistics
-INC0306,Ghana,Africa,2025-04-14,Transport Disruption,2,0,TR01693,T0115,Northstar Energy,Logistics
-INC0307,Colombia,Americas,2026-04-17,Natural Disaster,3,1,TR00060,T0243,Harbourline Engineering,Engineering
-INC0307,Colombia,Americas,2026-04-17,Natural Disaster,3,1,TR00134,T0095,Acme Logistics,Finance
-INC0310,India,Asia,2026-01-07,Natural Disaster,1,0,TR01668,T0122,Acme Logistics,HR
-INC0311,Nigeria,Africa,2025-11-28,Terrorism,5,1,TR00439,T0001,Harbourline Engineering,Sales
-INC0312,Colombia,Americas,2025-03-03,Terrorism,4,1,TR01646,T0142,Northstar Energy,Sales
-INC0312,Colombia,Americas,2025-03-03,Terrorism,4,1,TR01673,T0179,Northstar Energy,HR
-INC0314,Colombia,Americas,2025-05-25,Civil Unrest,5,1,TR00362,T0030,Northstar Energy,Finance
-INC0315,Nigeria,Africa,2025-10-06,Health Outbreak,3,1,TR01404,T0004,Acme Logistics,HR
-INC0315,Nigeria,Africa,2025-10-06,Health Outbreak,3,1,TR01528,T0270,Harbourline Engineering,Finance
-INC0315,Nigeria,Africa,2025-10-06,Health Outbreak,3,1,TR01545,T0145,Silverleaf Consulting,Finance
-INC0316,India,Asia,2026-04-13,Transport Disruption,3,0,TR01621,T0204,Bluepeak Mining,Logistics
-INC0318,Colombia,Americas,2025-05-09,Health Outbreak,5,1,TR01008,T0001,Harbourline Engineering,Sales
-INC0318,Colombia,Americas,2025-05-09,Health Outbreak,5,1,TR01161,T0292,Acme Logistics,Engineering
-INC0320,Colombia,Americas,2025-04-09,Natural Disaster,4,1,TR01102,T0059,Northstar Energy,Finance
-INC0320,Colombia,Americas,2025-04-09,Natural Disaster,4,1,TR01627,T0143,Northstar Energy,Finance
-INC0322,Kenya,Africa,2025-08-01,Crime,5,1,TR00132,T0295,Bluepeak Mining,Sales
-INC0324,Jordan,Middle East,2025-08-16,Crime,4,0,TR00956,T0143,Northstar Energy,Finance
-INC0325,Philippines,Asia,2025-09-23,Civil Unrest,4,1,TR01900,T0045,Northstar Energy,Finance
-INC0329,Turkey,Europe,2025-04-02,Health Outbreak,5,1,TR00701,T0264,Northstar Energy,HR
-INC0331,South Africa,Africa,2026-05-31,Crime,3,1,TR01027,T0081,Bluepeak Mining,Operations
-INC0331,South Africa,Africa,2026-05-31,Crime,3,1,TR01248,T0229,Acme Logistics,Finance
-INC0332,Colombia,Americas,2025-11-30,Natural Disaster,2,1,TR01213,T0266,Silverleaf Consulting,Sales
-INC0333,Brazil,Americas,2025-12-17,Health Outbreak,2,1,TR00459,T0229,Acme Logistics,Finance
-INC0333,Brazil,Americas,2025-12-17,Health Outbreak,2,1,TR00557,T0173,Harbourline Engineering,Operations
-INC0333,Brazil,Americas,2025-12-17,Health Outbreak,2,1,TR00901,T0173,Harbourline Engineering,Operations
-INC0334,Mexico,Americas,2025-03-26,Civil Unrest,4,1,TR00940,T0152,Acme Logistics,Engineering
-INC0335,India,Asia,2026-03-03,Transport Disruption,2,1,TR01446,T0238,Northstar Energy,Operations
-INC0336,United States,Americas,2025-06-07,Transport Disruption,2,0,TR01762,T0160,Bluepeak Mining,Finance
-INC0337,Mexico,Americas,2026-04-19,Crime,2,1,TR01146,T0023,Harbourline Engineering,Sales
-INC0337,Mexico,Americas,2026-04-19,Crime,2,1,TR01218,T0119,Northstar Energy,Sales
-INC0337,Mexico,Americas,2026-04-19,Crime,2,1,TR01310,T0216,Northstar Energy,Operations
-INC0338,Colombia,Americas,2025-05-21,Terrorism,5,1,TR00362,T0030,Northstar Energy,Finance
-INC0340,South Africa,Africa,2025-11-16,Terrorism,4,1,TR00272,T0224,Northstar Energy,Logistics
-INC0341,Mexico,Americas,2025-12-14,Health Outbreak,2,0,TR00495,T0127,Acme Logistics,Engineering
-INC0343,Indonesia,Asia,2025-08-31,Crime,3,0,TR00746,T0265,Harbourline Engineering,Finance
-INC0343,Indonesia,Asia,2025-08-31,Crime,3,0,TR01583,T0005,Acme Logistics,Engineering
-INC0344,Jordan,Middle East,2026-05-15,Transport Disruption,2,0,TR01046,T0207,Bluepeak Mining,Engineering
-INC0344,Jordan,Middle East,2026-05-15,Transport Disruption,2,0,TR01815,T0047,Silverleaf Consulting,Operations
-INC0345,Turkey,Europe,2025-12-18,Terrorism,2,1,TR00523,T0045,Northstar Energy,Finance
-INC0345,Turkey,Europe,2025-12-18,Terrorism,2,1,TR01063,T0007,Acme Logistics,HR
-INC0346,Indonesia,Asia,2025-12-15,Natural Disaster,3,1,TR00185,T0008,Acme Logistics,HR
-INC0346,Indonesia,Asia,2025-12-15,Natural Disaster,3,1,TR00524,T0219,Acme Logistics,Logistics
-INC0346,Indonesia,Asia,2025-12-15,Natural Disaster,3,1,TR00981,T0100,Northstar Energy,Finance
-INC0346,Indonesia,Asia,2025-12-15,Natural Disaster,3,1,TR01120,T0140,Acme Logistics,Sales
-INC0346,Indonesia,Asia,2025-12-15,Natural Disaster,3,1,TR01421,T0167,Acme Logistics,HR
-INC0346,Indonesia,Asia,2025-12-15,Natural Disaster,3,1,TR01503,T0118,Silverleaf Consulting,HR
-INC0346,Indonesia,Asia,2025-12-15,Natural Disaster,3,1,TR01648,T0237,Northstar Energy,Engineering
-INC0346,Indonesia,Asia,2025-12-15,Natural Disaster,3,1,TR01797,T0199,Acme Logistics,Operations
-INC0347,Philippines,Asia,2025-08-18,Crime,4,0,TR01595,T0156,Harbourline Engineering,Finance
-INC0348,Mexico,Americas,2025-03-23,Transport Disruption,3,0,TR00940,T0152,Acme Logistics,Engineering
-INC0349,Philippines,Asia,2026-04-03,Crime,5,1,TR00949,T0156,Harbourline Engineering,Finance
-INC0349,Philippines,Asia,2026-04-03,Crime,5,1,TR01390,T0093,Bluepeak Mining,Operations
-INC0350,Colombia,Americas,2025-09-24,Transport Disruption,5,1,TR01285,T0280,Silverleaf Consulting,Sales
-INC0350,Colombia,Americas,2025-09-24,Transport Disruption,5,1,TR01662,T0006,Northstar Energy,Engineering
-INC0352,United States,Americas,2025-05-16,Terrorism,1,1,TR01023,T0215,Silverleaf Consulting,Logistics
-INC0352,United States,Americas,2025-05-16,Terrorism,1,1,TR01869,T0273,Silverleaf Consulting,Finance
-INC0352,United States,Americas,2025-05-16,Terrorism,1,1,TR01896,T0289,Northstar Energy,Operations
-INC0352,United States,Americas,2025-05-16,Terrorism,1,1,TR01908,T0094,Northstar Energy,HR
-INC0353,Ghana,Africa,2026-01-25,Transport Disruption,1,0,TR01054,T0006,Northstar Energy,Engineering
-INC0353,Ghana,Africa,2026-01-25,Transport Disruption,1,0,TR01365,T0103,Northstar Energy,Logistics
-INC0353,Ghana,Africa,2026-01-25,Transport Disruption,1,0,TR01661,T0269,Harbourline Engineering,Finance
-INC0356,South Africa,Africa,2025-07-07,Transport Disruption,5,0,TR00316,T0292,Acme Logistics,Engineering
-INC0356,South Africa,Africa,2025-07-07,Transport Disruption,5,0,TR01711,T0022,Silverleaf Consulting,Finance
-INC0357,Indonesia,Asia,2025-04-17,Crime,4,0,TR01509,T0127,Acme Logistics,Engineering
-INC0358,Colombia,Americas,2026-05-28,Terrorism,4,1,TR01089,T0022,Silverleaf Consulting,Finance
-INC0359,Colombia,Americas,2025-02-03,Natural Disaster,3,1,TR00180,T0041,Acme Logistics,Finance
-INC0359,Colombia,Americas,2025-02-03,Natural Disaster,3,1,TR01478,T0100,Northstar Energy,Finance
-INC0359,Colombia,Americas,2025-02-03,Natural Disaster,3,1,TR01757,T0137,Northstar Energy,Operations
-INC0362,Brazil,Americas,2025-02-07,Crime,3,0,TR00006,T0216,Northstar Energy,Operations
-INC0363,Colombia,Americas,2025-04-25,Health Outbreak,5,1,TR01378,T0096,Acme Logistics,Logistics
-INC0365,South Africa,Africa,2025-02-16,Crime,4,1,TR01010,T0236,Northstar Energy,Engineering
-INC0366,United States,Americas,2025-09-02,Health Outbreak,3,1,TR01105,T0230,Northstar Energy,Operations
-INC0367,Egypt,Middle East,2026-04-17,Natural Disaster,3,1,TR01048,T0069,Bluepeak Mining,Logistics
-INC0367,Egypt,Middle East,2026-04-17,Natural Disaster,3,1,TR01078,T0115,Northstar Energy,Logistics
-INC0367,Egypt,Middle East,2026-04-17,Natural Disaster,3,1,TR01847,T0227,Harbourline Engineering,Operations
-INC0368,Mexico,Americas,2025-07-07,Terrorism,5,1,TR01776,T0024,Bluepeak Mining,Engineering
-INC0369,Kenya,Africa,2026-01-27,Health Outbreak,1,0,TR00014,T0170,Harbourline Engineering,Logistics
-INC0369,Kenya,Africa,2026-01-27,Health Outbreak,1,0,TR00136,T0039,Harbourline Engineering,Engineering
-INC0369,Kenya,Africa,2026-01-27,Health Outbreak,1,0,TR01682,T0149,Northstar Energy,Finance
-INC0370,Philippines,Asia,2025-02-19,Civil Unrest,3,1,TR00021,T0163,Bluepeak Mining,Engineering
-INC0370,Philippines,Asia,2025-02-19,Civil Unrest,3,1,TR01084,T0270,Harbourline Engineering,Finance
-INC0370,Philippines,Asia,2025-02-19,Civil Unrest,3,1,TR01696,T0008,Acme Logistics,HR
-INC0370,Philippines,Asia,2025-02-19,Civil Unrest,3,1,TR01805,T0294,Bluepeak Mining,Engineering
-INC0371,Colombia,Americas,2025-10-09,Natural Disaster,5,1,TR00860,T0185,Northstar Energy,Sales
-INC0373,Kenya,Africa,2026-05-21,Transport Disruption,4,0,TR00922,T0103,Northstar Energy,Logistics
-INC0374,United States,Americas,2025-01-09,Transport Disruption,1,0,TR00076,T0077,Silverleaf Consulting,Operations
-INC0374,United States,Americas,2025-01-09,Transport Disruption,1,0,TR00223,T0270,Harbourline Engineering,Finance
-INC0375,Indonesia,Asia,2025-05-31,Terrorism,5,0,TR00262,T0142,Northstar Energy,Sales
-INC0379,Kenya,Africa,2026-06-01,Crime,1,0,TR00247,T0072,Northstar Energy,Finance
-INC0379,Kenya,Africa,2026-06-01,Crime,1,0,TR01806,T0012,Acme Logistics,HR
-INC0381,South Africa,Africa,2025-03-12,Civil Unrest,3,1,TR00462,T0070,Harbourline Engineering,HR
-INC0381,South Africa,Africa,2025-03-12,Civil Unrest,3,1,TR01524,T0072,Northstar Energy,Finance
-INC0381,South Africa,Africa,2025-03-12,Civil Unrest,3,1,TR01802,T0256,Harbourline Engineering,Engineering
-INC0382,France,Europe,2025-08-18,Health Outbreak,2,0,TR00314,T0208,Northstar Energy,Logistics
-INC0382,France,Europe,2025-08-18,Health Outbreak,2,0,TR00589,T0195,Acme Logistics,Operations
-INC0382,France,Europe,2025-08-18,Health Outbreak,2,0,TR01323,T0175,Acme Logistics,Logistics
-INC0384,India,Asia,2026-02-11,Crime,4,1,TR00531,T0260,Bluepeak Mining,Operations
-INC0385,Egypt,Middle East,2025-09-08,Natural Disaster,3,1,TR00595,T0242,Bluepeak Mining,HR
-INC0386,Philippines,Asia,2025-05-10,Natural Disaster,4,1,TR00741,T0028,Acme Logistics,HR
-INC0386,Philippines,Asia,2025-05-10,Natural Disaster,4,1,TR00805,T0086,Bluepeak Mining,HR
-INC0386,Philippines,Asia,2025-05-10,Natural Disaster,4,1,TR01172,T0170,Harbourline Engineering,Logistics
-INC0389,Indonesia,Asia,2026-02-02,Health Outbreak,3,1,TR00023,T0221,Bluepeak Mining,Logistics
-INC0389,Indonesia,Asia,2026-02-02,Health Outbreak,3,1,TR00435,T0210,Silverleaf Consulting,Engineering
-INC0389,Indonesia,Asia,2026-02-02,Health Outbreak,3,1,TR01275,T0018,Silverleaf Consulting,Logistics
-INC0391,Colombia,Americas,2025-05-15,Civil Unrest,4,1,TR01161,T0292,Acme Logistics,Engineering
-INC0392,Indonesia,Asia,2025-10-03,Terrorism,3,1,TR00249,T0278,Silverleaf Consulting,Engineering
-INC0392,Indonesia,Asia,2025-10-03,Terrorism,3,1,TR01247,T0224,Northstar Energy,Logistics
-INC0395,South Africa,Africa,2025-10-16,Civil Unrest,1,0,TR00067,T0131,Silverleaf Consulting,Sales
-INC0395,South Africa,Africa,2025-10-16,Civil Unrest,1,0,TR01789,T0226,Acme Logistics,HR
-INC0395,South Africa,Africa,2025-10-16,Civil Unrest,1,0,TR01944,T0031,Acme Logistics,HR
-INC0396,Philippines,Asia,2025-09-19,Civil Unrest,3,1,TR01085,T0211,Bluepeak Mining,Engineering
-INC0396,Philippines,Asia,2025-09-19,Civil Unrest,3,1,TR01900,T0045,Northstar Energy,Finance
-INC0399,Indonesia,Asia,2026-02-12,Civil Unrest,3,1,TR00023,T0221,Bluepeak Mining,Logistics
-INC0399,Indonesia,Asia,2026-02-12,Civil Unrest,3,1,TR00435,T0210,Silverleaf Consulting,Engineering
-INC0400,South Africa,Africa,2025-06-15,Health Outbreak,3,1,TR00155,T0289,Northstar Energy,Operations
-INC0400,South Africa,Africa,2025-06-15,Health Outbreak,3,1,TR00481,T0106,Silverleaf Consulting,Sales
-INC0402,Brazil,Americas,2025-02-10,Crime,5,0,TR00006,T0216,Northstar Energy,Operations
-INC0403,Ghana,Africa,2025-08-29,Transport Disruption,2,0,TR00493,T0017,Bluepeak Mining,Operations
-INC0403,Ghana,Africa,2025-08-29,Transport Disruption,2,0,TR00675,T0107,Acme Logistics,Logistics
-INC0403,Ghana,Africa,2025-08-29,Transport Disruption,2,0,TR01817,T0119,Northstar Energy,Sales
-INC0404,Kenya,Africa,2025-03-19,Terrorism,2,1,TR00575,T0069,Bluepeak Mining,Logistics
-INC0404,Kenya,Africa,2025-03-19,Terrorism,2,1,TR01250,T0225,Acme Logistics,HR
-INC0405,Philippines,Asia,2026-01-29,Terrorism,4,1,TR00536,T0031,Acme Logistics,HR
-INC0405,Philippines,Asia,2026-01-29,Terrorism,4,1,TR01850,T0024,Bluepeak Mining,Engineering
-INC0408,France,Europe,2025-02-20,Health Outbreak,2,1,TR00088,T0276,Silverleaf Consulting,Sales
-INC0408,France,Europe,2025-02-20,Health Outbreak,2,1,TR00099,T0024,Bluepeak Mining,Engineering
-INC0408,France,Europe,2025-02-20,Health Outbreak,2,1,TR00165,T0004,Acme Logistics,HR
-INC0408,France,Europe,2025-02-20,Health Outbreak,2,1,TR00456,T0188,Silverleaf Consulting,Sales
-INC0408,France,Europe,2025-02-20,Health Outbreak,2,1,TR01552,T0152,Acme Logistics,Engineering
-INC0409,Nigeria,Africa,2025-11-27,Natural Disaster,3,1,TR00439,T0001,Harbourline Engineering,Sales
-INC0413,Philippines,Asia,2025-09-15,Natural Disaster,4,0,TR01724,T0191,Acme Logistics,Operations
-INC0415,India,Asia,2026-03-06,Terrorism,3,1,TR01446,T0238,Northstar Energy,Operations
-INC0417,United States,Americas,2025-09-18,Health Outbreak,2,1,TR00586,T0182,Bluepeak Mining,Finance
-INC0417,United States,Americas,2025-09-18,Health Outbreak,2,1,TR00960,T0263,Acme Logistics,Engineering
-INC0417,United States,Americas,2025-09-18,Health Outbreak,2,1,TR01176,T0274,Bluepeak Mining,Finance
-INC0417,United States,Americas,2025-09-18,Health Outbreak,2,1,TR01481,T0240,Silverleaf Consulting,Engineering
-INC0417,United States,Americas,2025-09-18,Health Outbreak,2,1,TR01984,T0012,Acme Logistics,HR
-INC0418,Nigeria,Africa,2025-11-24,Crime,5,1,TR00439,T0001,Harbourline Engineering,Sales
-INC0420,Mexico,Americas,2026-05-23,Transport Disruption,1,0,TR00419,T0083,Harbourline Engineering,Logistics
-INC0420,Mexico,Americas,2026-05-23,Transport Disruption,1,0,TR01562,T0246,Acme Logistics,Finance
-INC0422,Mexico,Americas,2025-07-20,Health Outbreak,4,0,TR00715,T0263,Acme Logistics,Engineering
-INC0423,Brazil,Americas,2025-01-18,Civil Unrest,1,0,TR00366,T0123,Harbourline Engineering,Logistics
-INC0423,Brazil,Americas,2025-01-18,Civil Unrest,1,0,TR00733,T0107,Acme Logistics,Logistics
-INC0424,Mexico,Americas,2025-07-20,Transport Disruption,3,0,TR00715,T0263,Acme Logistics,Engineering
-INC0427,Australia,Oceania,2025-02-23,Terrorism,1,0,TR00726,T0281,Northstar Energy,Finance
-INC0429,Brazil,Americas,2026-03-15,Transport Disruption,3,1,TR00169,T0007,Acme Logistics,HR
-INC0429,Brazil,Americas,2026-03-15,Transport Disruption,3,1,TR01135,T0022,Silverleaf Consulting,Finance
-INC0430,Indonesia,Asia,2025-01-23,Terrorism,1,0,TR00951,T0065,Acme Logistics,HR
-INC0430,Indonesia,Asia,2025-01-23,Terrorism,1,0,TR01572,T0115,Northstar Energy,Logistics
-INC0432,Kenya,Africa,2026-02-01,Natural Disaster,3,1,TR00014,T0170,Harbourline Engineering,Logistics
-INC0432,Kenya,Africa,2026-02-01,Natural Disaster,3,1,TR00136,T0039,Harbourline Engineering,Engineering
-INC0432,Kenya,Africa,2026-02-01,Natural Disaster,3,1,TR00213,T0039,Harbourline Engineering,Engineering
-INC0432,Kenya,Africa,2026-02-01,Natural Disaster,3,1,TR01573,T0200,Bluepeak Mining,Finance
-INC0432,Kenya,Africa,2026-02-01,Natural Disaster,3,1,TR01682,T0149,Northstar Energy,Finance
-INC0432,Kenya,Africa,2026-02-01,Natural Disaster,3,1,TR01809,T0156,Harbourline Engineering,Finance
-INC0433,Nigeria,Africa,2025-02-05,Transport Disruption,5,1,TR01679,T0208,Northstar Energy,Logistics
-INC0434,Colombia,Americas,2025-05-21,Transport Disruption,5,1,TR00362,T0030,Northstar Energy,Finance
-INC0435,Colombia,Americas,2025-02-01,Terrorism,5,1,TR01478,T0100,Northstar Energy,Finance
-INC0435,Colombia,Americas,2025-02-01,Terrorism,5,1,TR01757,T0137,Northstar Energy,Operations
-INC0437,Jordan,Middle East,2026-04-20,Health Outbreak,2,1,TR00168,T0052,Silverleaf Consulting,Sales
-INC0438,Indonesia,Asia,2025-07-18,Civil Unrest,5,1,TR00691,T0287,Acme Logistics,Operations
-INC0438,Indonesia,Asia,2025-07-18,Civil Unrest,5,1,TR01639,T0125,Acme Logistics,HR
-INC0438,Indonesia,Asia,2025-07-18,Civil Unrest,5,1,TR01920,T0084,Silverleaf Consulting,Sales
-INC0440,Philippines,Asia,2025-09-15,Transport Disruption,5,0,TR01724,T0191,Acme Logistics,Operations
-INC0441,Colombia,Americas,2025-05-23,Crime,5,1,TR00362,T0030,Northstar Energy,Finance
-INC0444,Kenya,Africa,2026-05-15,Health Outbreak,3,1,TR00828,T0026,Harbourline Engineering,Logistics
-INC0444,Kenya,Africa,2026-05-15,Health Outbreak,3,1,TR00922,T0103,Northstar Energy,Logistics
-INC0444,Kenya,Africa,2026-05-15,Health Outbreak,3,1,TR01510,T0063,Bluepeak Mining,Engineering
-INC0445,Nigeria,Africa,2025-11-28,Transport Disruption,5,0,TR00439,T0001,Harbourline Engineering,Sales
-INC0446,Nigeria,Africa,2025-08-30,Civil Unrest,3,1,TR00191,T0203,Acme Logistics,HR
-INC0451,UAE,Middle East,2025-11-02,Transport Disruption,2,0,TR00714,T0104,Silverleaf Consulting,HR
-INC0451,UAE,Middle East,2025-11-02,Transport Disruption,2,0,TR01002,T0165,Harbourline Engineering,HR
-INC0452,Mexico,Americas,2025-01-26,Transport Disruption,4,0,TR01293,T0154,Harbourline Engineering,Engineering
-INC0455,UAE,Middle East,2025-04-30,Health Outbreak,1,0,TR00496,T0036,Acme Logistics,Logistics
-INC0455,UAE,Middle East,2025-04-30,Health Outbreak,1,0,TR00629,T0262,Silverleaf Consulting,HR
-INC0455,UAE,Middle East,2025-04-30,Health Outbreak,1,0,TR01839,T0248,Northstar Energy,Operations
-INC0456,Philippines,Asia,2025-09-15,Natural Disaster,5,1,TR01724,T0191,Acme Logistics,Operations
-INC0457,Australia,Oceania,2025-02-25,Crime,1,0,TR00726,T0281,Northstar Energy,Finance
-INC0458,Brazil,Americas,2025-12-30,Transport Disruption,4,1,TR00260,T0265,Harbourline Engineering,Finance
-INC0458,Brazil,Americas,2025-12-30,Transport Disruption,4,1,TR01053,T0294,Bluepeak Mining,Engineering
-INC0458,Brazil,Americas,2025-12-30,Transport Disruption,4,1,TR01689,T0201,Acme Logistics,Finance
-INC0460,Germany,Europe,2026-01-28,Health Outbreak,2,0,TR01608,T0052,Silverleaf Consulting,Sales
-INC0460,Germany,Europe,2026-01-28,Health Outbreak,2,0,TR01918,T0255,Acme Logistics,Operations
-INC0461,Kenya,Africa,2025-03-27,Health Outbreak,3,0,TR01181,T0235,Bluepeak Mining,Operations
-INC0461,Kenya,Africa,2025-03-27,Health Outbreak,3,0,TR01717,T0281,Northstar Energy,Finance
-INC0462,Mexico,Americas,2025-05-28,Transport Disruption,2,0,TR00222,T0260,Bluepeak Mining,Operations
-INC0463,India,Asia,2025-08-30,Civil Unrest,2,1,TR00030,T0063,Bluepeak Mining,Engineering
-INC0465,South Africa,Africa,2025-06-22,Terrorism,2,1,TR00155,T0289,Northstar Energy,Operations
-INC0465,South Africa,Africa,2025-06-22,Terrorism,2,1,TR00602,T0055,Silverleaf Consulting,HR
-INC0465,South Africa,Africa,2025-06-22,Terrorism,2,1,TR01263,T0294,Bluepeak Mining,Engineering
-INC0467,Kenya,Africa,2026-03-18,Natural Disaster,5,1,TR01735,T0209,Bluepeak Mining,HR
-INC0469,Brazil,Americas,2025-05-03,Civil Unrest,3,1,TR00365,T0087,Harbourline Engineering,Logistics
-INC0472,Egypt,Middle East,2026-01-04,Natural Disaster,3,1,TR00083,T0228,Silverleaf Consulting,HR
-INC0472,Egypt,Middle East,2026-01-04,Natural Disaster,3,1,TR00827,T0245,Northstar Energy,Engineering
-INC0473,Philippines,Asia,2025-03-04,Transport Disruption,5,0,TR00826,T0122,Acme Logistics,HR
-INC0473,Philippines,Asia,2025-03-04,Transport Disruption,5,0,TR00840,T0135,Bluepeak Mining,Finance
-INC0474,Mexico,Americas,2026-02-24,Transport Disruption,3,1,TR00468,T0075,Harbourline Engineering,Finance
-INC0474,Mexico,Americas,2026-02-24,Transport Disruption,3,1,TR00752,T0156,Harbourline Engineering,Finance
-INC0474,Mexico,Americas,2026-02-24,Transport Disruption,3,1,TR01138,T0152,Acme Logistics,Engineering
-INC0475,Mexico,Americas,2025-11-24,Civil Unrest,3,0,TR00485,T0079,Harbourline Engineering,Logistics
-INC0477,Mexico,Americas,2026-02-27,Transport Disruption,2,0,TR00468,T0075,Harbourline Engineering,Finance
-INC0477,Mexico,Americas,2026-02-27,Transport Disruption,2,0,TR00526,T0075,Harbourline Engineering,Finance
-INC0477,Mexico,Americas,2026-02-27,Transport Disruption,2,0,TR00752,T0156,Harbourline Engineering,Finance
-INC0477,Mexico,Americas,2026-02-27,Transport Disruption,2,0,TR00919,T0077,Silverleaf Consulting,Operations
-INC0477,Mexico,Americas,2026-02-27,Transport Disruption,2,0,TR01138,T0152,Acme Logistics,Engineering
-INC0477,Mexico,Americas,2026-02-27,Transport Disruption,2,0,TR01449,T0004,Acme Logistics,HR
-INC0479,Philippines,Asia,2026-04-04,Terrorism,4,0,TR00949,T0156,Harbourline Engineering,Finance
-INC0479,Philippines,Asia,2026-04-04,Terrorism,4,0,TR01390,T0093,Bluepeak Mining,Operations
-INC0481,Mexico,Americas,2025-10-13,Transport Disruption,3,0,TR00970,T0171,Silverleaf Consulting,Sales
-INC0481,Mexico,Americas,2025-10-13,Transport Disruption,3,0,TR01145,T0178,Acme Logistics,Logistics
-INC0482,Colombia,Americas,2026-03-24,Health Outbreak,4,0,TR01371,T0023,Harbourline Engineering,Sales
-INC0484,United States,Americas,2025-01-10,Civil Unrest,1,0,TR00076,T0077,Silverleaf Consulting,Operations
-INC0484,United States,Americas,2025-01-10,Civil Unrest,1,0,TR00223,T0270,Harbourline Engineering,Finance
-INC0486,Brazil,Americas,2025-01-06,Crime,2,1,TR01886,T0108,Silverleaf Consulting,Logistics
-INC0487,Nigeria,Africa,2025-07-10,Crime,3,0,TR01381,T0104,Silverleaf Consulting,HR
-INC0489,Mexico,Americas,2026-04-24,Natural Disaster,3,1,TR01096,T0022,Silverleaf Consulting,Finance
-INC0489,Mexico,Americas,2026-04-24,Natural Disaster,3,1,TR01310,T0216,Northstar Energy,Operations
-INC0492,Philippines,Asia,2025-08-13,Terrorism,3,1,TR01245,T0226,Acme Logistics,HR
-INC0493,Nigeria,Africa,2025-01-25,Terrorism,5,1,TR00059,T0251,Northstar Energy,Engineering
-INC0494,Indonesia,Asia,2026-06-19,Health Outbreak,3,0,TR00764,T0273,Silverleaf Consulting,Finance
-INC0495,Kenya,Africa,2025-09-26,Transport Disruption,4,0,TR00357,T0284,Northstar Energy,Operations
-INC0495,Kenya,Africa,2025-09-26,Transport Disruption,4,0,TR01960,T0109,Northstar Energy,Sales
-INC0497,Kenya,Africa,2026-01-29,Terrorism,4,1,TR00014,T0170,Harbourline Engineering,Logistics
-INC0497,Kenya,Africa,2026-01-29,Terrorism,4,1,TR00136,T0039,Harbourline Engineering,Engineering
-INC0497,Kenya,Africa,2026-01-29,Terrorism,4,1,TR01682,T0149,Northstar Energy,Finance
-INC0499,Indonesia,Asia,2026-02-01,Health Outbreak,2,1,TR00023,T0221,Bluepeak Mining,Logistics
-INC0499,Indonesia,Asia,2026-02-01,Health Outbreak,2,1,TR00435,T0210,Silverleaf Consulting,Engineering
-INC0504,Germany,Europe,2025-12-01,Terrorism,1,0,TR01488,T0006,Northstar Energy,Engineering
-INC0506,Australia,Oceania,2026-03-28,Terrorism,1,0,TR00182,T0075,Harbourline Engineering,Finance
-INC0506,Australia,Oceania,2026-03-28,Terrorism,1,0,TR00317,T0179,Northstar Energy,HR
-INC0506,Australia,Oceania,2026-03-28,Terrorism,1,0,TR01013,T0168,Acme Logistics,Sales
-INC0507,Japan,Asia,2025-08-09,Natural Disaster,1,0,TR00659,T0099,Harbourline Engineering,Engineering
-INC0507,Japan,Asia,2025-08-09,Natural Disaster,1,0,TR01450,T0151,Silverleaf Consulting,Operations
-INC0508,Ghana,Africa,2025-09-26,Civil Unrest,4,1,TR00324,T0121,Bluepeak Mining,Finance
-INC0508,Ghana,Africa,2025-09-26,Civil Unrest,4,1,TR01787,T0038,Harbourline Engineering,Logistics
-INC0509,Egypt,Middle East,2025-05-23,Crime,3,1,TR00303,T0226,Acme Logistics,HR
-INC0509,Egypt,Middle East,2025-05-23,Crime,3,1,TR00364,T0045,Northstar Energy,Finance
-INC0510,Turkey,Europe,2025-07-17,Natural Disaster,3,1,TR00309,T0046,Harbourline Engineering,Sales
-INC0510,Turkey,Europe,2025-07-17,Natural Disaster,3,1,TR00340,T0164,Acme Logistics,Finance
-INC0510,Turkey,Europe,2025-07-17,Natural Disaster,3,1,TR00606,T0235,Bluepeak Mining,Operations
-INC0510,Turkey,Europe,2025-07-17,Natural Disaster,3,1,TR01132,T0138,Bluepeak Mining,Finance
-INC0511,Japan,Asia,2025-06-04,Health Outbreak,1,0,TR00265,T0144,Bluepeak Mining,Sales
-INC0511,Japan,Asia,2025-06-04,Health Outbreak,1,0,TR01416,T0211,Bluepeak Mining,Engineering
-INC0513,Ghana,Africa,2025-07-25,Civil Unrest,2,0,TR00300,T0066,Silverleaf Consulting,Engineering
-INC0513,Ghana,Africa,2025-07-25,Civil Unrest,2,0,TR01184,T0013,Harbourline Engineering,Finance
-INC0513,Ghana,Africa,2025-07-25,Civil Unrest,2,0,TR01411,T0166,Harbourline Engineering,HR
-INC0515,Ghana,Africa,2025-02-16,Health Outbreak,1,1,TR00433,T0145,Silverleaf Consulting,Finance
-INC0515,Ghana,Africa,2025-02-16,Health Outbreak,1,1,TR01068,T0135,Bluepeak Mining,Finance
-INC0515,Ghana,Africa,2025-02-16,Health Outbreak,1,1,TR01681,T0054,Northstar Energy,HR
-INC0516,Philippines,Asia,2025-04-05,Civil Unrest,5,1,TR00145,T0079,Harbourline Engineering,Logistics
-INC0516,Philippines,Asia,2025-04-05,Civil Unrest,5,1,TR01387,T0140,Acme Logistics,Sales
-INC0517,Egypt,Middle East,2025-08-05,Terrorism,3,1,TR00607,T0057,Silverleaf Consulting,Logistics
-INC0518,Japan,Asia,2025-09-11,Health Outbreak,3,1,TR00562,T0145,Silverleaf Consulting,Finance
-INC0518,Japan,Asia,2025-09-11,Health Outbreak,3,1,TR00641,T0135,Bluepeak Mining,Finance
-INC0518,Japan,Asia,2025-09-11,Health Outbreak,3,1,TR01348,T0126,Bluepeak Mining,Sales
-INC0519,Colombia,Americas,2025-03-09,Transport Disruption,4,0,TR01673,T0179,Northstar Energy,HR
-INC0520,Colombia,Americas,2025-10-27,Transport Disruption,3,0,TR00161,T0253,Harbourline Engineering,Operations
-INC0521,Brazil,Americas,2025-12-28,Natural Disaster,4,1,TR00260,T0265,Harbourline Engineering,Finance
-INC0521,Brazil,Americas,2025-12-28,Natural Disaster,4,1,TR01053,T0294,Bluepeak Mining,Engineering
-INC0521,Brazil,Americas,2025-12-28,Natural Disaster,4,1,TR01689,T0201,Acme Logistics,Finance
-INC0522,Ghana,Africa,2026-01-07,Crime,3,1,TR00071,T0267,Northstar Energy,Finance
-INC0522,Ghana,Africa,2026-01-07,Crime,3,1,TR00193,T0204,Bluepeak Mining,Logistics
-INC0522,Ghana,Africa,2026-01-07,Crime,3,1,TR00884,T0287,Acme Logistics,Operations
-INC0523,India,Asia,2026-05-04,Civil Unrest,3,0,TR00166,T0031,Acme Logistics,HR
-INC0523,India,Asia,2026-05-04,Civil Unrest,3,0,TR00551,T0211,Bluepeak Mining,Engineering
-INC0525,India,Asia,2025-04-01,Transport Disruption,2,0,TR00112,T0288,Northstar Energy,Finance
-INC0525,India,Asia,2025-04-01,Transport Disruption,2,0,TR00492,T0139,Bluepeak Mining,Logistics
-INC0525,India,Asia,2025-04-01,Transport Disruption,2,0,TR01252,T0181,Bluepeak Mining,Operations
-INC0526,Indonesia,Asia,2026-06-03,Natural Disaster,4,1,TR00596,T0123,Harbourline Engineering,Logistics
-INC0528,Egypt,Middle East,2025-07-09,Health Outbreak,2,0,TR01074,T0265,Harbourline Engineering,Finance
-INC0529,Colombia,Americas,2025-08-31,Civil Unrest,3,0,TR00096,T0109,Northstar Energy,Sales
-INC0530,Nigeria,Africa,2025-04-15,Health Outbreak,4,1,TR01261,T0115,Northstar Energy,Logistics
-INC0530,Nigeria,Africa,2025-04-15,Health Outbreak,4,1,TR01916,T0179,Northstar Energy,HR
-INC0531,Philippines,Asia,2026-02-24,Health Outbreak,3,1,TR00387,T0155,Harbourline Engineering,Sales
-INC0531,Philippines,Asia,2026-02-24,Health Outbreak,3,1,TR00612,T0108,Silverleaf Consulting,Logistics
-INC0533,Colombia,Americas,2025-12-17,Civil Unrest,4,0,TR00709,T0075,Harbourline Engineering,Finance
-INC0534,Brazil,Americas,2026-01-08,Health Outbreak,1,0,TR01731,T0286,Silverleaf Consulting,Logistics
-INC0535,Turkey,Europe,2025-02-13,Transport Disruption,3,1,TR01454,T0042,Bluepeak Mining,Operations
-INC0535,Turkey,Europe,2025-02-13,Transport Disruption,3,1,TR01795,T0279,Bluepeak Mining,Operations
-INC0536,Philippines,Asia,2026-06-22,Health Outbreak,3,0,TR00196,T0023,Harbourline Engineering,Sales
-INC0537,Philippines,Asia,2025-02-13,Terrorism,4,1,TR01805,T0294,Bluepeak Mining,Engineering
-INC0539,Philippines,Asia,2026-02-20,Crime,3,0,TR00085,T0030,Northstar Energy,Finance
-INC0539,Philippines,Asia,2026-02-20,Crime,3,0,TR00387,T0155,Harbourline Engineering,Sales
-INC0540,Brazil,Americas,2026-01-22,Health Outbreak,2,0,TR00049,T0075,Harbourline Engineering,Finance
-INC0540,Brazil,Americas,2026-01-22,Health Outbreak,2,0,TR00354,T0214,Silverleaf Consulting,Engineering
-INC0540,Brazil,Americas,2026-01-22,Health Outbreak,2,0,TR01257,T0146,Northstar Energy,Sales
-INC0540,Brazil,Americas,2026-01-22,Health Outbreak,2,0,TR01287,T0296,Acme Logistics,Logistics
-INC0541,South Africa,Africa,2026-04-16,Crime,1,0,TR01738,T0287,Acme Logistics,Operations
-INC0542,Colombia,Americas,2025-02-06,Transport Disruption,4,1,TR01478,T0100,Northstar Energy,Finance
-INC0542,Colombia,Americas,2025-02-06,Transport Disruption,4,1,TR01757,T0137,Northstar Energy,Operations
-INC0543,Mexico,Americas,2025-12-13,Crime,5,1,TR00495,T0127,Acme Logistics,Engineering
-INC0544,Turkey,Europe,2026-01-27,Natural Disaster,2,0,TR00167,T0043,Bluepeak Mining,Finance
-INC0544,Turkey,Europe,2026-01-27,Natural Disaster,2,0,TR01867,T0176,Silverleaf Consulting,Sales
-INC0545,Japan,Asia,2026-05-13,Crime,1,0,TR00352,T0154,Harbourline Engineering,Engineering
-INC0546,Nigeria,Africa,2025-03-01,Terrorism,5,1,TR01314,T0220,Harbourline Engineering,Engineering
-INC0547,Brazil,Americas,2026-06-11,Civil Unrest,4,1,TR01147,T0029,Bluepeak Mining,Operations
-INC0550,Kenya,Africa,2026-03-17,Natural Disaster,3,1,TR01735,T0209,Bluepeak Mining,HR
-INC0551,Turkey,Europe,2025-03-21,Civil Unrest,3,1,TR00673,T0242,Bluepeak Mining,HR
-INC0551,Turkey,Europe,2025-03-21,Civil Unrest,3,1,TR01879,T0221,Bluepeak Mining,Logistics
-INC0553,Colombia,Americas,2025-03-31,Terrorism,3,0,TR01029,T0158,Northstar Energy,Logistics
-INC0555,France,Europe,2026-03-31,Crime,2,1,TR00345,T0191,Acme Logistics,Operations
-INC0555,France,Europe,2026-03-31,Crime,2,1,TR01687,T0053,Harbourline Engineering,Engineering
-INC0556,Colombia,Americas,2025-07-14,Terrorism,3,1,TR01059,T0160,Bluepeak Mining,Finance
-INC0559,Colombia,Americas,2026-03-16,Natural Disaster,4,1,TR01371,T0023,Harbourline Engineering,Sales
-INC0559,Colombia,Americas,2026-03-16,Natural Disaster,4,1,TR01651,T0238,Northstar Energy,Operations
-INC0560,Egypt,Middle East,2025-11-28,Health Outbreak,3,0,TR01424,T0027,Harbourline Engineering,HR
-INC0561,Turkey,Europe,2025-02-11,Civil Unrest,2,0,TR01454,T0042,Bluepeak Mining,Operations
-INC0563,United States,Americas,2025-08-02,Transport Disruption,3,1,TR00103,T0217,Northstar Energy,Engineering
-INC0563,United States,Americas,2025-08-02,Transport Disruption,3,1,TR00633,T0172,Northstar Energy,HR
-INC0563,United States,Americas,2025-08-02,Transport Disruption,3,1,TR01235,T0196,Acme Logistics,Finance
-INC0564,South Africa,Africa,2026-04-27,Terrorism,2,1,TR00118,T0122,Acme Logistics,HR
-INC0564,South Africa,Africa,2026-04-27,Terrorism,2,1,TR01246,T0037,Silverleaf Consulting,Logistics
-INC0565,United States,Americas,2026-05-08,Crime,2,0,TR00617,T0167,Acme Logistics,HR
-INC0565,United States,Americas,2026-05-08,Crime,2,0,TR01057,T0133,Northstar Energy,HR
-INC0567,South Africa,Africa,2025-07-07,Crime,2,1,TR00316,T0292,Acme Logistics,Engineering
-INC0567,South Africa,Africa,2025-07-07,Crime,2,1,TR01711,T0022,Silverleaf Consulting,Finance
-INC0568,Philippines,Asia,2025-05-22,Health Outbreak,4,1,TR01986,T0186,Acme Logistics,Logistics
-INC0569,Nigeria,Africa,2025-02-21,Crime,5,1,TR01314,T0220,Harbourline Engineering,Engineering
-INC0570,Indonesia,Asia,2025-07-19,Transport Disruption,4,1,TR00691,T0287,Acme Logistics,Operations
-INC0570,Indonesia,Asia,2025-07-19,Transport Disruption,4,1,TR01639,T0125,Acme Logistics,HR
-INC0570,Indonesia,Asia,2025-07-19,Transport Disruption,4,1,TR01920,T0084,Silverleaf Consulting,Sales
-INC0571,South Africa,Africa,2025-05-13,Terrorism,3,1,TR01890,T0041,Acme Logistics,Finance
-INC0572,Indonesia,Asia,2026-02-10,Health Outbreak,4,1,TR00023,T0221,Bluepeak Mining,Logistics
-INC0572,Indonesia,Asia,2026-02-10,Health Outbreak,4,1,TR00435,T0210,Silverleaf Consulting,Engineering
-INC0572,Indonesia,Asia,2026-02-10,Health Outbreak,4,1,TR01275,T0018,Silverleaf Consulting,Logistics
-INC0573,United States,Americas,2026-01-11,Crime,3,0,TR00823,T0190,Bluepeak Mining,Operations
-INC0575,Colombia,Americas,2026-04-15,Terrorism,4,1,TR00060,T0243,Harbourline Engineering,Engineering
-INC0575,Colombia,Americas,2026-04-15,Terrorism,4,1,TR00134,T0095,Acme Logistics,Finance
-INC0578,Colombia,Americas,2026-05-08,Crime,5,1,TR00989,T0045,Northstar Energy,Finance
-INC0578,Colombia,Americas,2026-05-08,Crime,5,1,TR01183,T0129,Acme Logistics,Finance
-INC0579,Australia,Oceania,2025-03-04,Natural Disaster,1,0,TR00726,T0281,Northstar Energy,Finance
-INC0580,Kenya,Africa,2025-12-20,Transport Disruption,3,0,TR01223,T0089,Harbourline Engineering,Sales
-INC0584,Turkey,Europe,2025-10-03,Natural Disaster,2,0,TR00744,T0216,Northstar Energy,Operations
-INC0588,Colombia,Americas,2026-05-08,Terrorism,3,0,TR00989,T0045,Northstar Energy,Finance
-INC0588,Colombia,Americas,2026-05-08,Terrorism,3,0,TR01183,T0129,Acme Logistics,Finance
-INC0589,Colombia,Americas,2025-04-24,Natural Disaster,4,1,TR01378,T0096,Acme Logistics,Logistics
-INC0590,Egypt,Middle East,2025-05-16,Civil Unrest,5,1,TR00303,T0226,Acme Logistics,HR
-INC0590,Egypt,Middle East,2025-05-16,Civil Unrest,5,1,TR00451,T0122,Acme Logistics,HR
-INC0593,Indonesia,Asia,2025-05-07,Transport Disruption,5,1,TR01011,T0079,Harbourline Engineering,Logistics
-INC0593,Indonesia,Asia,2025-05-07,Transport Disruption,5,1,TR01910,T0236,Northstar Energy,Engineering
-INC0594,Australia,Oceania,2025-07-14,Terrorism,1,1,TR00033,T0129,Acme Logistics,Finance
-INC0594,Australia,Oceania,2025-07-14,Terrorism,1,1,TR00818,T0108,Silverleaf Consulting,Logistics
-INC0594,Australia,Oceania,2025-07-14,Terrorism,1,1,TR01182,T0141,Bluepeak Mining,Operations
-INC0594,Australia,Oceania,2025-07-14,Terrorism,1,1,TR01382,T0264,Northstar Energy,HR
-INC0594,Australia,Oceania,2025-07-14,Terrorism,1,1,TR01490,T0226,Acme Logistics,HR
-INC0597,Nigeria,Africa,2026-02-18,Terrorism,4,1,TR01858,T0174,Harbourline Engineering,Engineering
-INC0599,Brazil,Americas,2026-02-04,Transport Disruption,2,0,TR00530,T0078,Silverleaf Consulting,Engineering
-INC0599,Brazil,Americas,2026-02-04,Transport Disruption,2,0,TR01219,T0291,Northstar Energy,HR
-INC0599,Brazil,Americas,2026-02-04,Transport Disruption,2,0,TR01499,T0223,Northstar Energy,Finance
+incident_id,country,city,region,incident_date,incident_type,severity,escalated,trip_id,traveller_id,client,department
+INC0001,Indonesia,Jakarta,Asia,2025-10-05,Civil Unrest,3,1,TR00249,T0278,Silverleaf Consulting,Engineering
+INC0001,Indonesia,Jakarta,Asia,2025-10-05,Civil Unrest,3,1,TR01247,T0224,Northstar Energy,Logistics
+INC0002,South Africa,Cape Town,Africa,2025-01-27,Civil Unrest,2,0,TR00742,T0111,Harbourline Engineering,HR
+INC0002,South Africa,Cape Town,Africa,2025-01-27,Civil Unrest,2,0,TR00779,T0203,Acme Logistics,HR
+INC0002,South Africa,Cape Town,Africa,2025-01-27,Civil Unrest,2,0,TR01851,T0271,Northstar Energy,Engineering
+INC0003,India,Mumbai,Asia,2025-02-21,Terrorism,3,0,TR00062,T0161,Harbourline Engineering,Engineering
+INC0003,India,Mumbai,Asia,2025-02-21,Terrorism,3,0,TR00599,T0113,Silverleaf Consulting,Finance
+INC0003,India,Mumbai,Asia,2025-02-21,Terrorism,3,0,TR01436,T0075,Harbourline Engineering,Finance
+INC0004,Turkey,Ankara,Europe,2026-03-06,Transport Disruption,5,0,TR01912,T0198,Bluepeak Mining,HR
+INC0006,Jordan,Aqaba,Middle East,2025-07-04,Natural Disaster,3,1,TR00541,T0144,Bluepeak Mining,Sales
+INC0008,Nigeria,Abuja,Africa,2026-04-17,Health Outbreak,3,1,TR00003,T0125,Acme Logistics,HR
+INC0008,Nigeria,Abuja,Africa,2026-04-17,Health Outbreak,3,1,TR00810,T0186,Acme Logistics,Logistics
+INC0009,Jordan,Aqaba,Middle East,2025-03-20,Health Outbreak,2,0,TR00413,T0206,Bluepeak Mining,Operations
+INC0009,Jordan,Aqaba,Middle East,2025-03-20,Health Outbreak,2,0,TR01473,T0060,Northstar Energy,Engineering
+INC0010,Brazil,Brasilia,Americas,2025-06-20,Health Outbreak,2,0,TR00183,T0245,Northstar Energy,Engineering
+INC0011,South Africa,Durban,Africa,2026-05-29,Transport Disruption,3,0,TR01248,T0229,Acme Logistics,Finance
+INC0013,Mexico,Monterrey,Americas,2025-07-14,Natural Disaster,2,0,TR01776,T0024,Bluepeak Mining,Engineering
+INC0014,Indonesia,Jakarta,Asia,2025-02-27,Civil Unrest,3,1,TR00522,T0203,Acme Logistics,HR
+INC0014,Indonesia,Jakarta,Asia,2025-02-27,Civil Unrest,3,1,TR01813,T0030,Northstar Energy,Finance
+INC0015,United States,Houston,Americas,2025-10-30,Transport Disruption,3,1,TR01790,T0153,Acme Logistics,Engineering
+INC0015,United States,Houston,Americas,2025-10-30,Transport Disruption,3,1,TR01973,T0131,Silverleaf Consulting,Sales
+INC0016,Indonesia,Jakarta,Asia,2026-01-11,Crime,5,1,TR00445,T0087,Harbourline Engineering,Logistics
+INC0016,Indonesia,Jakarta,Asia,2026-01-11,Crime,5,1,TR00552,T0272,Bluepeak Mining,Engineering
+INC0016,Indonesia,Jakarta,Asia,2026-01-11,Crime,5,1,TR01225,T0278,Silverleaf Consulting,Engineering
+INC0017,Mexico,Monterrey,Americas,2025-08-06,Transport Disruption,4,1,TR01987,T0071,Northstar Energy,Engineering
+INC0019,Colombia,Medellin,Americas,2026-06-30,Civil Unrest,4,1,TR01212,T0121,Bluepeak Mining,Finance
+INC0019,Colombia,Medellin,Americas,2026-06-30,Civil Unrest,4,1,TR01482,T0289,Northstar Energy,Operations
+INC0020,India,Bangalore,Asia,2025-02-27,Transport Disruption,3,1,TR00866,T0078,Silverleaf Consulting,Engineering
+INC0020,India,Bangalore,Asia,2025-02-27,Transport Disruption,3,1,TR01436,T0075,Harbourline Engineering,Finance
+INC0021,Nigeria,Abuja,Africa,2025-02-01,Health Outbreak,2,0,TR01679,T0208,Northstar Energy,Logistics
+INC0022,Turkey,Istanbul,Europe,2025-12-03,Civil Unrest,1,0,TR01943,T0015,Harbourline Engineering,HR
+INC0023,Kenya,Nairobi,Africa,2025-03-25,Transport Disruption,3,1,TR00575,T0069,Bluepeak Mining,Logistics
+INC0023,Kenya,Nairobi,Africa,2025-03-25,Transport Disruption,3,1,TR01181,T0235,Bluepeak Mining,Operations
+INC0023,Kenya,Nairobi,Africa,2025-03-25,Transport Disruption,3,1,TR01717,T0281,Northstar Energy,Finance
+INC0025,Philippines,Davao,Asia,2026-02-23,Terrorism,4,1,TR00085,T0030,Northstar Energy,Finance
+INC0025,Philippines,Davao,Asia,2026-02-23,Terrorism,4,1,TR00387,T0155,Harbourline Engineering,Sales
+INC0025,Philippines,Davao,Asia,2026-02-23,Terrorism,4,1,TR00612,T0108,Silverleaf Consulting,Logistics
+INC0026,United States,Houston,Americas,2025-10-13,Health Outbreak,1,0,TR00184,T0171,Silverleaf Consulting,Sales
+INC0026,United States,Houston,Americas,2025-10-13,Health Outbreak,1,0,TR00418,T0154,Harbourline Engineering,Engineering
+INC0027,South Africa,Durban,Africa,2026-05-07,Health Outbreak,1,0,TR00133,T0190,Bluepeak Mining,Operations
+INC0027,South Africa,Durban,Africa,2026-05-07,Health Outbreak,1,0,TR01338,T0272,Bluepeak Mining,Engineering
+INC0027,South Africa,Durban,Africa,2026-05-07,Health Outbreak,1,0,TR01561,T0218,Silverleaf Consulting,Engineering
+INC0029,Jordan,Irbid,Middle East,2025-05-10,Terrorism,1,1,TR00127,T0134,Silverleaf Consulting,Operations
+INC0029,Jordan,Irbid,Middle East,2025-05-10,Terrorism,1,1,TR00135,T0183,Acme Logistics,Sales
+INC0029,Jordan,Irbid,Middle East,2025-05-10,Terrorism,1,1,TR00329,T0087,Harbourline Engineering,Logistics
+INC0029,Jordan,Irbid,Middle East,2025-05-10,Terrorism,1,1,TR00978,T0011,Northstar Energy,Engineering
+INC0030,Nigeria,Port Harcourt,Africa,2025-12-28,Natural Disaster,3,1,TR00190,T0284,Northstar Energy,Operations
+INC0031,France,Paris,Europe,2025-07-16,Crime,1,0,TR00002,T0001,Harbourline Engineering,Sales
+INC0031,France,Paris,Europe,2025-07-16,Crime,1,0,TR00227,T0006,Northstar Energy,Engineering
+INC0031,France,Paris,Europe,2025-07-16,Crime,1,0,TR00739,T0257,Acme Logistics,Engineering
+INC0034,Colombia,Bogota,Americas,2026-04-17,Crime,5,0,TR00060,T0243,Harbourline Engineering,Engineering
+INC0034,Colombia,Bogota,Americas,2026-04-17,Crime,5,0,TR00134,T0095,Acme Logistics,Finance
+INC0035,Spain,Barcelona,Europe,2026-02-27,Health Outbreak,1,0,TR01253,T0003,Acme Logistics,Operations
+INC0035,Spain,Barcelona,Europe,2026-02-27,Health Outbreak,1,0,TR01575,T0032,Harbourline Engineering,Operations
+INC0036,Colombia,Medellin,Americas,2026-05-12,Civil Unrest,4,1,TR00989,T0045,Northstar Energy,Finance
+INC0036,Colombia,Medellin,Americas,2026-05-12,Civil Unrest,4,1,TR01183,T0129,Acme Logistics,Finance
+INC0037,Colombia,Cali,Americas,2025-08-06,Crime,3,0,TR00040,T0168,Acme Logistics,Sales
+INC0037,Colombia,Cali,Americas,2025-08-06,Crime,3,0,TR00482,T0026,Harbourline Engineering,Logistics
+INC0038,Brazil,Sao Paulo,Americas,2026-01-18,Civil Unrest,2,1,TR00049,T0075,Harbourline Engineering,Finance
+INC0038,Brazil,Sao Paulo,Americas,2026-01-18,Civil Unrest,2,1,TR00354,T0214,Silverleaf Consulting,Engineering
+INC0038,Brazil,Sao Paulo,Americas,2026-01-18,Civil Unrest,2,1,TR01257,T0146,Northstar Energy,Sales
+INC0038,Brazil,Sao Paulo,Americas,2026-01-18,Civil Unrest,2,1,TR01287,T0296,Acme Logistics,Logistics
+INC0038,Brazil,Sao Paulo,Americas,2026-01-18,Civil Unrest,2,1,TR01554,T0202,Harbourline Engineering,Operations
+INC0038,Brazil,Sao Paulo,Americas,2026-01-18,Civil Unrest,2,1,TR01692,T0291,Northstar Energy,HR
+INC0039,Brazil,Brasilia,Americas,2025-11-23,Transport Disruption,2,0,TR00186,T0127,Acme Logistics,Engineering
+INC0039,Brazil,Brasilia,Americas,2025-11-23,Transport Disruption,2,0,TR01643,T0163,Bluepeak Mining,Engineering
+INC0040,South Africa,Cape Town,Africa,2026-04-06,Transport Disruption,1,0,TR01067,T0270,Harbourline Engineering,Finance
+INC0041,Colombia,Bogota,Americas,2026-05-01,Civil Unrest,2,0,TR01183,T0129,Acme Logistics,Finance
+INC0041,Colombia,Bogota,Americas,2026-05-01,Civil Unrest,2,0,TR01709,T0091,Harbourline Engineering,Engineering
+INC0042,Mexico,Guadalajara,Americas,2025-06-13,Transport Disruption,3,0,TR00865,T0126,Bluepeak Mining,Sales
+INC0042,Mexico,Guadalajara,Americas,2025-06-13,Transport Disruption,3,0,TR01875,T0228,Silverleaf Consulting,HR
+INC0043,Turkey,Ankara,Europe,2026-03-05,Terrorism,1,0,TR01912,T0198,Bluepeak Mining,HR
+INC0044,Philippines,Davao,Asia,2026-01-17,Transport Disruption,4,1,TR01557,T0073,Northstar Energy,Operations
+INC0045,Egypt,Alexandria,Middle East,2025-11-28,Terrorism,3,0,TR01424,T0027,Harbourline Engineering,HR
+INC0047,Egypt,Alexandria,Middle East,2025-07-07,Crime,2,0,TR01074,T0265,Harbourline Engineering,Finance
+INC0048,Turkey,Istanbul,Europe,2026-02-12,Transport Disruption,2,1,TR01440,T0077,Silverleaf Consulting,Operations
+INC0049,South Africa,Johannesburg,Africa,2026-01-06,Health Outbreak,3,1,TR00061,T0227,Harbourline Engineering,Operations
+INC0049,South Africa,Johannesburg,Africa,2026-01-06,Health Outbreak,3,1,TR00911,T0178,Acme Logistics,Logistics
+INC0049,South Africa,Johannesburg,Africa,2026-01-06,Health Outbreak,3,1,TR01088,T0030,Northstar Energy,Finance
+INC0049,South Africa,Johannesburg,Africa,2026-01-06,Health Outbreak,3,1,TR01121,T0263,Acme Logistics,Engineering
+INC0049,South Africa,Johannesburg,Africa,2026-01-06,Health Outbreak,3,1,TR01560,T0174,Harbourline Engineering,Engineering
+INC0050,Mexico,Mexico City,Americas,2025-10-05,Civil Unrest,2,0,TR00970,T0171,Silverleaf Consulting,Sales
+INC0051,Colombia,Medellin,Americas,2025-11-11,Natural Disaster,5,1,TR00449,T0141,Bluepeak Mining,Operations
+INC0053,United States,New York,Americas,2025-10-02,Health Outbreak,2,0,TR00418,T0154,Harbourline Engineering,Engineering
+INC0054,Indonesia,Bali,Asia,2026-04-20,Transport Disruption,2,0,TR01604,T0053,Harbourline Engineering,Engineering
+INC0055,Egypt,Cairo,Middle East,2025-05-13,Civil Unrest,4,1,TR00593,T0293,Silverleaf Consulting,Finance
+INC0057,Brazil,Brasilia,Americas,2025-07-30,Natural Disaster,3,1,TR00592,T0182,Bluepeak Mining,Finance
+INC0057,Brazil,Brasilia,Americas,2025-07-30,Natural Disaster,3,1,TR00811,T0090,Harbourline Engineering,Finance
+INC0058,India,Mumbai,Asia,2025-02-22,Health Outbreak,2,0,TR00062,T0161,Harbourline Engineering,Engineering
+INC0058,India,Mumbai,Asia,2025-02-22,Health Outbreak,2,0,TR00599,T0113,Silverleaf Consulting,Finance
+INC0058,India,Mumbai,Asia,2025-02-22,Health Outbreak,2,0,TR01436,T0075,Harbourline Engineering,Finance
+INC0059,Kenya,Nairobi,Africa,2025-12-14,Health Outbreak,2,1,TR00297,T0064,Silverleaf Consulting,Engineering
+INC0059,Kenya,Nairobi,Africa,2025-12-14,Health Outbreak,2,1,TR00830,T0041,Acme Logistics,Finance
+INC0059,Kenya,Nairobi,Africa,2025-12-14,Health Outbreak,2,1,TR01223,T0089,Harbourline Engineering,Sales
+INC0061,South Africa,Durban,Africa,2026-02-26,Crime,4,1,TR00228,T0029,Bluepeak Mining,Operations
+INC0061,South Africa,Durban,Africa,2026-02-26,Crime,4,1,TR00264,T0061,Northstar Energy,Engineering
+INC0062,Egypt,Giza,Middle East,2025-03-08,Crime,4,1,TR01518,T0263,Acme Logistics,Engineering
+INC0063,Philippines,Manila,Asia,2026-01-14,Transport Disruption,3,0,TR00220,T0123,Harbourline Engineering,Logistics
+INC0063,Philippines,Manila,Asia,2026-01-14,Transport Disruption,3,0,TR01462,T0214,Silverleaf Consulting,Engineering
+INC0063,Philippines,Manila,Asia,2026-01-14,Transport Disruption,3,0,TR01557,T0073,Northstar Energy,Operations
+INC0066,Egypt,Cairo,Middle East,2025-02-16,Terrorism,3,1,TR01590,T0233,Harbourline Engineering,Finance
+INC0068,Indonesia,Jakarta,Asia,2026-04-24,Natural Disaster,2,0,TR01675,T0057,Silverleaf Consulting,Logistics
+INC0069,Philippines,Manila,Asia,2025-12-16,Terrorism,4,1,TR00389,T0299,Silverleaf Consulting,Engineering
+INC0070,Nigeria,Abuja,Africa,2025-04-05,Crime,3,0,TR00047,T0187,Silverleaf Consulting,Logistics
+INC0070,Nigeria,Abuja,Africa,2025-04-05,Crime,3,0,TR00102,T0148,Acme Logistics,Operations
+INC0071,Colombia,Medellin,Americas,2026-05-18,Health Outbreak,4,1,TR00989,T0045,Northstar Energy,Finance
+INC0071,Colombia,Medellin,Americas,2026-05-18,Health Outbreak,4,1,TR01529,T0036,Acme Logistics,Logistics
+INC0072,India,Delhi,Asia,2025-11-03,Natural Disaster,4,0,TR01294,T0118,Silverleaf Consulting,HR
+INC0073,Philippines,Manila,Asia,2025-11-23,Transport Disruption,4,0,TR00075,T0300,Bluepeak Mining,Logistics
+INC0073,Philippines,Manila,Asia,2025-11-23,Transport Disruption,4,0,TR01156,T0250,Acme Logistics,Operations
+INC0075,Nigeria,Lagos,Africa,2025-11-09,Natural Disaster,4,0,TR00208,T0054,Northstar Energy,HR
+INC0076,Brazil,Brasilia,Americas,2026-03-20,Civil Unrest,4,1,TR00169,T0007,Acme Logistics,HR
+INC0077,Ghana,Kumasi,Africa,2026-04-06,Terrorism,1,0,TR00904,T0144,Bluepeak Mining,Sales
+INC0078,United States,Chicago,Americas,2025-03-05,Natural Disaster,1,1,TR00206,T0025,Harbourline Engineering,HR
+INC0078,United States,Chicago,Americas,2025-03-05,Natural Disaster,1,1,TR01041,T0178,Acme Logistics,Logistics
+INC0079,Kenya,Mombasa,Africa,2025-01-30,Health Outbreak,3,1,TR00763,T0246,Acme Logistics,Finance
+INC0079,Kenya,Mombasa,Africa,2025-01-30,Health Outbreak,3,1,TR01933,T0194,Bluepeak Mining,Operations
+INC0080,Jordan,Aqaba,Middle East,2026-06-12,Civil Unrest,4,1,TR00346,T0037,Silverleaf Consulting,Logistics
+INC0080,Jordan,Aqaba,Middle East,2026-06-12,Civil Unrest,4,1,TR00519,T0273,Silverleaf Consulting,Finance
+INC0080,Jordan,Aqaba,Middle East,2026-06-12,Civil Unrest,4,1,TR00534,T0130,Silverleaf Consulting,HR
+INC0082,Turkey,Istanbul,Europe,2025-08-19,Natural Disaster,3,1,TR01859,T0242,Bluepeak Mining,HR
+INC0083,Turkey,Ankara,Europe,2025-08-24,Transport Disruption,2,0,TR01222,T0203,Acme Logistics,HR
+INC0083,Turkey,Ankara,Europe,2025-08-24,Transport Disruption,2,0,TR01859,T0242,Bluepeak Mining,HR
+INC0085,Kenya,Mombasa,Africa,2026-06-30,Terrorism,3,1,TR00620,T0161,Harbourline Engineering,Engineering
+INC0086,Colombia,Medellin,Americas,2025-09-16,Crime,5,1,TR01285,T0280,Silverleaf Consulting,Sales
+INC0086,Colombia,Medellin,Americas,2025-09-16,Crime,5,1,TR01662,T0006,Northstar Energy,Engineering
+INC0086,Colombia,Medellin,Americas,2025-09-16,Crime,5,1,TR01726,T0277,Acme Logistics,Sales
+INC0087,Jordan,Irbid,Middle East,2026-01-15,Civil Unrest,2,0,TR00942,T0203,Acme Logistics,HR
+INC0088,Australia,Sydney,Oceania,2025-04-12,Natural Disaster,1,0,TR00506,T0136,Northstar Energy,Engineering
+INC0088,Australia,Sydney,Oceania,2025-04-12,Natural Disaster,1,0,TR01589,T0029,Bluepeak Mining,Operations
+INC0089,Turkey,Izmir,Europe,2026-02-23,Transport Disruption,3,1,TR00934,T0287,Acme Logistics,Operations
+INC0089,Turkey,Izmir,Europe,2026-02-23,Transport Disruption,3,1,TR01236,T0214,Silverleaf Consulting,Engineering
+INC0089,Turkey,Izmir,Europe,2026-02-23,Transport Disruption,3,1,TR01750,T0248,Northstar Energy,Operations
+INC0091,Nigeria,Port Harcourt,Africa,2026-03-05,Transport Disruption,3,0,TR00754,T0249,Harbourline Engineering,Engineering
+INC0092,Colombia,Bogota,Americas,2025-10-19,Transport Disruption,5,0,TR00793,T0163,Bluepeak Mining,Engineering
+INC0093,Turkey,Ankara,Europe,2025-10-15,Natural Disaster,3,1,TR00299,T0080,Harbourline Engineering,HR
+INC0093,Turkey,Ankara,Europe,2025-10-15,Natural Disaster,3,1,TR00908,T0262,Silverleaf Consulting,HR
+INC0096,Nigeria,Abuja,Africa,2026-04-06,Crime,5,1,TR00029,T0214,Silverleaf Consulting,Engineering
+INC0096,Nigeria,Abuja,Africa,2026-04-06,Crime,5,1,TR01350,T0187,Silverleaf Consulting,Logistics
+INC0097,Colombia,Cali,Americas,2026-01-28,Health Outbreak,3,1,TR00975,T0117,Bluepeak Mining,HR
+INC0098,Jordan,Amman,Middle East,2025-12-19,Crime,2,1,TR00474,T0285,Harbourline Engineering,Sales
+INC0098,Jordan,Amman,Middle East,2025-12-19,Crime,2,1,TR00987,T0024,Bluepeak Mining,Engineering
+INC0098,Jordan,Amman,Middle East,2025-12-19,Crime,2,1,TR01937,T0197,Silverleaf Consulting,Logistics
+INC0100,Philippines,Manila,Asia,2025-11-07,Civil Unrest,4,0,TR00579,T0012,Acme Logistics,HR
+INC0102,Nigeria,Abuja,Africa,2025-05-24,Crime,3,1,TR00153,T0030,Northstar Energy,Finance
+INC0103,Brazil,Rio de Janeiro,Americas,2025-01-09,Transport Disruption,2,0,TR01028,T0176,Silverleaf Consulting,Sales
+INC0103,Brazil,Rio de Janeiro,Americas,2025-01-09,Transport Disruption,2,0,TR01886,T0108,Silverleaf Consulting,Logistics
+INC0104,Colombia,Medellin,Americas,2025-12-02,Crime,4,1,TR01213,T0266,Silverleaf Consulting,Sales
+INC0105,Turkey,Istanbul,Europe,2025-05-05,Transport Disruption,4,1,TR00985,T0059,Northstar Energy,Finance
+INC0105,Turkey,Istanbul,Europe,2025-05-05,Transport Disruption,4,1,TR01110,T0176,Silverleaf Consulting,Sales
+INC0106,Philippines,Cebu,Asia,2026-02-25,Civil Unrest,5,1,TR00387,T0155,Harbourline Engineering,Sales
+INC0106,Philippines,Cebu,Asia,2026-02-25,Civil Unrest,5,1,TR00612,T0108,Silverleaf Consulting,Logistics
+INC0107,South Africa,Johannesburg,Africa,2026-01-25,Terrorism,4,1,TR01911,T0122,Acme Logistics,HR
+INC0109,Jordan,Aqaba,Middle East,2025-06-08,Terrorism,3,0,TR00178,T0151,Silverleaf Consulting,Operations
+INC0109,Jordan,Aqaba,Middle East,2025-06-08,Terrorism,3,0,TR00723,T0259,Northstar Energy,HR
+INC0109,Jordan,Aqaba,Middle East,2025-06-08,Terrorism,3,0,TR01001,T0156,Harbourline Engineering,Finance
+INC0110,Kenya,Mombasa,Africa,2026-06-02,Transport Disruption,2,1,TR00247,T0072,Northstar Energy,Finance
+INC0110,Kenya,Mombasa,Africa,2026-06-02,Transport Disruption,2,1,TR01806,T0012,Acme Logistics,HR
+INC0112,Brazil,Rio de Janeiro,Americas,2025-06-25,Health Outbreak,4,1,TR00183,T0245,Northstar Energy,Engineering
+INC0113,Brazil,Brasilia,Americas,2026-06-11,Health Outbreak,3,1,TR01147,T0029,Bluepeak Mining,Operations
+INC0114,Mexico,Monterrey,Americas,2025-11-12,Natural Disaster,2,0,TR01217,T0104,Silverleaf Consulting,HR
+INC0115,Turkey,Istanbul,Europe,2025-03-22,Health Outbreak,2,1,TR00026,T0082,Silverleaf Consulting,HR
+INC0115,Turkey,Istanbul,Europe,2025-03-22,Health Outbreak,2,1,TR00673,T0242,Bluepeak Mining,HR
+INC0115,Turkey,Istanbul,Europe,2025-03-22,Health Outbreak,2,1,TR01879,T0221,Bluepeak Mining,Logistics
+INC0116,Turkey,Izmir,Europe,2025-02-12,Civil Unrest,3,1,TR01454,T0042,Bluepeak Mining,Operations
+INC0116,Turkey,Izmir,Europe,2025-02-12,Civil Unrest,3,1,TR01795,T0279,Bluepeak Mining,Operations
+INC0117,Philippines,Cebu,Asia,2025-05-02,Natural Disaster,4,1,TR00741,T0028,Acme Logistics,HR
+INC0117,Philippines,Cebu,Asia,2025-05-02,Natural Disaster,4,1,TR01172,T0170,Harbourline Engineering,Logistics
+INC0117,Philippines,Cebu,Asia,2025-05-02,Natural Disaster,4,1,TR01958,T0089,Harbourline Engineering,Sales
+INC0118,Indonesia,Surabaya,Asia,2025-01-27,Crime,2,1,TR00951,T0065,Acme Logistics,HR
+INC0118,Indonesia,Surabaya,Asia,2025-01-27,Crime,2,1,TR01572,T0115,Northstar Energy,Logistics
+INC0118,Indonesia,Surabaya,Asia,2025-01-27,Crime,2,1,TR01725,T0281,Northstar Energy,Finance
+INC0120,Turkey,Istanbul,Europe,2025-08-22,Crime,3,0,TR01222,T0203,Acme Logistics,HR
+INC0120,Turkey,Istanbul,Europe,2025-08-22,Crime,3,0,TR01859,T0242,Bluepeak Mining,HR
+INC0121,Turkey,Izmir,Europe,2025-08-22,Health Outbreak,1,0,TR01222,T0203,Acme Logistics,HR
+INC0121,Turkey,Izmir,Europe,2025-08-22,Health Outbreak,1,0,TR01859,T0242,Bluepeak Mining,HR
+INC0122,India,Bangalore,Asia,2025-01-13,Civil Unrest,2,1,TR01210,T0058,Northstar Energy,Logistics
+INC0123,Colombia,Bogota,Americas,2025-05-11,Civil Unrest,4,1,TR01161,T0292,Acme Logistics,Engineering
+INC0123,Colombia,Bogota,Americas,2025-05-11,Civil Unrest,4,1,TR01202,T0177,Northstar Energy,Sales
+INC0124,South Africa,Cape Town,Africa,2026-04-14,Transport Disruption,3,0,TR01738,T0287,Acme Logistics,Operations
+INC0125,Nigeria,Abuja,Africa,2025-10-05,Civil Unrest,5,1,TR01404,T0004,Acme Logistics,HR
+INC0125,Nigeria,Abuja,Africa,2025-10-05,Civil Unrest,5,1,TR01528,T0270,Harbourline Engineering,Finance
+INC0125,Nigeria,Abuja,Africa,2025-10-05,Civil Unrest,5,1,TR01545,T0145,Silverleaf Consulting,Finance
+INC0127,Nigeria,Abuja,Africa,2025-12-25,Transport Disruption,3,0,TR00190,T0284,Northstar Energy,Operations
+INC0129,United States,Houston,Americas,2025-08-03,Natural Disaster,3,1,TR00103,T0217,Northstar Energy,Engineering
+INC0129,United States,Houston,Americas,2025-08-03,Natural Disaster,3,1,TR00633,T0172,Northstar Energy,HR
+INC0129,United States,Houston,Americas,2025-08-03,Natural Disaster,3,1,TR01235,T0196,Acme Logistics,Finance
+INC0131,Brazil,Sao Paulo,Americas,2025-11-25,Transport Disruption,5,0,TR00548,T0134,Silverleaf Consulting,Operations
+INC0131,Brazil,Sao Paulo,Americas,2025-11-25,Transport Disruption,5,0,TR01643,T0163,Bluepeak Mining,Engineering
+INC0132,Egypt,Giza,Middle East,2026-06-19,Terrorism,4,1,TR01853,T0058,Northstar Energy,Logistics
+INC0135,Nigeria,Lagos,Africa,2025-01-17,Transport Disruption,4,0,TR00674,T0093,Bluepeak Mining,Operations
+INC0136,Brazil,Sao Paulo,Americas,2025-05-04,Terrorism,1,0,TR00365,T0087,Harbourline Engineering,Logistics
+INC0137,United States,Chicago,Americas,2025-01-14,Natural Disaster,3,0,TR00076,T0077,Silverleaf Consulting,Operations
+INC0137,United States,Chicago,Americas,2025-01-14,Natural Disaster,3,0,TR00223,T0270,Harbourline Engineering,Finance
+INC0138,Nigeria,Lagos,Africa,2025-11-23,Civil Unrest,5,1,TR00439,T0001,Harbourline Engineering,Sales
+INC0139,Colombia,Bogota,Americas,2025-07-12,Terrorism,4,1,TR01059,T0160,Bluepeak Mining,Finance
+INC0141,Brazil,Rio de Janeiro,Americas,2025-05-18,Natural Disaster,3,1,TR00458,T0298,Acme Logistics,Sales
+INC0141,Brazil,Rio de Janeiro,Americas,2025-05-18,Natural Disaster,3,1,TR00676,T0185,Northstar Energy,Sales
+INC0141,Brazil,Rio de Janeiro,Americas,2025-05-18,Natural Disaster,3,1,TR01458,T0102,Acme Logistics,Sales
+INC0142,India,Delhi,Asia,2026-02-15,Terrorism,2,1,TR00310,T0238,Northstar Energy,Operations
+INC0143,Kenya,Kisumu,Africa,2025-03-25,Crime,4,1,TR00575,T0069,Bluepeak Mining,Logistics
+INC0143,Kenya,Kisumu,Africa,2025-03-25,Crime,4,1,TR01181,T0235,Bluepeak Mining,Operations
+INC0143,Kenya,Kisumu,Africa,2025-03-25,Crime,4,1,TR01717,T0281,Northstar Energy,Finance
+INC0144,Egypt,Alexandria,Middle East,2025-11-25,Transport Disruption,4,1,TR01424,T0027,Harbourline Engineering,HR
+INC0145,Brazil,Brasilia,Americas,2025-01-19,Crime,3,1,TR00366,T0123,Harbourline Engineering,Logistics
+INC0145,Brazil,Brasilia,Americas,2025-01-19,Crime,3,1,TR00733,T0107,Acme Logistics,Logistics
+INC0148,Mexico,Guadalajara,Americas,2026-03-10,Crime,2,0,TR00087,T0261,Acme Logistics,Logistics
+INC0148,Mexico,Guadalajara,Americas,2026-03-10,Crime,2,0,TR01144,T0134,Silverleaf Consulting,Operations
+INC0151,Brazil,Rio de Janeiro,Americas,2025-11-08,Civil Unrest,2,1,TR00390,T0240,Silverleaf Consulting,Engineering
+INC0151,Brazil,Rio de Janeiro,Americas,2025-11-08,Civil Unrest,2,1,TR01647,T0038,Harbourline Engineering,Logistics
+INC0152,Jordan,Amman,Middle East,2026-03-30,Terrorism,1,1,TR00859,T0131,Silverleaf Consulting,Sales
+INC0153,Brazil,Rio de Janeiro,Americas,2026-01-23,Civil Unrest,4,1,TR00049,T0075,Harbourline Engineering,Finance
+INC0153,Brazil,Rio de Janeiro,Americas,2026-01-23,Civil Unrest,4,1,TR00354,T0214,Silverleaf Consulting,Engineering
+INC0153,Brazil,Rio de Janeiro,Americas,2026-01-23,Civil Unrest,4,1,TR01257,T0146,Northstar Energy,Sales
+INC0153,Brazil,Rio de Janeiro,Americas,2026-01-23,Civil Unrest,4,1,TR01287,T0296,Acme Logistics,Logistics
+INC0154,Ghana,Kumasi,Africa,2025-12-21,Terrorism,1,1,TR01243,T0203,Acme Logistics,HR
+INC0154,Ghana,Kumasi,Africa,2025-12-21,Terrorism,1,1,TR01868,T0205,Northstar Energy,Operations
+INC0155,Japan,Tokyo,Asia,2026-05-16,Transport Disruption,3,1,TR00352,T0154,Harbourline Engineering,Engineering
+INC0155,Japan,Tokyo,Asia,2026-05-16,Transport Disruption,3,1,TR00525,T0057,Silverleaf Consulting,Logistics
+INC0156,Turkey,Istanbul,Europe,2025-10-24,Civil Unrest,2,1,TR00299,T0080,Harbourline Engineering,HR
+INC0156,Turkey,Istanbul,Europe,2025-10-24,Civil Unrest,2,1,TR01565,T0293,Silverleaf Consulting,Finance
+INC0157,Nigeria,Port Harcourt,Africa,2025-08-23,Health Outbreak,3,0,TR01759,T0287,Acme Logistics,Operations
+INC0158,Philippines,Manila,Asia,2026-01-25,Crime,5,1,TR00536,T0031,Acme Logistics,HR
+INC0160,France,Paris,Europe,2025-01-24,Health Outbreak,1,0,TR01205,T0056,Bluepeak Mining,Logistics
+INC0161,Brazil,Rio de Janeiro,Americas,2025-11-08,Transport Disruption,3,1,TR00390,T0240,Silverleaf Consulting,Engineering
+INC0161,Brazil,Rio de Janeiro,Americas,2025-11-08,Transport Disruption,3,1,TR01647,T0038,Harbourline Engineering,Logistics
+INC0162,Philippines,Manila,Asia,2025-02-21,Civil Unrest,5,1,TR01084,T0270,Harbourline Engineering,Finance
+INC0162,Philippines,Manila,Asia,2025-02-21,Civil Unrest,5,1,TR01266,T0085,Northstar Energy,Logistics
+INC0162,Philippines,Manila,Asia,2025-02-21,Civil Unrest,5,1,TR01696,T0008,Acme Logistics,HR
+INC0163,Nigeria,Lagos,Africa,2025-11-08,Terrorism,5,1,TR00208,T0054,Northstar Energy,HR
+INC0163,Nigeria,Lagos,Africa,2025-11-08,Terrorism,5,1,TR01940,T0094,Northstar Energy,HR
+INC0164,South Africa,Johannesburg,Africa,2025-05-08,Civil Unrest,3,1,TR00943,T0154,Harbourline Engineering,Engineering
+INC0164,South Africa,Johannesburg,Africa,2025-05-08,Civil Unrest,3,1,TR01316,T0239,Bluepeak Mining,Sales
+INC0165,Philippines,Cebu,Asia,2026-02-01,Health Outbreak,2,0,TR01850,T0024,Bluepeak Mining,Engineering
+INC0166,Turkey,Istanbul,Europe,2026-02-23,Health Outbreak,3,1,TR00934,T0287,Acme Logistics,Operations
+INC0166,Turkey,Istanbul,Europe,2026-02-23,Health Outbreak,3,1,TR01236,T0214,Silverleaf Consulting,Engineering
+INC0166,Turkey,Istanbul,Europe,2026-02-23,Health Outbreak,3,1,TR01750,T0248,Northstar Energy,Operations
+INC0167,Philippines,Manila,Asia,2025-02-26,Transport Disruption,5,1,TR00745,T0175,Acme Logistics,Logistics
+INC0167,Philippines,Manila,Asia,2025-02-26,Transport Disruption,5,1,TR01266,T0085,Northstar Energy,Logistics
+INC0167,Philippines,Manila,Asia,2025-02-26,Transport Disruption,5,1,TR01696,T0008,Acme Logistics,HR
+INC0168,Indonesia,Surabaya,Asia,2025-11-03,Crime,4,0,TR00856,T0017,Bluepeak Mining,Operations
+INC0168,Indonesia,Surabaya,Asia,2025-11-03,Crime,4,0,TR01186,T0048,Harbourline Engineering,Logistics
+INC0169,Mexico,Guadalajara,Americas,2025-11-09,Terrorism,2,1,TR01217,T0104,Silverleaf Consulting,HR
+INC0171,India,Delhi,Asia,2025-09-07,Natural Disaster,2,1,TR00030,T0063,Bluepeak Mining,Engineering
+INC0172,Philippines,Manila,Asia,2025-05-25,Natural Disaster,4,1,TR01986,T0186,Acme Logistics,Logistics
+INC0173,Philippines,Davao,Asia,2025-05-09,Civil Unrest,2,1,TR00741,T0028,Acme Logistics,HR
+INC0173,Philippines,Davao,Asia,2025-05-09,Civil Unrest,2,1,TR00805,T0086,Bluepeak Mining,HR
+INC0173,Philippines,Davao,Asia,2025-05-09,Civil Unrest,2,1,TR01172,T0170,Harbourline Engineering,Logistics
+INC0174,Kenya,Nairobi,Africa,2025-04-04,Civil Unrest,4,1,TR00204,T0094,Northstar Energy,HR
+INC0175,Kenya,Kisumu,Africa,2026-05-24,Civil Unrest,1,0,TR00922,T0103,Northstar Energy,Logistics
+INC0175,Kenya,Kisumu,Africa,2026-05-24,Civil Unrest,1,0,TR01033,T0110,Acme Logistics,Operations
+INC0176,India,Delhi,Asia,2025-02-23,Crime,4,1,TR00599,T0113,Silverleaf Consulting,Finance
+INC0176,India,Delhi,Asia,2025-02-23,Crime,4,1,TR01436,T0075,Harbourline Engineering,Finance
+INC0177,Kenya,Kisumu,Africa,2025-06-05,Health Outbreak,3,1,TR00122,T0153,Acme Logistics,Engineering
+INC0177,Kenya,Kisumu,Africa,2025-06-05,Health Outbreak,3,1,TR00769,T0030,Northstar Energy,Finance
+INC0177,Kenya,Kisumu,Africa,2025-06-05,Health Outbreak,3,1,TR01495,T0183,Acme Logistics,Sales
+INC0178,India,Bangalore,Asia,2026-04-04,Civil Unrest,3,1,TR01621,T0204,Bluepeak Mining,Logistics
+INC0179,Philippines,Davao,Asia,2026-02-10,Crime,4,1,TR01727,T0162,Harbourline Engineering,Engineering
+INC0179,Philippines,Davao,Asia,2026-02-10,Crime,4,1,TR01766,T0213,Acme Logistics,Finance
+INC0180,Kenya,Mombasa,Africa,2025-01-25,Civil Unrest,2,0,TR01933,T0194,Bluepeak Mining,Operations
+INC0181,Indonesia,Bali,Asia,2025-01-20,Transport Disruption,2,0,TR00951,T0065,Acme Logistics,HR
+INC0182,Nigeria,Lagos,Africa,2026-06-15,Civil Unrest,3,0,TR01267,T0069,Bluepeak Mining,Logistics
+INC0183,Philippines,Davao,Asia,2025-12-22,Health Outbreak,4,1,TR01268,T0027,Harbourline Engineering,HR
+INC0183,Philippines,Davao,Asia,2025-12-22,Health Outbreak,4,1,TR01862,T0209,Bluepeak Mining,HR
+INC0185,Nigeria,Port Harcourt,Africa,2025-06-13,Natural Disaster,4,0,TR01567,T0256,Harbourline Engineering,Engineering
+INC0186,Nigeria,Lagos,Africa,2025-05-05,Civil Unrest,3,0,TR00497,T0202,Harbourline Engineering,Operations
+INC0188,Colombia,Medellin,Americas,2026-05-22,Transport Disruption,4,0,TR01090,T0263,Acme Logistics,Engineering
+INC0188,Colombia,Medellin,Americas,2026-05-22,Transport Disruption,4,0,TR01529,T0036,Acme Logistics,Logistics
+INC0189,Colombia,Cali,Americas,2025-04-08,Transport Disruption,3,0,TR01102,T0059,Northstar Energy,Finance
+INC0189,Colombia,Cali,Americas,2025-04-08,Transport Disruption,3,0,TR01627,T0143,Northstar Energy,Finance
+INC0190,Egypt,Cairo,Middle East,2025-07-04,Natural Disaster,2,1,TR00546,T0028,Acme Logistics,HR
+INC0190,Egypt,Cairo,Middle East,2025-07-04,Natural Disaster,2,1,TR01074,T0265,Harbourline Engineering,Finance
+INC0190,Egypt,Cairo,Middle East,2025-07-04,Natural Disaster,2,1,TR01569,T0196,Acme Logistics,Finance
+INC0190,Egypt,Cairo,Middle East,2025-07-04,Natural Disaster,2,1,TR01981,T0001,Harbourline Engineering,Sales
+INC0191,South Africa,Cape Town,Africa,2025-04-27,Terrorism,3,0,TR00335,T0223,Northstar Energy,Finance
+INC0193,Nigeria,Port Harcourt,Africa,2025-12-30,Health Outbreak,5,1,TR00190,T0284,Northstar Energy,Operations
+INC0195,Kenya,Nairobi,Africa,2026-01-25,Civil Unrest,4,1,TR00014,T0170,Harbourline Engineering,Logistics
+INC0198,India,Bangalore,Asia,2026-06-22,Natural Disaster,3,1,TR00984,T0240,Silverleaf Consulting,Engineering
+INC0198,India,Bangalore,Asia,2026-06-22,Natural Disaster,3,1,TR01887,T0118,Silverleaf Consulting,HR
+INC0199,Colombia,Cali,Americas,2025-08-26,Natural Disaster,4,1,TR01753,T0067,Silverleaf Consulting,Engineering
+INC0199,Colombia,Cali,Americas,2025-08-26,Natural Disaster,4,1,TR01824,T0003,Acme Logistics,Operations
+INC0200,South Africa,Durban,Africa,2025-07-20,Civil Unrest,3,0,TR00349,T0166,Harbourline Engineering,HR
+INC0201,Ghana,Accra,Africa,2025-01-17,Transport Disruption,2,0,TR00560,T0121,Bluepeak Mining,Finance
+INC0201,Ghana,Accra,Africa,2025-01-17,Transport Disruption,2,0,TR01432,T0243,Harbourline Engineering,Engineering
+INC0202,Nigeria,Abuja,Africa,2026-05-23,Health Outbreak,4,1,TR01296,T0216,Northstar Energy,Operations
+INC0203,Colombia,Bogota,Americas,2025-10-26,Crime,4,1,TR00161,T0253,Harbourline Engineering,Operations
+INC0204,Brazil,Sao Paulo,Americas,2025-04-15,Natural Disaster,3,0,TR01686,T0108,Silverleaf Consulting,Logistics
+INC0205,Nigeria,Lagos,Africa,2025-09-02,Transport Disruption,3,0,TR00191,T0203,Acme Logistics,HR
+INC0208,Brazil,Sao Paulo,Americas,2026-03-05,Transport Disruption,3,0,TR00661,T0292,Acme Logistics,Engineering
+INC0208,Brazil,Sao Paulo,Americas,2026-03-05,Transport Disruption,3,0,TR01377,T0284,Northstar Energy,Operations
+INC0211,Egypt,Alexandria,Middle East,2025-11-26,Crime,3,0,TR01424,T0027,Harbourline Engineering,HR
+INC0215,South Africa,Cape Town,Africa,2026-01-16,Transport Disruption,1,0,TR01121,T0263,Acme Logistics,Engineering
+INC0215,South Africa,Cape Town,Africa,2026-01-16,Transport Disruption,1,0,TR01560,T0174,Harbourline Engineering,Engineering
+INC0215,South Africa,Cape Town,Africa,2026-01-16,Transport Disruption,1,0,TR01911,T0122,Acme Logistics,HR
+INC0216,UAE,Abu Dhabi,Middle East,2025-08-17,Transport Disruption,1,1,TR00430,T0115,Northstar Energy,Logistics
+INC0216,UAE,Abu Dhabi,Middle East,2025-08-17,Transport Disruption,1,1,TR00466,T0103,Northstar Energy,Logistics
+INC0216,UAE,Abu Dhabi,Middle East,2025-08-17,Transport Disruption,1,1,TR00476,T0103,Northstar Energy,Logistics
+INC0216,UAE,Abu Dhabi,Middle East,2025-08-17,Transport Disruption,1,1,TR00857,T0184,Acme Logistics,Logistics
+INC0217,United States,New York,Americas,2026-06-08,Natural Disaster,2,0,TR00279,T0269,Harbourline Engineering,Finance
+INC0217,United States,New York,Americas,2026-06-08,Natural Disaster,2,0,TR01032,T0013,Harbourline Engineering,Finance
+INC0217,United States,New York,Americas,2026-06-08,Natural Disaster,2,0,TR01039,T0169,Acme Logistics,Sales
+INC0217,United States,New York,Americas,2026-06-08,Natural Disaster,2,0,TR01729,T0068,Bluepeak Mining,HR
+INC0218,Australia,Sydney,Oceania,2025-11-26,Transport Disruption,1,0,TR01553,T0048,Harbourline Engineering,Logistics
+INC0220,Egypt,Cairo,Middle East,2025-08-04,Health Outbreak,2,0,TR00607,T0057,Silverleaf Consulting,Logistics
+INC0221,South Africa,Durban,Africa,2025-12-12,Terrorism,2,1,TR00786,T0280,Silverleaf Consulting,Sales
+INC0221,South Africa,Durban,Africa,2025-12-12,Terrorism,2,1,TR00862,T0096,Acme Logistics,Logistics
+INC0222,UAE,Sharjah,Middle East,2025-01-17,Terrorism,1,0,TR01407,T0058,Northstar Energy,Logistics
+INC0223,Philippines,Cebu,Asia,2025-05-01,Civil Unrest,4,1,TR00741,T0028,Acme Logistics,HR
+INC0223,Philippines,Cebu,Asia,2025-05-01,Civil Unrest,4,1,TR01172,T0170,Harbourline Engineering,Logistics
+INC0223,Philippines,Cebu,Asia,2025-05-01,Civil Unrest,4,1,TR01958,T0089,Harbourline Engineering,Sales
+INC0224,Colombia,Bogota,Americas,2026-02-21,Crime,4,1,TR01677,T0219,Acme Logistics,Logistics
+INC0225,Turkey,Istanbul,Europe,2025-12-23,Crime,1,0,TR00147,T0006,Northstar Energy,Engineering
+INC0225,Turkey,Istanbul,Europe,2025-12-23,Crime,1,0,TR00523,T0045,Northstar Energy,Finance
+INC0225,Turkey,Istanbul,Europe,2025-12-23,Crime,1,0,TR01063,T0007,Acme Logistics,HR
+INC0226,Australia,Perth,Oceania,2025-11-26,Natural Disaster,1,0,TR01553,T0048,Harbourline Engineering,Logistics
+INC0227,Brazil,Brasilia,Americas,2025-08-17,Civil Unrest,5,1,TR01035,T0213,Acme Logistics,Finance
+INC0227,Brazil,Brasilia,Americas,2025-08-17,Civil Unrest,5,1,TR01320,T0190,Bluepeak Mining,Operations
+INC0227,Brazil,Brasilia,Americas,2025-08-17,Civil Unrest,5,1,TR01384,T0241,Silverleaf Consulting,Operations
+INC0228,Nigeria,Port Harcourt,Africa,2025-06-18,Health Outbreak,5,1,TR01567,T0256,Harbourline Engineering,Engineering
+INC0229,Mexico,Mexico City,Americas,2025-08-30,Health Outbreak,4,0,TR00187,T0001,Harbourline Engineering,Sales
+INC0230,Colombia,Cali,Americas,2025-08-07,Terrorism,3,1,TR00040,T0168,Acme Logistics,Sales
+INC0230,Colombia,Cali,Americas,2025-08-07,Terrorism,3,1,TR00482,T0026,Harbourline Engineering,Logistics
+INC0231,Turkey,Izmir,Europe,2025-05-17,Health Outbreak,1,1,TR01837,T0160,Bluepeak Mining,Finance
+INC0232,Brazil,Rio de Janeiro,Americas,2026-05-01,Transport Disruption,3,0,TR00806,T0289,Northstar Energy,Operations
+INC0233,Colombia,Cali,Americas,2025-10-14,Natural Disaster,4,1,TR00793,T0163,Bluepeak Mining,Engineering
+INC0233,Colombia,Cali,Americas,2025-10-14,Natural Disaster,4,1,TR00860,T0185,Northstar Energy,Sales
+INC0234,Turkey,Izmir,Europe,2025-07-28,Terrorism,3,1,TR00008,T0100,Northstar Energy,Finance
+INC0234,Turkey,Izmir,Europe,2025-07-28,Terrorism,3,1,TR00054,T0290,Bluepeak Mining,Engineering
+INC0234,Turkey,Izmir,Europe,2025-07-28,Terrorism,3,1,TR00871,T0124,Silverleaf Consulting,HR
+INC0234,Turkey,Izmir,Europe,2025-07-28,Terrorism,3,1,TR01258,T0120,Acme Logistics,Sales
+INC0235,Indonesia,Bali,Asia,2025-06-13,Transport Disruption,2,0,TR00350,T0042,Bluepeak Mining,Operations
+INC0235,Indonesia,Bali,Asia,2025-06-13,Transport Disruption,2,0,TR00781,T0257,Acme Logistics,Engineering
+INC0235,Indonesia,Bali,Asia,2025-06-13,Transport Disruption,2,0,TR01721,T0251,Northstar Energy,Engineering
+INC0236,Colombia,Bogota,Americas,2026-02-01,Health Outbreak,5,1,TR00975,T0117,Bluepeak Mining,HR
+INC0237,South Africa,Johannesburg,Africa,2025-07-24,Health Outbreak,2,0,TR00349,T0166,Harbourline Engineering,HR
+INC0239,Indonesia,Surabaya,Asia,2026-01-15,Terrorism,3,0,TR00445,T0087,Harbourline Engineering,Logistics
+INC0239,Indonesia,Surabaya,Asia,2026-01-15,Terrorism,3,0,TR00552,T0272,Bluepeak Mining,Engineering
+INC0239,Indonesia,Surabaya,Asia,2026-01-15,Terrorism,3,0,TR01225,T0278,Silverleaf Consulting,Engineering
+INC0240,South Africa,Cape Town,Africa,2026-04-02,Natural Disaster,5,1,TR01067,T0270,Harbourline Engineering,Finance
+INC0240,South Africa,Cape Town,Africa,2026-04-02,Natural Disaster,5,1,TR01832,T0251,Northstar Energy,Engineering
+INC0241,Nigeria,Abuja,Africa,2026-04-27,Crime,5,0,TR01208,T0273,Silverleaf Consulting,Finance
+INC0242,Colombia,Bogota,Americas,2025-05-25,Transport Disruption,4,0,TR00362,T0030,Northstar Energy,Finance
+INC0243,Brazil,Rio de Janeiro,Americas,2025-07-20,Terrorism,3,1,TR01779,T0008,Acme Logistics,HR
+INC0243,Brazil,Rio de Janeiro,Americas,2025-07-20,Terrorism,3,1,TR01800,T0217,Northstar Energy,Engineering
+INC0244,Indonesia,Jakarta,Asia,2026-04-30,Health Outbreak,4,1,TR00694,T0048,Harbourline Engineering,Logistics
+INC0244,Indonesia,Jakarta,Asia,2026-04-30,Health Outbreak,4,1,TR00794,T0075,Harbourline Engineering,Finance
+INC0244,Indonesia,Jakarta,Asia,2026-04-30,Health Outbreak,4,1,TR01192,T0195,Acme Logistics,Operations
+INC0244,Indonesia,Jakarta,Asia,2026-04-30,Health Outbreak,4,1,TR01675,T0057,Silverleaf Consulting,Logistics
+INC0246,Nigeria,Lagos,Africa,2025-05-24,Transport Disruption,5,1,TR00153,T0030,Northstar Energy,Finance
+INC0248,Kenya,Kisumu,Africa,2025-10-04,Natural Disaster,4,1,TR00434,T0277,Acme Logistics,Sales
+INC0248,Kenya,Kisumu,Africa,2025-10-04,Natural Disaster,4,1,TR00667,T0027,Harbourline Engineering,HR
+INC0248,Kenya,Kisumu,Africa,2025-10-04,Natural Disaster,4,1,TR01960,T0109,Northstar Energy,Sales
+INC0249,India,Delhi,Asia,2025-07-01,Crime,2,0,TR00070,T0059,Northstar Energy,Finance
+INC0249,India,Delhi,Asia,2025-07-01,Crime,2,0,TR00625,T0146,Northstar Energy,Sales
+INC0250,Philippines,Davao,Asia,2025-09-16,Health Outbreak,4,1,TR01724,T0191,Acme Logistics,Operations
+INC0251,Egypt,Alexandria,Middle East,2025-11-10,Transport Disruption,3,0,TR01173,T0012,Acme Logistics,HR
+INC0252,Colombia,Bogota,Americas,2025-12-16,Crime,4,1,TR00709,T0075,Harbourline Engineering,Finance
+INC0254,Ghana,Takoradi,Africa,2025-10-08,Crime,1,0,TR01050,T0052,Silverleaf Consulting,Sales
+INC0256,Indonesia,Surabaya,Asia,2025-08-22,Terrorism,3,1,TR01792,T0002,Acme Logistics,Engineering
+INC0257,Turkey,Ankara,Europe,2025-07-19,Health Outbreak,2,1,TR00309,T0046,Harbourline Engineering,Sales
+INC0257,Turkey,Ankara,Europe,2025-07-19,Health Outbreak,2,1,TR00340,T0164,Acme Logistics,Finance
+INC0257,Turkey,Ankara,Europe,2025-07-19,Health Outbreak,2,1,TR00606,T0235,Bluepeak Mining,Operations
+INC0257,Turkey,Ankara,Europe,2025-07-19,Health Outbreak,2,1,TR01132,T0138,Bluepeak Mining,Finance
+INC0259,UAE,Sharjah,Middle East,2025-08-25,Terrorism,1,0,TR00476,T0103,Northstar Energy,Logistics
+INC0261,Brazil,Sao Paulo,Americas,2025-07-30,Civil Unrest,4,1,TR00592,T0182,Bluepeak Mining,Finance
+INC0261,Brazil,Sao Paulo,Americas,2025-07-30,Civil Unrest,4,1,TR00811,T0090,Harbourline Engineering,Finance
+INC0262,Philippines,Manila,Asia,2025-12-05,Health Outbreak,4,1,TR01030,T0148,Acme Logistics,Operations
+INC0263,Turkey,Izmir,Europe,2025-02-10,Terrorism,4,1,TR01454,T0042,Bluepeak Mining,Operations
+INC0264,Colombia,Bogota,Americas,2026-02-02,Crime,4,0,TR00975,T0117,Bluepeak Mining,HR
+INC0266,Brazil,Rio de Janeiro,Americas,2025-08-21,Civil Unrest,2,1,TR01320,T0190,Bluepeak Mining,Operations
+INC0266,Brazil,Rio de Janeiro,Americas,2025-08-21,Civil Unrest,2,1,TR01384,T0241,Silverleaf Consulting,Operations
+INC0267,Egypt,Giza,Middle East,2026-05-01,Transport Disruption,3,0,TR01855,T0214,Silverleaf Consulting,Engineering
+INC0268,Mexico,Monterrey,Americas,2025-02-13,Crime,3,0,TR00438,T0286,Silverleaf Consulting,Logistics
+INC0268,Mexico,Monterrey,Americas,2025-02-13,Crime,3,0,TR00583,T0053,Harbourline Engineering,Engineering
+INC0269,Mexico,Mexico City,Americas,2026-06-09,Terrorism,4,1,TR01828,T0092,Acme Logistics,Sales
+INC0270,Indonesia,Surabaya,Asia,2025-06-02,Terrorism,3,1,TR00262,T0142,Northstar Energy,Sales
+INC0271,Turkey,Izmir,Europe,2026-03-03,Terrorism,3,1,TR01912,T0198,Bluepeak Mining,HR
+INC0272,South Africa,Durban,Africa,2025-11-03,Natural Disaster,2,1,TR00217,T0134,Silverleaf Consulting,Operations
+INC0272,South Africa,Durban,Africa,2025-11-03,Natural Disaster,2,1,TR01137,T0056,Bluepeak Mining,Logistics
+INC0273,Indonesia,Jakarta,Asia,2025-07-02,Civil Unrest,2,0,TR00510,T0044,Northstar Energy,Engineering
+INC0274,Nigeria,Port Harcourt,Africa,2026-03-05,Civil Unrest,4,1,TR00754,T0249,Harbourline Engineering,Engineering
+INC0275,Mexico,Monterrey,Americas,2025-09-11,Transport Disruption,3,0,TR00298,T0146,Northstar Energy,Sales
+INC0275,Mexico,Monterrey,Americas,2025-09-11,Transport Disruption,3,0,TR00384,T0208,Northstar Energy,Logistics
+INC0275,Mexico,Monterrey,Americas,2025-09-11,Transport Disruption,3,0,TR00875,T0125,Acme Logistics,HR
+INC0276,Kenya,Mombasa,Africa,2025-09-25,Natural Disaster,2,0,TR00357,T0284,Northstar Energy,Operations
+INC0276,Kenya,Mombasa,Africa,2025-09-25,Natural Disaster,2,0,TR01960,T0109,Northstar Energy,Sales
+INC0277,Indonesia,Surabaya,Asia,2025-10-23,Natural Disaster,4,0,TR01007,T0139,Bluepeak Mining,Logistics
+INC0277,Indonesia,Surabaya,Asia,2025-10-23,Natural Disaster,4,0,TR01848,T0265,Harbourline Engineering,Finance
+INC0278,Nigeria,Lagos,Africa,2025-02-12,Civil Unrest,4,1,TR00363,T0110,Acme Logistics,Operations
+INC0278,Nigeria,Lagos,Africa,2025-02-12,Civil Unrest,4,1,TR01073,T0061,Northstar Energy,Engineering
+INC0280,Brazil,Sao Paulo,Americas,2025-05-20,Crime,1,0,TR00458,T0298,Acme Logistics,Sales
+INC0280,Brazil,Sao Paulo,Americas,2025-05-20,Crime,1,0,TR00676,T0185,Northstar Energy,Sales
+INC0281,Indonesia,Surabaya,Asia,2025-01-22,Civil Unrest,2,0,TR00951,T0065,Acme Logistics,HR
+INC0281,Indonesia,Surabaya,Asia,2025-01-22,Civil Unrest,2,0,TR01572,T0115,Northstar Energy,Logistics
+INC0282,France,Lyon,Europe,2025-02-01,Transport Disruption,1,0,TR01188,T0164,Acme Logistics,Finance
+INC0282,France,Lyon,Europe,2025-02-01,Transport Disruption,1,0,TR01430,T0185,Northstar Energy,Sales
+INC0283,Ghana,Takoradi,Africa,2025-09-24,Health Outbreak,2,0,TR00855,T0262,Silverleaf Consulting,HR
+INC0284,Mexico,Monterrey,Americas,2026-03-29,Civil Unrest,3,0,TR00939,T0119,Northstar Energy,Sales
+INC0284,Mexico,Monterrey,Americas,2026-03-29,Civil Unrest,3,0,TR01756,T0072,Northstar Energy,Finance
+INC0285,Philippines,Davao,Asia,2025-09-26,Crime,4,1,TR01900,T0045,Northstar Energy,Finance
+INC0286,Philippines,Davao,Asia,2026-02-09,Civil Unrest,5,1,TR01727,T0162,Harbourline Engineering,Engineering
+INC0287,Jordan,Irbid,Middle East,2025-06-14,Transport Disruption,2,0,TR00723,T0259,Northstar Energy,HR
+INC0287,Jordan,Irbid,Middle East,2025-06-14,Transport Disruption,2,0,TR01311,T0187,Silverleaf Consulting,Logistics
+INC0288,Indonesia,Jakarta,Asia,2025-02-13,Health Outbreak,4,1,TR00598,T0103,Northstar Energy,Logistics
+INC0289,Brazil,Sao Paulo,Americas,2025-07-11,Natural Disaster,4,0,TR00130,T0006,Northstar Energy,Engineering
+INC0290,Colombia,Medellin,Americas,2025-11-10,Natural Disaster,4,0,TR00449,T0141,Bluepeak Mining,Operations
+INC0292,Philippines,Manila,Asia,2025-04-04,Natural Disaster,3,1,TR00145,T0079,Harbourline Engineering,Logistics
+INC0292,Philippines,Manila,Asia,2025-04-04,Natural Disaster,3,1,TR01387,T0140,Acme Logistics,Sales
+INC0293,South Africa,Johannesburg,Africa,2025-06-03,Civil Unrest,3,0,TR01238,T0073,Northstar Energy,Operations
+INC0293,South Africa,Johannesburg,Africa,2025-06-03,Civil Unrest,3,0,TR01587,T0297,Acme Logistics,HR
+INC0295,Brazil,Sao Paulo,Americas,2025-12-15,Civil Unrest,3,1,TR00459,T0229,Acme Logistics,Finance
+INC0295,Brazil,Sao Paulo,Americas,2025-12-15,Civil Unrest,3,1,TR00901,T0173,Harbourline Engineering,Operations
+INC0295,Brazil,Sao Paulo,Americas,2025-12-15,Civil Unrest,3,1,TR01180,T0131,Silverleaf Consulting,Sales
+INC0298,Philippines,Manila,Asia,2026-02-28,Terrorism,4,1,TR00612,T0108,Silverleaf Consulting,Logistics
+INC0300,Nigeria,Abuja,Africa,2026-06-26,Health Outbreak,4,1,TR00138,T0201,Acme Logistics,Finance
+INC0300,Nigeria,Abuja,Africa,2026-06-26,Health Outbreak,4,1,TR01816,T0187,Silverleaf Consulting,Logistics
+INC0301,Colombia,Cali,Americas,2026-06-10,Natural Disaster,5,1,TR00257,T0300,Bluepeak Mining,Logistics
+INC0301,Colombia,Cali,Americas,2026-06-10,Natural Disaster,5,1,TR00498,T0068,Bluepeak Mining,HR
+INC0302,South Africa,Durban,Africa,2026-06-06,Natural Disaster,3,0,TR00958,T0265,Harbourline Engineering,Finance
+INC0302,South Africa,Durban,Africa,2026-06-06,Natural Disaster,3,0,TR01027,T0081,Bluepeak Mining,Operations
+INC0302,South Africa,Durban,Africa,2026-06-06,Natural Disaster,3,0,TR01889,T0029,Bluepeak Mining,Operations
+INC0303,Indonesia,Surabaya,Asia,2026-05-06,Transport Disruption,2,0,TR00694,T0048,Harbourline Engineering,Logistics
+INC0303,Indonesia,Surabaya,Asia,2026-05-06,Transport Disruption,2,0,TR01192,T0195,Acme Logistics,Operations
+INC0304,Philippines,Davao,Asia,2026-05-04,Natural Disaster,3,1,TR00035,T0230,Northstar Energy,Operations
+INC0304,Philippines,Davao,Asia,2026-05-04,Natural Disaster,3,1,TR01408,T0261,Acme Logistics,Logistics
+INC0304,Philippines,Davao,Asia,2026-05-04,Natural Disaster,3,1,TR01701,T0016,Acme Logistics,HR
+INC0306,Ghana,Accra,Africa,2025-04-14,Transport Disruption,2,0,TR00825,T0238,Northstar Energy,Operations
+INC0306,Ghana,Accra,Africa,2025-04-14,Transport Disruption,2,0,TR01193,T0232,Harbourline Engineering,Logistics
+INC0306,Ghana,Accra,Africa,2025-04-14,Transport Disruption,2,0,TR01693,T0115,Northstar Energy,Logistics
+INC0307,Colombia,Cali,Americas,2026-04-17,Natural Disaster,3,1,TR00060,T0243,Harbourline Engineering,Engineering
+INC0307,Colombia,Cali,Americas,2026-04-17,Natural Disaster,3,1,TR00134,T0095,Acme Logistics,Finance
+INC0310,India,Mumbai,Asia,2026-01-07,Natural Disaster,1,0,TR01668,T0122,Acme Logistics,HR
+INC0311,Nigeria,Port Harcourt,Africa,2025-11-28,Terrorism,5,1,TR00439,T0001,Harbourline Engineering,Sales
+INC0312,Colombia,Bogota,Americas,2025-03-03,Terrorism,4,1,TR01646,T0142,Northstar Energy,Sales
+INC0312,Colombia,Bogota,Americas,2025-03-03,Terrorism,4,1,TR01673,T0179,Northstar Energy,HR
+INC0314,Colombia,Cali,Americas,2025-05-25,Civil Unrest,5,1,TR00362,T0030,Northstar Energy,Finance
+INC0315,Nigeria,Lagos,Africa,2025-10-06,Health Outbreak,3,1,TR01404,T0004,Acme Logistics,HR
+INC0315,Nigeria,Lagos,Africa,2025-10-06,Health Outbreak,3,1,TR01528,T0270,Harbourline Engineering,Finance
+INC0315,Nigeria,Lagos,Africa,2025-10-06,Health Outbreak,3,1,TR01545,T0145,Silverleaf Consulting,Finance
+INC0316,India,Mumbai,Asia,2026-04-13,Transport Disruption,3,0,TR01621,T0204,Bluepeak Mining,Logistics
+INC0318,Colombia,Medellin,Americas,2025-05-09,Health Outbreak,5,1,TR01008,T0001,Harbourline Engineering,Sales
+INC0318,Colombia,Medellin,Americas,2025-05-09,Health Outbreak,5,1,TR01161,T0292,Acme Logistics,Engineering
+INC0320,Colombia,Medellin,Americas,2025-04-09,Natural Disaster,4,1,TR01102,T0059,Northstar Energy,Finance
+INC0320,Colombia,Medellin,Americas,2025-04-09,Natural Disaster,4,1,TR01627,T0143,Northstar Energy,Finance
+INC0322,Kenya,Nairobi,Africa,2025-08-01,Crime,5,1,TR00132,T0295,Bluepeak Mining,Sales
+INC0324,Jordan,Aqaba,Middle East,2025-08-16,Crime,4,0,TR00956,T0143,Northstar Energy,Finance
+INC0325,Philippines,Manila,Asia,2025-09-23,Civil Unrest,4,1,TR01900,T0045,Northstar Energy,Finance
+INC0329,Turkey,Izmir,Europe,2025-04-02,Health Outbreak,5,1,TR00701,T0264,Northstar Energy,HR
+INC0331,South Africa,Johannesburg,Africa,2026-05-31,Crime,3,1,TR01027,T0081,Bluepeak Mining,Operations
+INC0331,South Africa,Johannesburg,Africa,2026-05-31,Crime,3,1,TR01248,T0229,Acme Logistics,Finance
+INC0332,Colombia,Medellin,Americas,2025-11-30,Natural Disaster,2,1,TR01213,T0266,Silverleaf Consulting,Sales
+INC0333,Brazil,Sao Paulo,Americas,2025-12-17,Health Outbreak,2,1,TR00459,T0229,Acme Logistics,Finance
+INC0333,Brazil,Sao Paulo,Americas,2025-12-17,Health Outbreak,2,1,TR00557,T0173,Harbourline Engineering,Operations
+INC0333,Brazil,Sao Paulo,Americas,2025-12-17,Health Outbreak,2,1,TR00901,T0173,Harbourline Engineering,Operations
+INC0334,Mexico,Guadalajara,Americas,2025-03-26,Civil Unrest,4,1,TR00940,T0152,Acme Logistics,Engineering
+INC0335,India,Mumbai,Asia,2026-03-03,Transport Disruption,2,1,TR01446,T0238,Northstar Energy,Operations
+INC0336,United States,Houston,Americas,2025-06-07,Transport Disruption,2,0,TR01762,T0160,Bluepeak Mining,Finance
+INC0337,Mexico,Monterrey,Americas,2026-04-19,Crime,2,1,TR01146,T0023,Harbourline Engineering,Sales
+INC0337,Mexico,Monterrey,Americas,2026-04-19,Crime,2,1,TR01218,T0119,Northstar Energy,Sales
+INC0337,Mexico,Monterrey,Americas,2026-04-19,Crime,2,1,TR01310,T0216,Northstar Energy,Operations
+INC0338,Colombia,Bogota,Americas,2025-05-21,Terrorism,5,1,TR00362,T0030,Northstar Energy,Finance
+INC0340,South Africa,Cape Town,Africa,2025-11-16,Terrorism,4,1,TR00272,T0224,Northstar Energy,Logistics
+INC0341,Mexico,Monterrey,Americas,2025-12-14,Health Outbreak,2,0,TR00495,T0127,Acme Logistics,Engineering
+INC0343,Indonesia,Surabaya,Asia,2025-08-31,Crime,3,0,TR00746,T0265,Harbourline Engineering,Finance
+INC0343,Indonesia,Surabaya,Asia,2025-08-31,Crime,3,0,TR01583,T0005,Acme Logistics,Engineering
+INC0344,Jordan,Amman,Middle East,2026-05-15,Transport Disruption,2,0,TR01046,T0207,Bluepeak Mining,Engineering
+INC0344,Jordan,Amman,Middle East,2026-05-15,Transport Disruption,2,0,TR01815,T0047,Silverleaf Consulting,Operations
+INC0345,Turkey,Izmir,Europe,2025-12-18,Terrorism,2,1,TR00523,T0045,Northstar Energy,Finance
+INC0345,Turkey,Izmir,Europe,2025-12-18,Terrorism,2,1,TR01063,T0007,Acme Logistics,HR
+INC0346,Indonesia,Jakarta,Asia,2025-12-15,Natural Disaster,3,1,TR00185,T0008,Acme Logistics,HR
+INC0346,Indonesia,Jakarta,Asia,2025-12-15,Natural Disaster,3,1,TR00524,T0219,Acme Logistics,Logistics
+INC0346,Indonesia,Jakarta,Asia,2025-12-15,Natural Disaster,3,1,TR00981,T0100,Northstar Energy,Finance
+INC0346,Indonesia,Jakarta,Asia,2025-12-15,Natural Disaster,3,1,TR01120,T0140,Acme Logistics,Sales
+INC0346,Indonesia,Jakarta,Asia,2025-12-15,Natural Disaster,3,1,TR01421,T0167,Acme Logistics,HR
+INC0346,Indonesia,Jakarta,Asia,2025-12-15,Natural Disaster,3,1,TR01503,T0118,Silverleaf Consulting,HR
+INC0346,Indonesia,Jakarta,Asia,2025-12-15,Natural Disaster,3,1,TR01648,T0237,Northstar Energy,Engineering
+INC0346,Indonesia,Jakarta,Asia,2025-12-15,Natural Disaster,3,1,TR01797,T0199,Acme Logistics,Operations
+INC0347,Philippines,Manila,Asia,2025-08-18,Crime,4,0,TR01595,T0156,Harbourline Engineering,Finance
+INC0348,Mexico,Mexico City,Americas,2025-03-23,Transport Disruption,3,0,TR00940,T0152,Acme Logistics,Engineering
+INC0349,Philippines,Davao,Asia,2026-04-03,Crime,5,1,TR00949,T0156,Harbourline Engineering,Finance
+INC0349,Philippines,Davao,Asia,2026-04-03,Crime,5,1,TR01390,T0093,Bluepeak Mining,Operations
+INC0350,Colombia,Medellin,Americas,2025-09-24,Transport Disruption,5,1,TR01285,T0280,Silverleaf Consulting,Sales
+INC0350,Colombia,Medellin,Americas,2025-09-24,Transport Disruption,5,1,TR01662,T0006,Northstar Energy,Engineering
+INC0352,United States,Chicago,Americas,2025-05-16,Terrorism,1,1,TR01023,T0215,Silverleaf Consulting,Logistics
+INC0352,United States,Chicago,Americas,2025-05-16,Terrorism,1,1,TR01869,T0273,Silverleaf Consulting,Finance
+INC0352,United States,Chicago,Americas,2025-05-16,Terrorism,1,1,TR01896,T0289,Northstar Energy,Operations
+INC0352,United States,Chicago,Americas,2025-05-16,Terrorism,1,1,TR01908,T0094,Northstar Energy,HR
+INC0353,Ghana,Takoradi,Africa,2026-01-25,Transport Disruption,1,0,TR01054,T0006,Northstar Energy,Engineering
+INC0353,Ghana,Takoradi,Africa,2026-01-25,Transport Disruption,1,0,TR01365,T0103,Northstar Energy,Logistics
+INC0353,Ghana,Takoradi,Africa,2026-01-25,Transport Disruption,1,0,TR01661,T0269,Harbourline Engineering,Finance
+INC0356,South Africa,Durban,Africa,2025-07-07,Transport Disruption,5,0,TR00316,T0292,Acme Logistics,Engineering
+INC0356,South Africa,Durban,Africa,2025-07-07,Transport Disruption,5,0,TR01711,T0022,Silverleaf Consulting,Finance
+INC0357,Indonesia,Jakarta,Asia,2025-04-17,Crime,4,0,TR01509,T0127,Acme Logistics,Engineering
+INC0358,Colombia,Cali,Americas,2026-05-28,Terrorism,4,1,TR01089,T0022,Silverleaf Consulting,Finance
+INC0359,Colombia,Medellin,Americas,2025-02-03,Natural Disaster,3,1,TR00180,T0041,Acme Logistics,Finance
+INC0359,Colombia,Medellin,Americas,2025-02-03,Natural Disaster,3,1,TR01478,T0100,Northstar Energy,Finance
+INC0359,Colombia,Medellin,Americas,2025-02-03,Natural Disaster,3,1,TR01757,T0137,Northstar Energy,Operations
+INC0362,Brazil,Brasilia,Americas,2025-02-07,Crime,3,0,TR00006,T0216,Northstar Energy,Operations
+INC0363,Colombia,Cali,Americas,2025-04-25,Health Outbreak,5,1,TR01378,T0096,Acme Logistics,Logistics
+INC0365,South Africa,Cape Town,Africa,2025-02-16,Crime,4,1,TR01010,T0236,Northstar Energy,Engineering
+INC0366,United States,New York,Americas,2025-09-02,Health Outbreak,3,1,TR01105,T0230,Northstar Energy,Operations
+INC0367,Egypt,Giza,Middle East,2026-04-17,Natural Disaster,3,1,TR01048,T0069,Bluepeak Mining,Logistics
+INC0367,Egypt,Giza,Middle East,2026-04-17,Natural Disaster,3,1,TR01078,T0115,Northstar Energy,Logistics
+INC0367,Egypt,Giza,Middle East,2026-04-17,Natural Disaster,3,1,TR01847,T0227,Harbourline Engineering,Operations
+INC0368,Mexico,Mexico City,Americas,2025-07-07,Terrorism,5,1,TR01776,T0024,Bluepeak Mining,Engineering
+INC0369,Kenya,Mombasa,Africa,2026-01-27,Health Outbreak,1,0,TR00014,T0170,Harbourline Engineering,Logistics
+INC0369,Kenya,Mombasa,Africa,2026-01-27,Health Outbreak,1,0,TR00136,T0039,Harbourline Engineering,Engineering
+INC0369,Kenya,Mombasa,Africa,2026-01-27,Health Outbreak,1,0,TR01682,T0149,Northstar Energy,Finance
+INC0370,Philippines,Manila,Asia,2025-02-19,Civil Unrest,3,1,TR00021,T0163,Bluepeak Mining,Engineering
+INC0370,Philippines,Manila,Asia,2025-02-19,Civil Unrest,3,1,TR01084,T0270,Harbourline Engineering,Finance
+INC0370,Philippines,Manila,Asia,2025-02-19,Civil Unrest,3,1,TR01696,T0008,Acme Logistics,HR
+INC0370,Philippines,Manila,Asia,2025-02-19,Civil Unrest,3,1,TR01805,T0294,Bluepeak Mining,Engineering
+INC0371,Colombia,Cali,Americas,2025-10-09,Natural Disaster,5,1,TR00860,T0185,Northstar Energy,Sales
+INC0373,Kenya,Nairobi,Africa,2026-05-21,Transport Disruption,4,0,TR00922,T0103,Northstar Energy,Logistics
+INC0374,United States,New York,Americas,2025-01-09,Transport Disruption,1,0,TR00076,T0077,Silverleaf Consulting,Operations
+INC0374,United States,New York,Americas,2025-01-09,Transport Disruption,1,0,TR00223,T0270,Harbourline Engineering,Finance
+INC0375,Indonesia,Jakarta,Asia,2025-05-31,Terrorism,5,0,TR00262,T0142,Northstar Energy,Sales
+INC0379,Kenya,Mombasa,Africa,2026-06-01,Crime,1,0,TR00247,T0072,Northstar Energy,Finance
+INC0379,Kenya,Mombasa,Africa,2026-06-01,Crime,1,0,TR01806,T0012,Acme Logistics,HR
+INC0381,South Africa,Cape Town,Africa,2025-03-12,Civil Unrest,3,1,TR00462,T0070,Harbourline Engineering,HR
+INC0381,South Africa,Cape Town,Africa,2025-03-12,Civil Unrest,3,1,TR01524,T0072,Northstar Energy,Finance
+INC0381,South Africa,Cape Town,Africa,2025-03-12,Civil Unrest,3,1,TR01802,T0256,Harbourline Engineering,Engineering
+INC0382,France,Paris,Europe,2025-08-18,Health Outbreak,2,0,TR00314,T0208,Northstar Energy,Logistics
+INC0382,France,Paris,Europe,2025-08-18,Health Outbreak,2,0,TR00589,T0195,Acme Logistics,Operations
+INC0382,France,Paris,Europe,2025-08-18,Health Outbreak,2,0,TR01323,T0175,Acme Logistics,Logistics
+INC0384,India,Delhi,Asia,2026-02-11,Crime,4,1,TR00531,T0260,Bluepeak Mining,Operations
+INC0385,Egypt,Alexandria,Middle East,2025-09-08,Natural Disaster,3,1,TR00595,T0242,Bluepeak Mining,HR
+INC0386,Philippines,Cebu,Asia,2025-05-10,Natural Disaster,4,1,TR00741,T0028,Acme Logistics,HR
+INC0386,Philippines,Cebu,Asia,2025-05-10,Natural Disaster,4,1,TR00805,T0086,Bluepeak Mining,HR
+INC0386,Philippines,Cebu,Asia,2025-05-10,Natural Disaster,4,1,TR01172,T0170,Harbourline Engineering,Logistics
+INC0389,Indonesia,Jakarta,Asia,2026-02-02,Health Outbreak,3,1,TR00023,T0221,Bluepeak Mining,Logistics
+INC0389,Indonesia,Jakarta,Asia,2026-02-02,Health Outbreak,3,1,TR00435,T0210,Silverleaf Consulting,Engineering
+INC0389,Indonesia,Jakarta,Asia,2026-02-02,Health Outbreak,3,1,TR01275,T0018,Silverleaf Consulting,Logistics
+INC0391,Colombia,Medellin,Americas,2025-05-15,Civil Unrest,4,1,TR01161,T0292,Acme Logistics,Engineering
+INC0392,Indonesia,Jakarta,Asia,2025-10-03,Terrorism,3,1,TR00249,T0278,Silverleaf Consulting,Engineering
+INC0392,Indonesia,Jakarta,Asia,2025-10-03,Terrorism,3,1,TR01247,T0224,Northstar Energy,Logistics
+INC0395,South Africa,Cape Town,Africa,2025-10-16,Civil Unrest,1,0,TR00067,T0131,Silverleaf Consulting,Sales
+INC0395,South Africa,Cape Town,Africa,2025-10-16,Civil Unrest,1,0,TR01789,T0226,Acme Logistics,HR
+INC0395,South Africa,Cape Town,Africa,2025-10-16,Civil Unrest,1,0,TR01944,T0031,Acme Logistics,HR
+INC0396,Philippines,Cebu,Asia,2025-09-19,Civil Unrest,3,1,TR01085,T0211,Bluepeak Mining,Engineering
+INC0396,Philippines,Cebu,Asia,2025-09-19,Civil Unrest,3,1,TR01900,T0045,Northstar Energy,Finance
+INC0399,Indonesia,Bali,Asia,2026-02-12,Civil Unrest,3,1,TR00023,T0221,Bluepeak Mining,Logistics
+INC0399,Indonesia,Bali,Asia,2026-02-12,Civil Unrest,3,1,TR00435,T0210,Silverleaf Consulting,Engineering
+INC0400,South Africa,Cape Town,Africa,2025-06-15,Health Outbreak,3,1,TR00155,T0289,Northstar Energy,Operations
+INC0400,South Africa,Cape Town,Africa,2025-06-15,Health Outbreak,3,1,TR00481,T0106,Silverleaf Consulting,Sales
+INC0402,Brazil,Rio de Janeiro,Americas,2025-02-10,Crime,5,0,TR00006,T0216,Northstar Energy,Operations
+INC0403,Ghana,Kumasi,Africa,2025-08-29,Transport Disruption,2,0,TR00493,T0017,Bluepeak Mining,Operations
+INC0403,Ghana,Kumasi,Africa,2025-08-29,Transport Disruption,2,0,TR00675,T0107,Acme Logistics,Logistics
+INC0403,Ghana,Kumasi,Africa,2025-08-29,Transport Disruption,2,0,TR01817,T0119,Northstar Energy,Sales
+INC0404,Kenya,Mombasa,Africa,2025-03-19,Terrorism,2,1,TR00575,T0069,Bluepeak Mining,Logistics
+INC0404,Kenya,Mombasa,Africa,2025-03-19,Terrorism,2,1,TR01250,T0225,Acme Logistics,HR
+INC0405,Philippines,Manila,Asia,2026-01-29,Terrorism,4,1,TR00536,T0031,Acme Logistics,HR
+INC0405,Philippines,Manila,Asia,2026-01-29,Terrorism,4,1,TR01850,T0024,Bluepeak Mining,Engineering
+INC0408,France,Paris,Europe,2025-02-20,Health Outbreak,2,1,TR00088,T0276,Silverleaf Consulting,Sales
+INC0408,France,Paris,Europe,2025-02-20,Health Outbreak,2,1,TR00099,T0024,Bluepeak Mining,Engineering
+INC0408,France,Paris,Europe,2025-02-20,Health Outbreak,2,1,TR00165,T0004,Acme Logistics,HR
+INC0408,France,Paris,Europe,2025-02-20,Health Outbreak,2,1,TR00456,T0188,Silverleaf Consulting,Sales
+INC0408,France,Paris,Europe,2025-02-20,Health Outbreak,2,1,TR01552,T0152,Acme Logistics,Engineering
+INC0409,Nigeria,Lagos,Africa,2025-11-27,Natural Disaster,3,1,TR00439,T0001,Harbourline Engineering,Sales
+INC0413,Philippines,Davao,Asia,2025-09-15,Natural Disaster,4,0,TR01724,T0191,Acme Logistics,Operations
+INC0415,India,Mumbai,Asia,2026-03-06,Terrorism,3,1,TR01446,T0238,Northstar Energy,Operations
+INC0417,United States,Chicago,Americas,2025-09-18,Health Outbreak,2,1,TR00586,T0182,Bluepeak Mining,Finance
+INC0417,United States,Chicago,Americas,2025-09-18,Health Outbreak,2,1,TR00960,T0263,Acme Logistics,Engineering
+INC0417,United States,Chicago,Americas,2025-09-18,Health Outbreak,2,1,TR01176,T0274,Bluepeak Mining,Finance
+INC0417,United States,Chicago,Americas,2025-09-18,Health Outbreak,2,1,TR01481,T0240,Silverleaf Consulting,Engineering
+INC0417,United States,Chicago,Americas,2025-09-18,Health Outbreak,2,1,TR01984,T0012,Acme Logistics,HR
+INC0418,Nigeria,Abuja,Africa,2025-11-24,Crime,5,1,TR00439,T0001,Harbourline Engineering,Sales
+INC0420,Mexico,Guadalajara,Americas,2026-05-23,Transport Disruption,1,0,TR00419,T0083,Harbourline Engineering,Logistics
+INC0420,Mexico,Guadalajara,Americas,2026-05-23,Transport Disruption,1,0,TR01562,T0246,Acme Logistics,Finance
+INC0422,Mexico,Mexico City,Americas,2025-07-20,Health Outbreak,4,0,TR00715,T0263,Acme Logistics,Engineering
+INC0423,Brazil,Rio de Janeiro,Americas,2025-01-18,Civil Unrest,1,0,TR00366,T0123,Harbourline Engineering,Logistics
+INC0423,Brazil,Rio de Janeiro,Americas,2025-01-18,Civil Unrest,1,0,TR00733,T0107,Acme Logistics,Logistics
+INC0424,Mexico,Mexico City,Americas,2025-07-20,Transport Disruption,3,0,TR00715,T0263,Acme Logistics,Engineering
+INC0427,Australia,Sydney,Oceania,2025-02-23,Terrorism,1,0,TR00726,T0281,Northstar Energy,Finance
+INC0429,Brazil,Sao Paulo,Americas,2026-03-15,Transport Disruption,3,1,TR00169,T0007,Acme Logistics,HR
+INC0429,Brazil,Sao Paulo,Americas,2026-03-15,Transport Disruption,3,1,TR01135,T0022,Silverleaf Consulting,Finance
+INC0430,Indonesia,Jakarta,Asia,2025-01-23,Terrorism,1,0,TR00951,T0065,Acme Logistics,HR
+INC0430,Indonesia,Jakarta,Asia,2025-01-23,Terrorism,1,0,TR01572,T0115,Northstar Energy,Logistics
+INC0432,Kenya,Mombasa,Africa,2026-02-01,Natural Disaster,3,1,TR00014,T0170,Harbourline Engineering,Logistics
+INC0432,Kenya,Mombasa,Africa,2026-02-01,Natural Disaster,3,1,TR00136,T0039,Harbourline Engineering,Engineering
+INC0432,Kenya,Mombasa,Africa,2026-02-01,Natural Disaster,3,1,TR00213,T0039,Harbourline Engineering,Engineering
+INC0432,Kenya,Mombasa,Africa,2026-02-01,Natural Disaster,3,1,TR01573,T0200,Bluepeak Mining,Finance
+INC0432,Kenya,Mombasa,Africa,2026-02-01,Natural Disaster,3,1,TR01682,T0149,Northstar Energy,Finance
+INC0432,Kenya,Mombasa,Africa,2026-02-01,Natural Disaster,3,1,TR01809,T0156,Harbourline Engineering,Finance
+INC0433,Nigeria,Port Harcourt,Africa,2025-02-05,Transport Disruption,5,1,TR01679,T0208,Northstar Energy,Logistics
+INC0434,Colombia,Cali,Americas,2025-05-21,Transport Disruption,5,1,TR00362,T0030,Northstar Energy,Finance
+INC0435,Colombia,Medellin,Americas,2025-02-01,Terrorism,5,1,TR01478,T0100,Northstar Energy,Finance
+INC0435,Colombia,Medellin,Americas,2025-02-01,Terrorism,5,1,TR01757,T0137,Northstar Energy,Operations
+INC0437,Jordan,Aqaba,Middle East,2026-04-20,Health Outbreak,2,1,TR00168,T0052,Silverleaf Consulting,Sales
+INC0438,Indonesia,Bali,Asia,2025-07-18,Civil Unrest,5,1,TR00691,T0287,Acme Logistics,Operations
+INC0438,Indonesia,Bali,Asia,2025-07-18,Civil Unrest,5,1,TR01639,T0125,Acme Logistics,HR
+INC0438,Indonesia,Bali,Asia,2025-07-18,Civil Unrest,5,1,TR01920,T0084,Silverleaf Consulting,Sales
+INC0440,Philippines,Davao,Asia,2025-09-15,Transport Disruption,5,0,TR01724,T0191,Acme Logistics,Operations
+INC0441,Colombia,Bogota,Americas,2025-05-23,Crime,5,1,TR00362,T0030,Northstar Energy,Finance
+INC0444,Kenya,Kisumu,Africa,2026-05-15,Health Outbreak,3,1,TR00828,T0026,Harbourline Engineering,Logistics
+INC0444,Kenya,Kisumu,Africa,2026-05-15,Health Outbreak,3,1,TR00922,T0103,Northstar Energy,Logistics
+INC0444,Kenya,Kisumu,Africa,2026-05-15,Health Outbreak,3,1,TR01510,T0063,Bluepeak Mining,Engineering
+INC0445,Nigeria,Port Harcourt,Africa,2025-11-28,Transport Disruption,5,0,TR00439,T0001,Harbourline Engineering,Sales
+INC0446,Nigeria,Port Harcourt,Africa,2025-08-30,Civil Unrest,3,1,TR00191,T0203,Acme Logistics,HR
+INC0451,UAE,Dubai,Middle East,2025-11-02,Transport Disruption,2,0,TR00714,T0104,Silverleaf Consulting,HR
+INC0451,UAE,Dubai,Middle East,2025-11-02,Transport Disruption,2,0,TR01002,T0165,Harbourline Engineering,HR
+INC0452,Mexico,Monterrey,Americas,2025-01-26,Transport Disruption,4,0,TR01293,T0154,Harbourline Engineering,Engineering
+INC0455,UAE,Sharjah,Middle East,2025-04-30,Health Outbreak,1,0,TR00496,T0036,Acme Logistics,Logistics
+INC0455,UAE,Sharjah,Middle East,2025-04-30,Health Outbreak,1,0,TR00629,T0262,Silverleaf Consulting,HR
+INC0455,UAE,Sharjah,Middle East,2025-04-30,Health Outbreak,1,0,TR01839,T0248,Northstar Energy,Operations
+INC0456,Philippines,Davao,Asia,2025-09-15,Natural Disaster,5,1,TR01724,T0191,Acme Logistics,Operations
+INC0457,Australia,Perth,Oceania,2025-02-25,Crime,1,0,TR00726,T0281,Northstar Energy,Finance
+INC0458,Brazil,Brasilia,Americas,2025-12-30,Transport Disruption,4,1,TR00260,T0265,Harbourline Engineering,Finance
+INC0458,Brazil,Brasilia,Americas,2025-12-30,Transport Disruption,4,1,TR01053,T0294,Bluepeak Mining,Engineering
+INC0458,Brazil,Brasilia,Americas,2025-12-30,Transport Disruption,4,1,TR01689,T0201,Acme Logistics,Finance
+INC0460,Germany,Berlin,Europe,2026-01-28,Health Outbreak,2,0,TR01608,T0052,Silverleaf Consulting,Sales
+INC0460,Germany,Berlin,Europe,2026-01-28,Health Outbreak,2,0,TR01918,T0255,Acme Logistics,Operations
+INC0461,Kenya,Kisumu,Africa,2025-03-27,Health Outbreak,3,0,TR01181,T0235,Bluepeak Mining,Operations
+INC0461,Kenya,Kisumu,Africa,2025-03-27,Health Outbreak,3,0,TR01717,T0281,Northstar Energy,Finance
+INC0462,Mexico,Guadalajara,Americas,2025-05-28,Transport Disruption,2,0,TR00222,T0260,Bluepeak Mining,Operations
+INC0463,India,Delhi,Asia,2025-08-30,Civil Unrest,2,1,TR00030,T0063,Bluepeak Mining,Engineering
+INC0465,South Africa,Johannesburg,Africa,2025-06-22,Terrorism,2,1,TR00155,T0289,Northstar Energy,Operations
+INC0465,South Africa,Johannesburg,Africa,2025-06-22,Terrorism,2,1,TR00602,T0055,Silverleaf Consulting,HR
+INC0465,South Africa,Johannesburg,Africa,2025-06-22,Terrorism,2,1,TR01263,T0294,Bluepeak Mining,Engineering
+INC0467,Kenya,Mombasa,Africa,2026-03-18,Natural Disaster,5,1,TR01735,T0209,Bluepeak Mining,HR
+INC0469,Brazil,Sao Paulo,Americas,2025-05-03,Civil Unrest,3,1,TR00365,T0087,Harbourline Engineering,Logistics
+INC0472,Egypt,Cairo,Middle East,2026-01-04,Natural Disaster,3,1,TR00083,T0228,Silverleaf Consulting,HR
+INC0472,Egypt,Cairo,Middle East,2026-01-04,Natural Disaster,3,1,TR00827,T0245,Northstar Energy,Engineering
+INC0473,Philippines,Cebu,Asia,2025-03-04,Transport Disruption,5,0,TR00826,T0122,Acme Logistics,HR
+INC0473,Philippines,Cebu,Asia,2025-03-04,Transport Disruption,5,0,TR00840,T0135,Bluepeak Mining,Finance
+INC0474,Mexico,Monterrey,Americas,2026-02-24,Transport Disruption,3,1,TR00468,T0075,Harbourline Engineering,Finance
+INC0474,Mexico,Monterrey,Americas,2026-02-24,Transport Disruption,3,1,TR00752,T0156,Harbourline Engineering,Finance
+INC0474,Mexico,Monterrey,Americas,2026-02-24,Transport Disruption,3,1,TR01138,T0152,Acme Logistics,Engineering
+INC0475,Mexico,Monterrey,Americas,2025-11-24,Civil Unrest,3,0,TR00485,T0079,Harbourline Engineering,Logistics
+INC0477,Mexico,Mexico City,Americas,2026-02-27,Transport Disruption,2,0,TR00468,T0075,Harbourline Engineering,Finance
+INC0477,Mexico,Mexico City,Americas,2026-02-27,Transport Disruption,2,0,TR00526,T0075,Harbourline Engineering,Finance
+INC0477,Mexico,Mexico City,Americas,2026-02-27,Transport Disruption,2,0,TR00752,T0156,Harbourline Engineering,Finance
+INC0477,Mexico,Mexico City,Americas,2026-02-27,Transport Disruption,2,0,TR00919,T0077,Silverleaf Consulting,Operations
+INC0477,Mexico,Mexico City,Americas,2026-02-27,Transport Disruption,2,0,TR01138,T0152,Acme Logistics,Engineering
+INC0477,Mexico,Mexico City,Americas,2026-02-27,Transport Disruption,2,0,TR01449,T0004,Acme Logistics,HR
+INC0479,Philippines,Cebu,Asia,2026-04-04,Terrorism,4,0,TR00949,T0156,Harbourline Engineering,Finance
+INC0479,Philippines,Cebu,Asia,2026-04-04,Terrorism,4,0,TR01390,T0093,Bluepeak Mining,Operations
+INC0481,Mexico,Monterrey,Americas,2025-10-13,Transport Disruption,3,0,TR00970,T0171,Silverleaf Consulting,Sales
+INC0481,Mexico,Monterrey,Americas,2025-10-13,Transport Disruption,3,0,TR01145,T0178,Acme Logistics,Logistics
+INC0482,Colombia,Medellin,Americas,2026-03-24,Health Outbreak,4,0,TR01371,T0023,Harbourline Engineering,Sales
+INC0484,United States,New York,Americas,2025-01-10,Civil Unrest,1,0,TR00076,T0077,Silverleaf Consulting,Operations
+INC0484,United States,New York,Americas,2025-01-10,Civil Unrest,1,0,TR00223,T0270,Harbourline Engineering,Finance
+INC0486,Brazil,Brasilia,Americas,2025-01-06,Crime,2,1,TR01886,T0108,Silverleaf Consulting,Logistics
+INC0487,Nigeria,Abuja,Africa,2025-07-10,Crime,3,0,TR01381,T0104,Silverleaf Consulting,HR
+INC0489,Mexico,Monterrey,Americas,2026-04-24,Natural Disaster,3,1,TR01096,T0022,Silverleaf Consulting,Finance
+INC0489,Mexico,Monterrey,Americas,2026-04-24,Natural Disaster,3,1,TR01310,T0216,Northstar Energy,Operations
+INC0492,Philippines,Cebu,Asia,2025-08-13,Terrorism,3,1,TR01245,T0226,Acme Logistics,HR
+INC0493,Nigeria,Lagos,Africa,2025-01-25,Terrorism,5,1,TR00059,T0251,Northstar Energy,Engineering
+INC0494,Indonesia,Bali,Asia,2026-06-19,Health Outbreak,3,0,TR00764,T0273,Silverleaf Consulting,Finance
+INC0495,Kenya,Mombasa,Africa,2025-09-26,Transport Disruption,4,0,TR00357,T0284,Northstar Energy,Operations
+INC0495,Kenya,Mombasa,Africa,2025-09-26,Transport Disruption,4,0,TR01960,T0109,Northstar Energy,Sales
+INC0497,Kenya,Mombasa,Africa,2026-01-29,Terrorism,4,1,TR00014,T0170,Harbourline Engineering,Logistics
+INC0497,Kenya,Mombasa,Africa,2026-01-29,Terrorism,4,1,TR00136,T0039,Harbourline Engineering,Engineering
+INC0497,Kenya,Mombasa,Africa,2026-01-29,Terrorism,4,1,TR01682,T0149,Northstar Energy,Finance
+INC0499,Indonesia,Bali,Asia,2026-02-01,Health Outbreak,2,1,TR00023,T0221,Bluepeak Mining,Logistics
+INC0499,Indonesia,Bali,Asia,2026-02-01,Health Outbreak,2,1,TR00435,T0210,Silverleaf Consulting,Engineering
+INC0504,Germany,Frankfurt,Europe,2025-12-01,Terrorism,1,0,TR01488,T0006,Northstar Energy,Engineering
+INC0506,Australia,Melbourne,Oceania,2026-03-28,Terrorism,1,0,TR00182,T0075,Harbourline Engineering,Finance
+INC0506,Australia,Melbourne,Oceania,2026-03-28,Terrorism,1,0,TR00317,T0179,Northstar Energy,HR
+INC0506,Australia,Melbourne,Oceania,2026-03-28,Terrorism,1,0,TR01013,T0168,Acme Logistics,Sales
+INC0507,Japan,Tokyo,Asia,2025-08-09,Natural Disaster,1,0,TR00659,T0099,Harbourline Engineering,Engineering
+INC0507,Japan,Tokyo,Asia,2025-08-09,Natural Disaster,1,0,TR01450,T0151,Silverleaf Consulting,Operations
+INC0508,Ghana,Kumasi,Africa,2025-09-26,Civil Unrest,4,1,TR00324,T0121,Bluepeak Mining,Finance
+INC0508,Ghana,Kumasi,Africa,2025-09-26,Civil Unrest,4,1,TR01787,T0038,Harbourline Engineering,Logistics
+INC0509,Egypt,Cairo,Middle East,2025-05-23,Crime,3,1,TR00303,T0226,Acme Logistics,HR
+INC0509,Egypt,Cairo,Middle East,2025-05-23,Crime,3,1,TR00364,T0045,Northstar Energy,Finance
+INC0510,Turkey,Ankara,Europe,2025-07-17,Natural Disaster,3,1,TR00309,T0046,Harbourline Engineering,Sales
+INC0510,Turkey,Ankara,Europe,2025-07-17,Natural Disaster,3,1,TR00340,T0164,Acme Logistics,Finance
+INC0510,Turkey,Ankara,Europe,2025-07-17,Natural Disaster,3,1,TR00606,T0235,Bluepeak Mining,Operations
+INC0510,Turkey,Ankara,Europe,2025-07-17,Natural Disaster,3,1,TR01132,T0138,Bluepeak Mining,Finance
+INC0511,Japan,Tokyo,Asia,2025-06-04,Health Outbreak,1,0,TR00265,T0144,Bluepeak Mining,Sales
+INC0511,Japan,Tokyo,Asia,2025-06-04,Health Outbreak,1,0,TR01416,T0211,Bluepeak Mining,Engineering
+INC0513,Ghana,Kumasi,Africa,2025-07-25,Civil Unrest,2,0,TR00300,T0066,Silverleaf Consulting,Engineering
+INC0513,Ghana,Kumasi,Africa,2025-07-25,Civil Unrest,2,0,TR01184,T0013,Harbourline Engineering,Finance
+INC0513,Ghana,Kumasi,Africa,2025-07-25,Civil Unrest,2,0,TR01411,T0166,Harbourline Engineering,HR
+INC0515,Ghana,Accra,Africa,2025-02-16,Health Outbreak,1,1,TR00433,T0145,Silverleaf Consulting,Finance
+INC0515,Ghana,Accra,Africa,2025-02-16,Health Outbreak,1,1,TR01068,T0135,Bluepeak Mining,Finance
+INC0515,Ghana,Accra,Africa,2025-02-16,Health Outbreak,1,1,TR01681,T0054,Northstar Energy,HR
+INC0516,Philippines,Cebu,Asia,2025-04-05,Civil Unrest,5,1,TR00145,T0079,Harbourline Engineering,Logistics
+INC0516,Philippines,Cebu,Asia,2025-04-05,Civil Unrest,5,1,TR01387,T0140,Acme Logistics,Sales
+INC0517,Egypt,Cairo,Middle East,2025-08-05,Terrorism,3,1,TR00607,T0057,Silverleaf Consulting,Logistics
+INC0518,Japan,Osaka,Asia,2025-09-11,Health Outbreak,3,1,TR00562,T0145,Silverleaf Consulting,Finance
+INC0518,Japan,Osaka,Asia,2025-09-11,Health Outbreak,3,1,TR00641,T0135,Bluepeak Mining,Finance
+INC0518,Japan,Osaka,Asia,2025-09-11,Health Outbreak,3,1,TR01348,T0126,Bluepeak Mining,Sales
+INC0519,Colombia,Cali,Americas,2025-03-09,Transport Disruption,4,0,TR01673,T0179,Northstar Energy,HR
+INC0520,Colombia,Medellin,Americas,2025-10-27,Transport Disruption,3,0,TR00161,T0253,Harbourline Engineering,Operations
+INC0521,Brazil,Rio de Janeiro,Americas,2025-12-28,Natural Disaster,4,1,TR00260,T0265,Harbourline Engineering,Finance
+INC0521,Brazil,Rio de Janeiro,Americas,2025-12-28,Natural Disaster,4,1,TR01053,T0294,Bluepeak Mining,Engineering
+INC0521,Brazil,Rio de Janeiro,Americas,2025-12-28,Natural Disaster,4,1,TR01689,T0201,Acme Logistics,Finance
+INC0522,Ghana,Accra,Africa,2026-01-07,Crime,3,1,TR00071,T0267,Northstar Energy,Finance
+INC0522,Ghana,Accra,Africa,2026-01-07,Crime,3,1,TR00193,T0204,Bluepeak Mining,Logistics
+INC0522,Ghana,Accra,Africa,2026-01-07,Crime,3,1,TR00884,T0287,Acme Logistics,Operations
+INC0523,India,Delhi,Asia,2026-05-04,Civil Unrest,3,0,TR00166,T0031,Acme Logistics,HR
+INC0523,India,Delhi,Asia,2026-05-04,Civil Unrest,3,0,TR00551,T0211,Bluepeak Mining,Engineering
+INC0525,India,Bangalore,Asia,2025-04-01,Transport Disruption,2,0,TR00112,T0288,Northstar Energy,Finance
+INC0525,India,Bangalore,Asia,2025-04-01,Transport Disruption,2,0,TR00492,T0139,Bluepeak Mining,Logistics
+INC0525,India,Bangalore,Asia,2025-04-01,Transport Disruption,2,0,TR01252,T0181,Bluepeak Mining,Operations
+INC0526,Indonesia,Surabaya,Asia,2026-06-03,Natural Disaster,4,1,TR00596,T0123,Harbourline Engineering,Logistics
+INC0528,Egypt,Alexandria,Middle East,2025-07-09,Health Outbreak,2,0,TR01074,T0265,Harbourline Engineering,Finance
+INC0529,Colombia,Cali,Americas,2025-08-31,Civil Unrest,3,0,TR00096,T0109,Northstar Energy,Sales
+INC0530,Nigeria,Lagos,Africa,2025-04-15,Health Outbreak,4,1,TR01261,T0115,Northstar Energy,Logistics
+INC0530,Nigeria,Lagos,Africa,2025-04-15,Health Outbreak,4,1,TR01916,T0179,Northstar Energy,HR
+INC0531,Philippines,Manila,Asia,2026-02-24,Health Outbreak,3,1,TR00387,T0155,Harbourline Engineering,Sales
+INC0531,Philippines,Manila,Asia,2026-02-24,Health Outbreak,3,1,TR00612,T0108,Silverleaf Consulting,Logistics
+INC0533,Colombia,Cali,Americas,2025-12-17,Civil Unrest,4,0,TR00709,T0075,Harbourline Engineering,Finance
+INC0534,Brazil,Brasilia,Americas,2026-01-08,Health Outbreak,1,0,TR01731,T0286,Silverleaf Consulting,Logistics
+INC0535,Turkey,Istanbul,Europe,2025-02-13,Transport Disruption,3,1,TR01454,T0042,Bluepeak Mining,Operations
+INC0535,Turkey,Istanbul,Europe,2025-02-13,Transport Disruption,3,1,TR01795,T0279,Bluepeak Mining,Operations
+INC0536,Philippines,Cebu,Asia,2026-06-22,Health Outbreak,3,0,TR00196,T0023,Harbourline Engineering,Sales
+INC0537,Philippines,Cebu,Asia,2025-02-13,Terrorism,4,1,TR01805,T0294,Bluepeak Mining,Engineering
+INC0539,Philippines,Manila,Asia,2026-02-20,Crime,3,0,TR00085,T0030,Northstar Energy,Finance
+INC0539,Philippines,Manila,Asia,2026-02-20,Crime,3,0,TR00387,T0155,Harbourline Engineering,Sales
+INC0540,Brazil,Sao Paulo,Americas,2026-01-22,Health Outbreak,2,0,TR00049,T0075,Harbourline Engineering,Finance
+INC0540,Brazil,Sao Paulo,Americas,2026-01-22,Health Outbreak,2,0,TR00354,T0214,Silverleaf Consulting,Engineering
+INC0540,Brazil,Sao Paulo,Americas,2026-01-22,Health Outbreak,2,0,TR01257,T0146,Northstar Energy,Sales
+INC0540,Brazil,Sao Paulo,Americas,2026-01-22,Health Outbreak,2,0,TR01287,T0296,Acme Logistics,Logistics
+INC0541,South Africa,Johannesburg,Africa,2026-04-16,Crime,1,0,TR01738,T0287,Acme Logistics,Operations
+INC0542,Colombia,Medellin,Americas,2025-02-06,Transport Disruption,4,1,TR01478,T0100,Northstar Energy,Finance
+INC0542,Colombia,Medellin,Americas,2025-02-06,Transport Disruption,4,1,TR01757,T0137,Northstar Energy,Operations
+INC0543,Mexico,Mexico City,Americas,2025-12-13,Crime,5,1,TR00495,T0127,Acme Logistics,Engineering
+INC0544,Turkey,Izmir,Europe,2026-01-27,Natural Disaster,2,0,TR00167,T0043,Bluepeak Mining,Finance
+INC0544,Turkey,Izmir,Europe,2026-01-27,Natural Disaster,2,0,TR01867,T0176,Silverleaf Consulting,Sales
+INC0545,Japan,Tokyo,Asia,2026-05-13,Crime,1,0,TR00352,T0154,Harbourline Engineering,Engineering
+INC0546,Nigeria,Port Harcourt,Africa,2025-03-01,Terrorism,5,1,TR01314,T0220,Harbourline Engineering,Engineering
+INC0547,Brazil,Brasilia,Americas,2026-06-11,Civil Unrest,4,1,TR01147,T0029,Bluepeak Mining,Operations
+INC0550,Kenya,Kisumu,Africa,2026-03-17,Natural Disaster,3,1,TR01735,T0209,Bluepeak Mining,HR
+INC0551,Turkey,Istanbul,Europe,2025-03-21,Civil Unrest,3,1,TR00673,T0242,Bluepeak Mining,HR
+INC0551,Turkey,Istanbul,Europe,2025-03-21,Civil Unrest,3,1,TR01879,T0221,Bluepeak Mining,Logistics
+INC0553,Colombia,Bogota,Americas,2025-03-31,Terrorism,3,0,TR01029,T0158,Northstar Energy,Logistics
+INC0555,France,Lyon,Europe,2026-03-31,Crime,2,1,TR00345,T0191,Acme Logistics,Operations
+INC0555,France,Lyon,Europe,2026-03-31,Crime,2,1,TR01687,T0053,Harbourline Engineering,Engineering
+INC0556,Colombia,Cali,Americas,2025-07-14,Terrorism,3,1,TR01059,T0160,Bluepeak Mining,Finance
+INC0559,Colombia,Bogota,Americas,2026-03-16,Natural Disaster,4,1,TR01371,T0023,Harbourline Engineering,Sales
+INC0559,Colombia,Bogota,Americas,2026-03-16,Natural Disaster,4,1,TR01651,T0238,Northstar Energy,Operations
+INC0560,Egypt,Alexandria,Middle East,2025-11-28,Health Outbreak,3,0,TR01424,T0027,Harbourline Engineering,HR
+INC0561,Turkey,Izmir,Europe,2025-02-11,Civil Unrest,2,0,TR01454,T0042,Bluepeak Mining,Operations
+INC0563,United States,Chicago,Americas,2025-08-02,Transport Disruption,3,1,TR00103,T0217,Northstar Energy,Engineering
+INC0563,United States,Chicago,Americas,2025-08-02,Transport Disruption,3,1,TR00633,T0172,Northstar Energy,HR
+INC0563,United States,Chicago,Americas,2025-08-02,Transport Disruption,3,1,TR01235,T0196,Acme Logistics,Finance
+INC0564,South Africa,Durban,Africa,2026-04-27,Terrorism,2,1,TR00118,T0122,Acme Logistics,HR
+INC0564,South Africa,Durban,Africa,2026-04-27,Terrorism,2,1,TR01246,T0037,Silverleaf Consulting,Logistics
+INC0565,United States,New York,Americas,2026-05-08,Crime,2,0,TR00617,T0167,Acme Logistics,HR
+INC0565,United States,New York,Americas,2026-05-08,Crime,2,0,TR01057,T0133,Northstar Energy,HR
+INC0567,South Africa,Cape Town,Africa,2025-07-07,Crime,2,1,TR00316,T0292,Acme Logistics,Engineering
+INC0567,South Africa,Cape Town,Africa,2025-07-07,Crime,2,1,TR01711,T0022,Silverleaf Consulting,Finance
+INC0568,Philippines,Davao,Asia,2025-05-22,Health Outbreak,4,1,TR01986,T0186,Acme Logistics,Logistics
+INC0569,Nigeria,Port Harcourt,Africa,2025-02-21,Crime,5,1,TR01314,T0220,Harbourline Engineering,Engineering
+INC0570,Indonesia,Jakarta,Asia,2025-07-19,Transport Disruption,4,1,TR00691,T0287,Acme Logistics,Operations
+INC0570,Indonesia,Jakarta,Asia,2025-07-19,Transport Disruption,4,1,TR01639,T0125,Acme Logistics,HR
+INC0570,Indonesia,Jakarta,Asia,2025-07-19,Transport Disruption,4,1,TR01920,T0084,Silverleaf Consulting,Sales
+INC0571,South Africa,Johannesburg,Africa,2025-05-13,Terrorism,3,1,TR01890,T0041,Acme Logistics,Finance
+INC0572,Indonesia,Bali,Asia,2026-02-10,Health Outbreak,4,1,TR00023,T0221,Bluepeak Mining,Logistics
+INC0572,Indonesia,Bali,Asia,2026-02-10,Health Outbreak,4,1,TR00435,T0210,Silverleaf Consulting,Engineering
+INC0572,Indonesia,Bali,Asia,2026-02-10,Health Outbreak,4,1,TR01275,T0018,Silverleaf Consulting,Logistics
+INC0573,United States,New York,Americas,2026-01-11,Crime,3,0,TR00823,T0190,Bluepeak Mining,Operations
+INC0575,Colombia,Bogota,Americas,2026-04-15,Terrorism,4,1,TR00060,T0243,Harbourline Engineering,Engineering
+INC0575,Colombia,Bogota,Americas,2026-04-15,Terrorism,4,1,TR00134,T0095,Acme Logistics,Finance
+INC0578,Colombia,Cali,Americas,2026-05-08,Crime,5,1,TR00989,T0045,Northstar Energy,Finance
+INC0578,Colombia,Cali,Americas,2026-05-08,Crime,5,1,TR01183,T0129,Acme Logistics,Finance
+INC0579,Australia,Sydney,Oceania,2025-03-04,Natural Disaster,1,0,TR00726,T0281,Northstar Energy,Finance
+INC0580,Kenya,Kisumu,Africa,2025-12-20,Transport Disruption,3,0,TR01223,T0089,Harbourline Engineering,Sales
+INC0584,Turkey,Istanbul,Europe,2025-10-03,Natural Disaster,2,0,TR00744,T0216,Northstar Energy,Operations
+INC0588,Colombia,Medellin,Americas,2026-05-08,Terrorism,3,0,TR00989,T0045,Northstar Energy,Finance
+INC0588,Colombia,Medellin,Americas,2026-05-08,Terrorism,3,0,TR01183,T0129,Acme Logistics,Finance
+INC0589,Colombia,Bogota,Americas,2025-04-24,Natural Disaster,4,1,TR01378,T0096,Acme Logistics,Logistics
+INC0590,Egypt,Alexandria,Middle East,2025-05-16,Civil Unrest,5,1,TR00303,T0226,Acme Logistics,HR
+INC0590,Egypt,Alexandria,Middle East,2025-05-16,Civil Unrest,5,1,TR00451,T0122,Acme Logistics,HR
+INC0593,Indonesia,Jakarta,Asia,2025-05-07,Transport Disruption,5,1,TR01011,T0079,Harbourline Engineering,Logistics
+INC0593,Indonesia,Jakarta,Asia,2025-05-07,Transport Disruption,5,1,TR01910,T0236,Northstar Energy,Engineering
+INC0594,Australia,Sydney,Oceania,2025-07-14,Terrorism,1,1,TR00033,T0129,Acme Logistics,Finance
+INC0594,Australia,Sydney,Oceania,2025-07-14,Terrorism,1,1,TR00818,T0108,Silverleaf Consulting,Logistics
+INC0594,Australia,Sydney,Oceania,2025-07-14,Terrorism,1,1,TR01182,T0141,Bluepeak Mining,Operations
+INC0594,Australia,Sydney,Oceania,2025-07-14,Terrorism,1,1,TR01382,T0264,Northstar Energy,HR
+INC0594,Australia,Sydney,Oceania,2025-07-14,Terrorism,1,1,TR01490,T0226,Acme Logistics,HR
+INC0597,Nigeria,Abuja,Africa,2026-02-18,Terrorism,4,1,TR01858,T0174,Harbourline Engineering,Engineering
+INC0599,Brazil,Brasilia,Americas,2026-02-04,Transport Disruption,2,0,TR00530,T0078,Silverleaf Consulting,Engineering
+INC0599,Brazil,Brasilia,Americas,2026-02-04,Transport Disruption,2,0,TR01219,T0291,Northstar Energy,HR
+INC0599,Brazil,Brasilia,Americas,2026-02-04,Transport Disruption,2,0,TR01499,T0223,Northstar Energy,Finance

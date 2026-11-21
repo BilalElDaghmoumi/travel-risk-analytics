@@ -1,601 +1,601 @@
-incident_id,country,incident_date,incident_hour,incident_type,severity,escalated
-INC0001,Indonesia,2025-10-05,22,Civil Unrest,3,Yes
-INC0002,South Africa,2025-01-27,18,Civil Unrest,2,No
-INC0003,INDIA,2025-02-21,20,Terrorism,3,No
-INC0004,Turkey,2026-03-06,9,Transport Disruption,5,No
-INC0005,COLOMBIA,2025-04-23,6,Transport Disruption,2,No
-INC0006,Jordan,2025-07-04,9,Natural Disaster,3,Yes
-INC0007,Colombia,2026-03-26,21,Civil Unrest,3,No
-INC0008,Nigeria,2026-04-17,1,Health Outbreak,3,Yes
-INC0009,Jordan,2025-03-20,23,Health Outbreak,2,No
-INC0010,Brazil,2025-06-20,7,Health Outbreak,2,No
-INC0011,SOUTH AFRICA,2026-05-29,12,Transport Disruption,3,No
-INC0012,India,2025-09-30,21,Terrorism,4,Yes
-INC0013,Mexico,2025-07-14,13,Natural Disaster,2,No
-INC0014,Indonesia,2025-02-27,12,Civil Unrest,3,Yes
-INC0015,United States,2025-10-30,12,Transport Disruption,3,Yes
-INC0016,Indonesia,2026-01-11,0,Crime,5,Yes
-INC0017,Mexico,2025-08-06,9,Transport Disruption,4,Yes
-INC0018,Jordan,2025-02-04,14,Transport Disruption,2,No
-INC0019,Colombia,2026-06-30,18,Civil Unrest,4,Yes
-INC0020,India,2025-02-27,10,Transport Disruption,3,Yes
-INC0021,Nigeria,2025-02-01,1,Health Outbreak,2,No
-INC0022,Turkey,2025-12-03,21,Civil Unrest,1,No
-INC0023,Kenya,2025-03-25,1,Transport Disruption,3,Yes
-INC0024,Egypt,2025-01-17,3,Transport Disruption,3,No
-INC0025,Philippines,2026-02-23,8,Terrorism,4,Yes
-INC0026,United States,2025-10-13,16,Health Outbreak,1,No
-INC0027,South Africa,2026-05-07,21,Health Outbreak,1,No
-INC0028,Egypt,2026-01-13,13,Terrorism,5,Yes
-INC0029,Jordan,2025-05-10,0,Terrorism,1,Yes
-INC0030,Nigeria,2025-12-28,23,Natural Disaster,3,Yes
-INC0031,France,2025-07-16,16,Crime,1,No
-INC0032,Egypt,2025-03-24,9,Terrorism,3,No
-INC0033,Nigeria,2025-08-01,19,Natural Disaster,3,No
-INC0034,Colombia,2026-04-17,6,Crime,5,No
-INC0035, spain ,2026-02-27,21,Health Outbreak,1,No
-INC0036,Colombia,2026-05-12,22,Civil Unrest,4,Yes
-INC0037,Colombia,2025-08-06,11,Crime,3,No
-INC0038,BRAZIL,2026-01-18,19,Civil Unrest,2,Yes
-INC0039,Brazil,2025-11-23,3,Transport Disruption,2,No
-INC0040,South Africa,2026-04-06,16,Transport Disruption,1,No
-INC0041,Colombia,2026-05-01,4,Civil Unrest,2,No
-INC0042,Mexico,2025-06-13,18,Transport Disruption,3,No
-INC0043,Turkey,2026-03-05,2,Terrorism,1,No
-INC0044,Philippines,2026-01-17,12,Transport Disruption,4,Yes
-INC0045,Egypt,2025-11-28,19,Terrorism,3,No
-INC0046,India,2025-05-30,14,Civil Unrest,4,Yes
-INC0047,Egypt,2025-07-07,6,Crime,2,No
-INC0048,Turkey,2026-02-12,2,Transport Disruption,2,Yes
-INC0049,SOUTH AFRICA,2026-01-06,7,Health Outbreak,3,Yes
-INC0050,Mexico,2025-10-05,6,Civil Unrest,2,No
-INC0051,COLOMBIA,2025-11-11,11,Natural Disaster,5,Yes
-INC0052,Turkey,2026-05-02,2,Natural Disaster,1,Yes
-INC0053,United States,2025-10-02,9,Health Outbreak,2,No
-INC0054,Indonesia,2026-04-20,21,Transport Disruption,2,No
-INC0055,Egypt,2025-05-13,9,Civil Unrest,4,Yes
-INC0056,Nigeria,2025-08-03,1,Health Outbreak,4,No
-INC0057,Brazil,2025-07-30,6,Natural Disaster,3,Yes
-INC0058,INDIA,2025-02-22,7,Health Outbreak,2,No
-INC0059,Kenya,2025-12-14,13,Health Outbreak,2,Yes
-INC0060,Egypt,2026-02-10,5,Civil Unrest,4,No
-INC0061,South Africa,2026-02-26,11,Crime,4,Yes
-INC0062,Egypt,2025-03-08,14,Crime,4,Yes
-INC0063,Philippines,2026-01-14,10,Transport Disruption,3,No
-INC0064,Nigeria,2026-03-01,1,Natural Disaster,3,Yes
-INC0065,Nigeria,2025-08-21,4,Crime,5,Yes
-INC0066,Egypt,2025-02-16,1,Terrorism,3,Yes
-INC0067,Philippines,2025-03-19,20,Terrorism,4,Yes
-INC0068,Indonesia,2026-04-24,1,Natural Disaster,2,No
-INC0069,Philippines,2025-12-16,21,Terrorism,4,Yes
-INC0070,Nigeria,2025-04-05,21,Crime,3,No
-INC0071,Colombia,2026-05-18,16,Health Outbreak,4,Yes
-INC0072,India,2025-11-03,12,Natural Disaster,4,No
-INC0073,Philippines,2025-11-23,2,Transport Disruption,4,No
-INC0074,Colombia,2026-01-14,23,Natural Disaster,5,Yes
-INC0075,Nigeria,2025-11-09,7,Natural Disaster,4,No
-INC0076,Brazil,2026-03-20,4,Civil Unrest,4,Yes
-INC0077,Ghana,2026-04-06,22,Terrorism,1,No
-INC0078,United States,2025-03-05,0,Natural Disaster,1,Yes
-INC0079,Kenya,2025-01-30,12,Health Outbreak,3,Yes
-INC0080,Jordan,2026-06-12,3,Civil Unrest,4,Yes
-INC0081,Brazil,2025-11-02,23,Crime,3,No
-INC0082,Turkey,2025-08-19,12,Natural Disaster,3,Yes
-INC0083, turkey ,2025-08-24,12,Transport Disruption,2,No
-INC0084,Indonesia,2025-11-13,7,Health Outbreak,4,No
-INC0085,Kenya,2026-06-30,9,Terrorism,3,Yes
-INC0086, colombia ,2025-09-16,8,Crime,5,Yes
-INC0087,Jordan,2026-01-15,17,Civil Unrest,2,No
-INC0088,Australia,2025-04-12,1,Natural Disaster,1,No
-INC0089,Turkey,2026-02-23,11,Transport Disruption,3,Yes
-INC0090,Egypt,2025-01-28,19,Civil Unrest,4,No
-INC0091,Nigeria,2026-03-05,18,Transport Disruption,3,No
-INC0092,Colombia,2025-10-19,13,Transport Disruption,5,No
-INC0093,Turkey,2025-10-15,8,Natural Disaster,3,Yes
-INC0094,Philippines,2026-03-20,21,Civil Unrest,4,Yes
-INC0095,Nigeria,2025-08-14,18,Transport Disruption,5,No
-INC0096,Nigeria,2026-04-06,10,Crime,5,Yes
-INC0097, colombia ,2026-01-28,19,Health Outbreak,3,Yes
-INC0098,Jordan,2025-12-19,7,Crime,2,Yes
-INC0099,Mexico,2025-04-20,4,Terrorism,5,Yes
-INC0100,Philippines,2025-11-07,22,Civil Unrest,4,No
-INC0101,SOUTH AFRICA,2026-06-23,16,Natural Disaster,3,No
-INC0102,NIGERIA,2025-05-24,17,Crime,3,Yes
-INC0103,Brazil,2025-01-09,9,Transport Disruption,2,No
-INC0104,Colombia,2025-12-02,22,Crime,4,Yes
-INC0105,Turkey,2025-05-05,6,Transport Disruption,4,Yes
-INC0106,Philippines,2026-02-25,21,Civil Unrest,5,Yes
-INC0107,South Africa,2026-01-25,9,Terrorism,4,Yes
-INC0108,Nigeria,2025-03-29,1,Terrorism,5,No
-INC0109, jordan ,2025-06-08,21,Terrorism,3,No
-INC0110, kenya ,2026-06-02,9,Transport Disruption,2,Yes
-INC0111,Nigeria,2026-02-12,20,Health Outbreak,3,No
-INC0112,Brazil,2025-06-25,15,Health Outbreak,4,Yes
-INC0113,Brazil,2026-06-11,18,Health Outbreak,3,Yes
-INC0114,Mexico,2025-11-12,12,Natural Disaster,2,No
-INC0115,Turkey,2025-03-22,3,Health Outbreak,2,Yes
-INC0116,Turkey,2025-02-12,13,Civil Unrest,3,Yes
-INC0117,Philippines,2025-05-02,12,Natural Disaster,4,Yes
-INC0118,Indonesia,2025-01-27,11,Crime,2,Yes
-INC0119,Nigeria,2025-01-23,2,Civil Unrest,4,No
-INC0120, turkey ,2025-08-22,10,Crime,3,No
-INC0121,Turkey,2025-08-22,6,Health Outbreak,1,No
-INC0122,India,2025-01-13,12,Civil Unrest,2,Yes
-INC0123,Colombia,2025-05-11,2,Civil Unrest,4,Yes
-INC0124,South Africa,2026-04-14,12,Transport Disruption,3,No
-INC0125,Nigeria,2025-10-05,4,Civil Unrest,5,Yes
-INC0126,Egypt,2026-01-08,5,Health Outbreak,3,Yes
-INC0127,Nigeria,2025-12-25,14,Transport Disruption,3,No
-INC0128,Nigeria,2025-08-15,12,Natural Disaster,3,No
-INC0129,United States,2025-08-03,8,Natural Disaster,3,Yes
-INC0130,Egypt,2026-03-07,16,Crime,3,No
-INC0131,BRAZIL,2025-11-25,11,Transport Disruption,5,No
-INC0132,Egypt,2026-06-19,18,Terrorism,4,Yes
-INC0133,Egypt,2025-12-19,19,Health Outbreak,3,No
-INC0134,Egypt,2025-04-24,5,Transport Disruption,2,No
-INC0135,NIGERIA,2025-01-17,8,Transport Disruption,4,No
-INC0136,Brazil,2025-05-04,22,Terrorism,1,No
-INC0137,United States,2025-01-14,7,Natural Disaster,3,No
-INC0138,Nigeria,2025-11-23,17,Civil Unrest,5,Yes
-INC0139,Colombia,2025-07-12,3,Terrorism,4,Yes
-INC0140,United States,2026-04-18,11,Natural Disaster,2,No
-INC0141,Brazil,2025-05-18,14,Natural Disaster,3,Yes
-INC0142, india ,2026-02-15,2,Terrorism,2,Yes
-INC0143,Kenya,2025-03-25,5,Crime,4,Yes
-INC0144, egypt ,2025-11-25,7,Transport Disruption,4,Yes
-INC0145,Brazil,2025-01-19,17,Crime,3,Yes
-INC0146,Nigeria,2025-03-30,9,Crime,4,Yes
-INC0147,Philippines,2026-03-24,22,Terrorism,3,Yes
-INC0148,Mexico,2026-03-10,20,Crime,2,No
-INC0149,Kenya,2026-06-28,0,Terrorism,2,Yes
-INC0150,Philippines,2025-08-28,20,Transport Disruption,3,No
-INC0151,Brazil,2025-11-08,23,Civil Unrest,2,Yes
-INC0152,Jordan,2026-03-30,17,Terrorism,1,Yes
-INC0153,Brazil,2026-01-23,19,Civil Unrest,4,Yes
-INC0154,Ghana,2025-12-21,19,Terrorism,1,Yes
-INC0155,Japan,2026-05-16,0,Transport Disruption,3,Yes
-INC0156,Turkey,2025-10-24,8,Civil Unrest,2,Yes
-INC0157,Nigeria,2025-08-23,4,Health Outbreak,3,No
-INC0158,Philippines,2026-01-25,22,Crime,5,Yes
-INC0159,Colombia,2025-07-21,21,Terrorism,4,No
-INC0160,France,2025-01-24,2,Health Outbreak,1,No
-INC0161, brazil ,2025-11-08,6,Transport Disruption,3,Yes
-INC0162,Philippines,2025-02-21,4,Civil Unrest,5,Yes
-INC0163,Nigeria,2025-11-08,11,Terrorism,5,Yes
-INC0164,South Africa,2025-05-08,10,Civil Unrest,3,Yes
-INC0165, philippines ,2026-02-01,15,Health Outbreak,2,No
-INC0166,Turkey,2026-02-23,9,Health Outbreak,3,Yes
-INC0167, philippines ,2025-02-26,9,Transport Disruption,5,Yes
-INC0168,Indonesia,2025-11-03,23,Crime,4,No
-INC0169, mexico ,2025-11-09,15,Terrorism,2,Yes
-INC0170,NIGERIA,2025-03-26,7,Natural Disaster,5,Yes
-INC0171,India,2025-09-07,21,Natural Disaster,2,Yes
-INC0172,PHILIPPINES,2025-05-25,18,Natural Disaster,4,Yes
-INC0173,Philippines,2025-05-09,20,Civil Unrest,2,Yes
-INC0174,Kenya,2025-04-04,11,Civil Unrest,4,Yes
-INC0175, kenya ,2026-05-24,9,Civil Unrest,1,No
-INC0176,India,2025-02-23,22,Crime,4,Yes
-INC0177,KENYA,2025-06-05,11,Health Outbreak,3,Yes
-INC0178,India,2026-04-04,8,Civil Unrest,3,Yes
-INC0179,Philippines,2026-02-10,18,Crime,4,Yes
-INC0180,Kenya,2025-01-25,12,Civil Unrest,2,No
-INC0181,Indonesia,2025-01-20,4,Transport Disruption,2,No
-INC0182,Nigeria,2026-06-15,16,Civil Unrest,3,No
-INC0183,Philippines,2025-12-22,1,Health Outbreak,4,Yes
-INC0184,Indonesia,2026-05-17,14,Terrorism,3,No
-INC0185,Nigeria,2025-06-13,17,Natural Disaster,4,No
-INC0186,Nigeria,2025-05-05,9,Civil Unrest,3,No
-INC0187,Mexico,2025-02-18,4,Health Outbreak,4,No
-INC0188, colombia ,2026-05-22,21,Transport Disruption,4,No
-INC0189,Colombia,2025-04-08,0,Transport Disruption,3,No
-INC0190,Egypt,2025-07-04,15,Natural Disaster,2,Yes
-INC0191,SOUTH AFRICA,2025-04-27,0,Terrorism,3,No
-INC0192,Brazil,2026-02-19,9,Civil Unrest,4,No
-INC0193,Nigeria,2025-12-30,12,Health Outbreak,5,Yes
-INC0194,Mexico,2025-02-25,0,Health Outbreak,3,Yes
-INC0195, kenya ,2026-01-25,15,Civil Unrest,4,Yes
-INC0196,Colombia,2026-02-11,13,Natural Disaster,4,No
-INC0197,Egypt,2025-12-16,16,Transport Disruption,4,Yes
-INC0198,India,2026-06-22,6,Natural Disaster,3,Yes
-INC0199,Colombia,2025-08-26,20,Natural Disaster,4,Yes
-INC0200,South Africa,2025-07-20,10,Civil Unrest,3,No
-INC0201,Ghana,2025-01-17,7,Transport Disruption,2,No
-INC0202,Nigeria,2026-05-23,20,Health Outbreak,4,Yes
-INC0203,Colombia,2025-10-26,14,Crime,4,Yes
-INC0204, brazil ,2025-04-15,6,Natural Disaster,3,No
-INC0205,Nigeria,2025-09-02,2,Transport Disruption,3,No
-INC0206,Turkey,2025-11-15,12,Terrorism,4,No
-INC0207,Indonesia,2026-01-28,5,Crime,4,Yes
-INC0208,Brazil,2026-03-05,9,Transport Disruption,3,No
-INC0209,Philippines,2025-05-29,18,Terrorism,5,No
-INC0210,NIGERIA,2025-01-02,1,Transport Disruption,3,No
-INC0211,Egypt,2025-11-26,4,Crime,3,No
-INC0212,BRAZIL,2026-05-31,14,Civil Unrest,4,No
-INC0213,South Africa,2025-09-25,8,Transport Disruption,3,No
-INC0214,Egypt,2025-08-29,20,Transport Disruption,4,No
-INC0215,South Africa,2026-01-16,4,Transport Disruption,1,No
-INC0216, uae ,2025-08-17,6,Transport Disruption,1,Yes
-INC0217,United States,2026-06-08,1,Natural Disaster,2,No
-INC0218,Australia,2025-11-26,7,Transport Disruption,1,No
-INC0219,India,2025-12-24,8,Civil Unrest,2,No
-INC0220,Egypt,2025-08-04,10,Health Outbreak,2,No
-INC0221,South Africa,2025-12-12,22,Terrorism,2,Yes
-INC0222,UAE,2025-01-17,2,Terrorism,1,No
-INC0223,Philippines,2025-05-01,0,Civil Unrest,4,Yes
-INC0224,Colombia,2026-02-21,2,Crime,4,Yes
-INC0225,Turkey,2025-12-23,23,Crime,1,No
-INC0226, australia ,2025-11-26,6,Natural Disaster,1,No
-INC0227,Brazil,2025-08-17,12,Civil Unrest,5,Yes
-INC0228,Nigeria,2025-06-18,17,Health Outbreak,5,Yes
-INC0229,Mexico,2025-08-30,16,Health Outbreak,4,No
-INC0230,COLOMBIA,2025-08-07,6,Terrorism,3,Yes
-INC0231,Turkey,2025-05-17,14,Health Outbreak,1,Yes
-INC0232,Brazil,2026-05-01,18,Transport Disruption,3,No
-INC0233,Colombia,2025-10-14,13,Natural Disaster,4,Yes
-INC0234,Turkey,2025-07-28,5,Terrorism,3,Yes
-INC0235,Indonesia,2025-06-13,12,Transport Disruption,2,No
-INC0236,Colombia,2026-02-01,23,Health Outbreak,5,Yes
-INC0237,South Africa,2025-07-24,10,Health Outbreak,2,No
-INC0238,Mexico,2026-05-11,6,Transport Disruption,2,No
-INC0239,Indonesia,2026-01-15,10,Terrorism,3,No
-INC0240,South Africa,2026-04-02,20,Natural Disaster,5,Yes
-INC0241,Nigeria,2026-04-27,21,Crime,5,No
-INC0242,Colombia,2025-05-25,18,Transport Disruption,4,No
-INC0243,Brazil,2025-07-20,10,Terrorism,3,Yes
-INC0244,Indonesia,2026-04-30,17,Health Outbreak,4,Yes
-INC0245,South Africa,2025-01-12,7,Transport Disruption,3,No
-INC0246,Nigeria,2025-05-24,3,Transport Disruption,5,Yes
-INC0247,INDIA,2026-04-17,20,Terrorism,2,Yes
-INC0248,Kenya,2025-10-04,9,Natural Disaster,4,Yes
-INC0249,India,2025-07-01,13,Crime,2,No
-INC0250,Philippines,2025-09-16,15,Health Outbreak,4,Yes
-INC0251,Egypt,2025-11-10,22,Transport Disruption,3,No
-INC0252,Colombia,2025-12-16,18,Crime,4,Yes
-INC0253,Colombia,2025-11-23,3,Natural Disaster,4,No
-INC0254,Ghana,2025-10-08,21,Crime,1,No
-INC0255,South Africa,2026-02-16,3,Transport Disruption,4,No
-INC0256,Indonesia,2025-08-22,13,Terrorism,3,Yes
-INC0257,Turkey,2025-07-19,20,Health Outbreak,2,Yes
-INC0258,Colombia,2026-06-08,0,Civil Unrest,3,No
-INC0259,UAE,2025-08-25,4,Terrorism,1,No
-INC0260,Kenya,2025-11-15,7,Crime,4,Yes
-INC0261,Brazil,2025-07-30,2,Civil Unrest,4,Yes
-INC0262,Philippines,2025-12-05,9,Health Outbreak,4,Yes
-INC0263,Turkey,2025-02-10,19,Terrorism,4,Yes
-INC0264,COLOMBIA,2026-02-02,21,Crime,4,No
-INC0265,Colombia,2026-06-06,10,Health Outbreak,3,Yes
-INC0266,Brazil,2025-08-21,10,Civil Unrest,2,Yes
-INC0267,Egypt,2026-05-01,15,Transport Disruption,3,No
-INC0268,Mexico,2025-02-13,13,Crime,3,No
-INC0269, mexico ,2026-06-09,1,Terrorism,4,Yes
-INC0270,Indonesia,2025-06-02,22,Terrorism,3,Yes
-INC0271,Turkey,2026-03-03,20,Terrorism,3,Yes
-INC0272,South Africa,2025-11-03,16,Natural Disaster,2,Yes
-INC0273,Indonesia,2025-07-02,22,Civil Unrest,2,No
-INC0274,Nigeria,2026-03-05,10,Civil Unrest,4,Yes
-INC0275,Mexico,2025-09-11,13,Transport Disruption,3,No
-INC0276,Kenya,2025-09-25,19,Natural Disaster,2,No
-INC0277,INDONESIA,2025-10-23,9,Natural Disaster,4,No
-INC0278,Nigeria,2025-02-12,14,Civil Unrest,4,Yes
-INC0279,Jordan,2026-06-25,4,Terrorism,2,Yes
-INC0280,Brazil,2025-05-20,22,Crime,1,No
-INC0281,Indonesia,2025-01-22,13,Civil Unrest,2,No
-INC0282,France,2025-02-01,3,Transport Disruption,1,No
-INC0283, ghana ,2025-09-24,5,Health Outbreak,2,No
-INC0284,Mexico,2026-03-29,12,Civil Unrest,3,No
-INC0285,Philippines,2025-09-26,11,Crime,4,Yes
-INC0286,Philippines,2026-02-09,15,Civil Unrest,5,Yes
-INC0287,Jordan,2025-06-14,11,Transport Disruption,2,No
-INC0288,Indonesia,2025-02-13,11,Health Outbreak,4,Yes
-INC0289,Brazil,2025-07-11,13,Natural Disaster,4,No
-INC0290,Colombia,2025-11-10,19,Natural Disaster,4,No
-INC0291,Jordan,2026-01-07,16,Natural Disaster,1,No
-INC0292,Philippines,2025-04-04,21,Natural Disaster,3,Yes
-INC0293,South Africa,2025-06-03,15,Civil Unrest,3,No
-INC0294,Nigeria,2025-02-07,7,Terrorism,4,No
-INC0295,Brazil,2025-12-15,5,Civil Unrest,3,Yes
-INC0296,TURKEY,2026-01-10,23,Civil Unrest,2,No
-INC0297,Kenya,2025-06-28,21,Natural Disaster,1,No
-INC0298,Philippines,2026-02-28,17,Terrorism,4,Yes
-INC0299, brazil ,2025-08-28,18,Natural Disaster,1,No
-INC0300,Nigeria,2026-06-26,17,Health Outbreak,4,Yes
-INC0301,Colombia,2026-06-10,21,Natural Disaster,5,Yes
-INC0302, south africa ,2026-06-06,19,Natural Disaster,3,No
-INC0303,Indonesia,2026-05-06,15,Transport Disruption,2,No
-INC0304,Philippines,2026-05-04,18,Natural Disaster,3,Yes
-INC0305,Egypt,2025-01-27,20,Health Outbreak,3,No
-INC0306,Ghana,2025-04-14,10,Transport Disruption,2,No
-INC0307,COLOMBIA,2026-04-17,2,Natural Disaster,3,Yes
-INC0308,Egypt,2025-06-06,19,Natural Disaster,2,No
-INC0309,Colombia,2026-01-12,4,Civil Unrest,3,No
-INC0310,India,2026-01-07,8,Natural Disaster,1,No
-INC0311,Nigeria,2025-11-28,11,Terrorism,5,Yes
-INC0312,Colombia,2025-03-03,5,Terrorism,4,Yes
-INC0313,Kenya,2025-06-28,22,Transport Disruption,4,No
-INC0314,Colombia,2025-05-25,12,Civil Unrest,5,Yes
-INC0315,Nigeria,2025-10-06,18,Health Outbreak,3,Yes
-INC0316,India,2026-04-13,15,Transport Disruption,3,No
-INC0317,Kenya,2025-05-03,23,Natural Disaster,3,No
-INC0318,COLOMBIA,2025-05-09,3,Health Outbreak,5,Yes
-INC0319,Philippines,2026-03-30,21,Natural Disaster,2,No
-INC0320,Colombia,2025-04-09,21,Natural Disaster,4,Yes
-INC0321,Philippines,2025-03-18,13,Civil Unrest,3,Yes
-INC0322,Kenya,2025-08-01,16,Crime,5,Yes
-INC0323,Jordan,2025-04-07,1,Terrorism,4,Yes
-INC0324,Jordan,2025-08-16,21,Crime,4,No
-INC0325,Philippines,2025-09-23,11,Civil Unrest,4,Yes
-INC0326,Colombia,2025-06-06,23,Health Outbreak,3,No
-INC0327,United States,2026-03-04,19,Terrorism,4,No
-INC0328,Nigeria,2025-03-11,22,Civil Unrest,3,Yes
-INC0329,Turkey,2025-04-02,15,Health Outbreak,5,Yes
-INC0330,Philippines,2025-01-02,1,Transport Disruption,3,No
-INC0331,South Africa,2026-05-31,0,Crime,3,Yes
-INC0332,Colombia,2025-11-30,1,Natural Disaster,2,Yes
-INC0333,Brazil,2025-12-17,0,Health Outbreak,2,Yes
-INC0334,Mexico,2025-03-26,2,Civil Unrest,4,Yes
-INC0335,India,2026-03-03,17,Transport Disruption,2,Yes
-INC0336,United States,2025-06-07,13,Transport Disruption,2,No
-INC0337,Mexico,2026-04-19,5,Crime,2,Yes
-INC0338,Colombia,2025-05-21,9,Terrorism,5,Yes
-INC0339,South Africa,2025-01-04,9,Transport Disruption,2,No
-INC0340,South Africa,2025-11-16,8,Terrorism,4,Yes
-INC0341,Mexico,2025-12-14,19,Health Outbreak,2,No
-INC0342,Nigeria,2026-02-07,7,Terrorism,4,Yes
-INC0343,Indonesia,2025-08-31,12,Crime,3,No
-INC0344,Jordan,2026-05-15,21,Transport Disruption,2,No
-INC0345,Turkey,2025-12-18,20,Terrorism,2,Yes
-INC0346,Indonesia,2025-12-15,10,Natural Disaster,3,Yes
-INC0347,Philippines,2025-08-18,3,Crime,4,No
-INC0348,Mexico,2025-03-23,0,Transport Disruption,3,No
-INC0349,Philippines,2026-04-03,14,Crime,5,Yes
-INC0350,Colombia,2025-09-24,4,Transport Disruption,5,Yes
-INC0351, nigeria ,2025-11-16,13,Civil Unrest,4,Yes
-INC0352,United States,2025-05-16,10,Terrorism,1,Yes
-INC0353,Ghana,2026-01-25,17,Transport Disruption,1,No
-INC0354,NIGERIA,2025-06-24,17,Health Outbreak,5,Yes
-INC0355,Australia,2025-11-16,5,Terrorism,1,No
-INC0356, south africa ,2025-07-07,18,Transport Disruption,5,No
-INC0357,Indonesia,2025-04-17,21,Crime,4,No
-INC0358,Colombia,2026-05-28,23,Terrorism,4,Yes
-INC0359,Colombia,2025-02-03,23,Natural Disaster,3,Yes
-INC0360,Colombia,2025-08-14,13,Health Outbreak,4,No
-INC0361,Egypt,2025-08-22,19,Natural Disaster,3,No
-INC0362,Brazil,2025-02-07,7,Crime,3,No
-INC0363,Colombia,2025-04-25,15,Health Outbreak,5,Yes
-INC0364,South Africa,2025-12-10,1,Civil Unrest,4,No
-INC0365,South Africa,2025-02-16,11,Crime,4,Yes
-INC0366,United States,2025-09-02,16,Health Outbreak,3,Yes
-INC0367,Egypt,2026-04-17,16,Natural Disaster,3,Yes
-INC0368,Mexico,2025-07-07,16,Terrorism,5,Yes
-INC0369,Kenya,2026-01-27,16,Health Outbreak,1,No
-INC0370,Philippines,2025-02-19,2,Civil Unrest,3,Yes
-INC0371,Colombia,2025-10-09,7,Natural Disaster,5,Yes
-INC0372, nigeria ,2025-06-25,22,Crime,4,No
-INC0373,KENYA,2026-05-21,14,Transport Disruption,4,No
-INC0374,United States,2025-01-09,20,Transport Disruption,1,No
-INC0375,Indonesia,2025-05-31,20,Terrorism,5,No
-INC0376,Egypt,2025-01-22,13,Natural Disaster,2,No
-INC0377,Indonesia,2025-11-19,23,Transport Disruption,3,No
-INC0378,Colombia,2026-06-21,12,Civil Unrest,3,Yes
-INC0379,Kenya,2026-06-01,18,Crime,1,No
-INC0380,Egypt,2025-11-19,4,Crime,3,No
-INC0381,South Africa,2025-03-12,18,Civil Unrest,3,Yes
-INC0382,France,2025-08-18,6,Health Outbreak,2,No
-INC0383,Colombia,2025-11-27,8,Health Outbreak,5,Yes
-INC0384,India,2026-02-11,22,Crime,4,Yes
-INC0385,Egypt,2025-09-08,0,Natural Disaster,3,Yes
-INC0386,Philippines,2025-05-10,1,Natural Disaster,4,Yes
-INC0387,Indonesia,2025-05-11,2,Natural Disaster,5,Yes
-INC0388,Philippines,2025-01-28,5,Civil Unrest,3,No
-INC0389,Indonesia,2026-02-02,10,Health Outbreak,3,Yes
-INC0390,Colombia,2026-04-12,23,Crime,3,No
-INC0391,Colombia,2025-05-15,13,Civil Unrest,4,Yes
-INC0392,Indonesia,2025-10-03,4,Terrorism,3,Yes
-INC0393,Mexico,2025-01-24,4,Natural Disaster,3,Yes
-INC0394,South Africa,2026-06-15,6,Civil Unrest,2,No
-INC0395,South Africa,2025-10-16,3,Civil Unrest,1,No
-INC0396,Philippines,2025-09-19,2,Civil Unrest,3,Yes
-INC0397,India,2025-08-24,15,Transport Disruption,3,No
-INC0398, nigeria ,2026-06-21,15,Natural Disaster,4,Yes
-INC0399,Indonesia,2026-02-12,10,Civil Unrest,3,Yes
-INC0400,South Africa,2025-06-15,1,Health Outbreak,3,Yes
-INC0401,Kenya,2025-12-04,16,Transport Disruption,3,No
-INC0402,Brazil,2025-02-10,17,Crime,5,No
-INC0403,Ghana,2025-08-29,1,Transport Disruption,2,No
-INC0404,Kenya,2025-03-19,9,Terrorism,2,Yes
-INC0405,Philippines,2026-01-29,3,Terrorism,4,Yes
-INC0406,Kenya,2026-04-21,13,Health Outbreak,2,No
-INC0407,Ghana,2026-02-04,22,Natural Disaster,1,No
-INC0408,France,2025-02-20,22,Health Outbreak,2,Yes
-INC0409,NIGERIA,2025-11-27,20,Natural Disaster,3,Yes
-INC0410,Colombia,2026-02-11,21,Crime,3,Yes
-INC0411, ghana ,2025-06-06,22,Crime,3,No
-INC0412,Philippines,2025-11-13,19,Civil Unrest,2,Yes
-INC0413,Philippines,2025-09-15,14,Natural Disaster,4,No
-INC0414,Kenya,2025-11-14,21,Civil Unrest,1,No
-INC0415,India,2026-03-06,16,Terrorism,3,Yes
-INC0416,India,2025-10-28,16,Terrorism,4,Yes
-INC0417,United States,2025-09-18,7,Health Outbreak,2,Yes
-INC0418,Nigeria,2025-11-24,17,Crime,5,Yes
-INC0419,Philippines,2025-02-02,21,Terrorism,5,Yes
-INC0420,Mexico,2026-05-23,1,Transport Disruption,1,No
-INC0421,Brazil,2026-04-21,13,Transport Disruption,4,No
-INC0422,Mexico,2025-07-20,12,Health Outbreak,4,No
-INC0423,Brazil,2025-01-18,23,Civil Unrest,1,No
-INC0424,Mexico,2025-07-20,5,Transport Disruption,3,No
-INC0425,Turkey,2026-01-17,11,Civil Unrest,3,No
-INC0426,Philippines,2026-01-02,9,Civil Unrest,3,No
-INC0427,Australia,2025-02-23,10,Terrorism,1,No
-INC0428,Philippines,2025-06-18,14,Natural Disaster,2,No
-INC0429,Brazil,2026-03-15,14,Transport Disruption,3,Yes
-INC0430,Indonesia,2025-01-23,22,Terrorism,1,No
-INC0431,Nigeria,2025-01-03,12,Crime,3,No
-INC0432,KENYA,2026-02-01,6,Natural Disaster,3,Yes
-INC0433,Nigeria,2025-02-05,2,Transport Disruption,5,Yes
-INC0434,Colombia,2025-05-21,8,Transport Disruption,5,Yes
-INC0435,Colombia,2025-02-01,6,Terrorism,5,Yes
-INC0436,Egypt,2025-06-05,23,Natural Disaster,1,No
-INC0437,JORDAN,2026-04-20,18,Health Outbreak,2,Yes
-INC0438,Indonesia,2025-07-18,5,Civil Unrest,5,Yes
-INC0439,Turkey,2025-11-16,11,Civil Unrest,2,No
-INC0440,Philippines,2025-09-15,0,Transport Disruption,5,No
-INC0441, colombia ,2025-05-23,10,Crime,5,Yes
-INC0442,Philippines,2025-11-26,20,Civil Unrest,4,No
-INC0443,Turkey,2026-03-30,3,Crime,2,No
-INC0444,Kenya,2026-05-15,12,Health Outbreak,3,Yes
-INC0445,Nigeria,2025-11-28,0,Transport Disruption,5,No
-INC0446,Nigeria,2025-08-30,23,Civil Unrest,3,Yes
-INC0447,India,2026-02-24,20,Health Outbreak,4,No
-INC0448,South Africa,2026-02-15,19,Terrorism,3,No
-INC0449,Philippines,2026-02-18,9,Transport Disruption,5,No
-INC0450, uae ,2026-03-18,19,Health Outbreak,2,No
-INC0451,UAE,2025-11-02,7,Transport Disruption,2,No
-INC0452,Mexico,2025-01-26,4,Transport Disruption,4,No
-INC0453,Colombia,2025-11-22,16,Health Outbreak,5,Yes
-INC0454,Turkey,2026-01-15,2,Natural Disaster,4,Yes
-INC0455,UAE,2025-04-30,6,Health Outbreak,1,No
-INC0456,Philippines,2025-09-15,3,Natural Disaster,5,Yes
-INC0457,Australia,2025-02-25,1,Crime,1,No
-INC0458,Brazil,2025-12-30,3,Transport Disruption,4,Yes
-INC0459,Colombia,2025-04-20,19,Crime,4,Yes
-INC0460,Germany,2026-01-28,1,Health Outbreak,2,No
-INC0461,Kenya,2025-03-27,20,Health Outbreak,3,No
-INC0462,Mexico,2025-05-28,17,Transport Disruption,2,No
-INC0463,India,2025-08-30,23,Civil Unrest,2,Yes
-INC0464,Brazil,2025-08-11,12,Natural Disaster,3,No
-INC0465,South Africa,2025-06-22,4,Terrorism,2,Yes
-INC0466,Colombia,2025-06-08,7,Terrorism,3,Yes
-INC0467,Kenya,2026-03-18,11,Natural Disaster,5,Yes
-INC0468,Mexico,2025-12-28,17,Health Outbreak,4,Yes
-INC0469, brazil ,2025-05-03,5,Civil Unrest,3,Yes
-INC0470,India,2025-12-25,18,Terrorism,2,No
-INC0471,Philippines,2025-06-18,4,Transport Disruption,5,Yes
-INC0472,Egypt,2026-01-04,2,Natural Disaster,3,Yes
-INC0473,Philippines,2025-03-04,14,Transport Disruption,5,No
-INC0474,Mexico,2026-02-24,22,Transport Disruption,3,Yes
-INC0475,Mexico,2025-11-24,19,Civil Unrest,3,No
-INC0476,Nigeria,2025-06-23,22,Health Outbreak,5,Yes
-INC0477,Mexico,2026-02-27,15,Transport Disruption,2,No
-INC0478,Nigeria,2025-10-18,18,Transport Disruption,4,Yes
-INC0479,PHILIPPINES,2026-04-04,23,Terrorism,4,No
-INC0480,Colombia,2025-10-21,15,Transport Disruption,5,No
-INC0481,Mexico,2025-10-13,10,Transport Disruption,3,No
-INC0482,Colombia,2026-03-24,19,Health Outbreak,4,No
-INC0483,India,2025-01-19,19,Health Outbreak,3,Yes
-INC0484,United States,2025-01-10,15,Civil Unrest,1,No
-INC0485,Kenya,2025-08-27,14,Civil Unrest,3,No
-INC0486,Brazil,2025-01-06,0,Crime,2,Yes
-INC0487,Nigeria,2025-07-10,21,Crime,3,No
-INC0488,Philippines,2025-05-14,9,Transport Disruption,4,No
-INC0489, mexico ,2026-04-24,15,Natural Disaster,3,Yes
-INC0490,Colombia,2025-09-30,19,Terrorism,4,Yes
-INC0491,South Africa,2025-04-03,22,Health Outbreak,4,No
-INC0492,Philippines,2025-08-13,4,Terrorism,3,Yes
-INC0493,Nigeria,2025-01-25,5,Terrorism,5,Yes
-INC0494,INDONESIA,2026-06-19,21,Health Outbreak,3,No
-INC0495,Kenya,2025-09-26,9,Transport Disruption,4,No
-INC0496,Nigeria,2025-08-09,22,Terrorism,5,Yes
-INC0497,Kenya,2026-01-29,23,Terrorism,4,Yes
-INC0498,Indonesia,2025-09-29,17,Natural Disaster,2,No
-INC0499,Indonesia,2026-02-01,13,Health Outbreak,2,Yes
-INC0500,India,2025-10-22,10,Health Outbreak,4,Yes
-INC0501,Mexico,2025-11-21,11,Crime,2,No
-INC0502,India,2025-09-23,17,Health Outbreak,4,No
-INC0503,Philippines,2025-01-29,8,Health Outbreak,5,Yes
-INC0504,Germany,2025-12-01,0,Terrorism,1,No
-INC0505,Egypt,2026-02-10,12,Civil Unrest,2,No
-INC0506,Australia,2026-03-28,11,Terrorism,1,No
-INC0507,Japan,2025-08-09,20,Natural Disaster,1,No
-INC0508,Ghana,2025-09-26,3,Civil Unrest,4,Yes
-INC0509,Egypt,2025-05-23,1,Crime,3,Yes
-INC0510, turkey ,2025-07-17,12,Natural Disaster,3,Yes
-INC0511,Japan,2025-06-04,19,Health Outbreak,1,No
-INC0512,Turkey,2025-11-20,21,Natural Disaster,4,Yes
-INC0513,Ghana,2025-07-25,7,Civil Unrest,2,No
-INC0514,Colombia,2025-12-12,16,Natural Disaster,4,Yes
-INC0515,Ghana,2025-02-16,12,Health Outbreak,1,Yes
-INC0516,Philippines,2025-04-05,11,Civil Unrest,5,Yes
-INC0517,Egypt,2025-08-05,14,Terrorism,3,Yes
-INC0518,Japan,2025-09-11,16,Health Outbreak,3,Yes
-INC0519,Colombia,2025-03-09,16,Transport Disruption,4,No
-INC0520,Colombia,2025-10-27,6,Transport Disruption,3,No
-INC0521,Brazil,2025-12-28,9,Natural Disaster,4,Yes
-INC0522,Ghana,2026-01-07,22,Crime,3,Yes
-INC0523,India,2026-05-04,23,Civil Unrest,3,No
-INC0524,Turkey,2026-01-19,20,Terrorism,2,No
-INC0525,India,2025-04-01,1,Transport Disruption,2,No
-INC0526, indonesia ,2026-06-03,11,Natural Disaster,4,Yes
-INC0527,Nigeria,2025-08-14,3,Transport Disruption,5,Yes
-INC0528,Egypt,2025-07-09,20,Health Outbreak,2,No
-INC0529,Colombia,2025-08-31,8,Civil Unrest,3,No
-INC0530,Nigeria,2025-04-15,8,Health Outbreak,4,Yes
-INC0531,Philippines,2026-02-24,23,Health Outbreak,3,Yes
-INC0532,Colombia,2026-03-29,9,Crime,5,Yes
-INC0533,Colombia,2025-12-17,3,Civil Unrest,4,No
-INC0534,Brazil,2026-01-08,20,Health Outbreak,1,No
-INC0535,TURKEY,2025-02-13,23,Transport Disruption,3,Yes
-INC0536,Philippines,2026-06-22,17,Health Outbreak,3,No
-INC0537,Philippines,2025-02-13,6,Terrorism,4,Yes
-INC0538,Nigeria,2025-09-06,4,Terrorism,3,Yes
-INC0539,Philippines,2026-02-20,8,Crime,3,No
-INC0540,Brazil,2026-01-22,4,Health Outbreak,2,No
-INC0541,South Africa,2026-04-16,14,Crime,1,No
-INC0542,Colombia,2025-02-06,6,Transport Disruption,4,Yes
-INC0543,Mexico,2025-12-13,14,Crime,5,Yes
-INC0544,Turkey,2026-01-27,6,Natural Disaster,2,No
-INC0545,Japan,2026-05-13,5,Crime,1,No
-INC0546,Nigeria,2025-03-01,16,Terrorism,5,Yes
-INC0547,BRAZIL,2026-06-11,2,Civil Unrest,4,Yes
-INC0548,Nigeria,2026-01-09,11,Terrorism,5,Yes
-INC0549,AUSTRALIA,2026-02-23,21,Transport Disruption,1,No
-INC0550,Kenya,2026-03-17,14,Natural Disaster,3,Yes
-INC0551,Turkey,2025-03-21,17,Civil Unrest,3,Yes
-INC0552,Kenya,2025-02-12,20,Civil Unrest,3,Yes
-INC0553,Colombia,2025-03-31,22,Terrorism,3,No
-INC0554,Brazil,2026-06-04,0,Natural Disaster,2,Yes
-INC0555,France,2026-03-31,0,Crime,2,Yes
-INC0556,Colombia,2025-07-14,20,Terrorism,3,Yes
-INC0557,Philippines,2025-02-06,13,Crime,4,No
-INC0558,Jordan,2025-11-06,2,Natural Disaster,3,No
-INC0559,Colombia,2026-03-16,15,Natural Disaster,4,Yes
-INC0560,Egypt,2025-11-28,0,Health Outbreak,3,No
-INC0561,Turkey,2025-02-11,16,Civil Unrest,2,No
-INC0562,India,2025-01-21,7,Natural Disaster,2,No
-INC0563,United States,2025-08-02,5,Transport Disruption,3,Yes
-INC0564,South Africa,2026-04-27,2,Terrorism,2,Yes
-INC0565,United States,2026-05-08,16,Crime,2,No
-INC0566,Philippines,2025-01-07,3,Civil Unrest,3,No
-INC0567,South Africa,2025-07-07,3,Crime,2,Yes
-INC0568,Philippines,2025-05-22,13,Health Outbreak,4,Yes
-INC0569,Nigeria,2025-02-21,3,Crime,5,Yes
-INC0570,Indonesia,2025-07-19,6,Transport Disruption,4,Yes
-INC0571,South Africa,2025-05-13,6,Terrorism,3,Yes
-INC0572,Indonesia,2026-02-10,5,Health Outbreak,4,Yes
-INC0573,United States,2026-01-11,19,Crime,3,No
-INC0574,Philippines,2025-07-23,7,Transport Disruption,3,No
-INC0575,Colombia,2026-04-15,16,Terrorism,4,Yes
-INC0576,Brazil,2026-06-08,23,Health Outbreak,3,No
-INC0577, philippines ,2025-01-12,6,Health Outbreak,4,Yes
-INC0578,Colombia,2026-05-08,8,Crime,5,Yes
-INC0579, australia ,2025-03-04,7,Natural Disaster,1,No
-INC0580,Kenya,2025-12-20,6,Transport Disruption,3,No
-INC0581,South Africa,2025-09-03,13,Transport Disruption,3,No
-INC0582, nigeria ,2026-06-20,15,Crime,5,Yes
-INC0583,Indonesia,2025-11-19,13,Civil Unrest,2,No
-INC0584,Turkey,2025-10-03,16,Natural Disaster,2,No
-INC0585,Nigeria,2025-11-01,8,Transport Disruption,5,No
-INC0586,India,2025-10-31,20,Terrorism,2,Yes
-INC0587,Australia,2025-10-13,0,Transport Disruption,1,No
-INC0588,Colombia,2026-05-08,0,Terrorism,3,No
-INC0589,Colombia,2025-04-24,21,Natural Disaster,4,Yes
-INC0590,Egypt,2025-05-16,7,Civil Unrest,5,Yes
-INC0591,Nigeria,2025-01-21,17,Terrorism,5,No
-INC0592,Kenya,2025-02-14,12,Transport Disruption,1,No
-INC0593,INDONESIA,2025-05-07,20,Transport Disruption,5,Yes
-INC0594,Australia,2025-07-14,5,Terrorism,1,Yes
-INC0595,Nigeria,2026-03-16,5,Crime,5,Yes
-INC0596,Philippines,2025-06-26,4,Terrorism,5,Yes
-INC0597,Nigeria,2026-02-18,2,Terrorism,4,Yes
-INC0598,South Africa,2025-09-27,5,Crime,3,No
-INC0599,Brazil,2026-02-04,21,Transport Disruption,2,No
-INC0600,Nigeria,2026-03-16,19,Transport Disruption,3,Yes
+incident_id,country,city,incident_date,incident_hour,incident_type,severity,escalated
+INC0001,Indonesia,Jakarta,2025-10-05,22,Civil Unrest,3,Yes
+INC0002,South Africa,Cape Town,2025-01-27,18,Civil Unrest,2,No
+INC0003,INDIA,Mumbai,2025-02-21,20,Terrorism,3,No
+INC0004,Turkey,Ankara,2026-03-06,9,Transport Disruption,5,No
+INC0005,COLOMBIA,Bogota,2025-04-23,6,Transport Disruption,2,No
+INC0006,Jordan,Aqaba,2025-07-04,9,Natural Disaster,3,Yes
+INC0007,Colombia,Bogota,2026-03-26,21,Civil Unrest,3,No
+INC0008,Nigeria,Abuja,2026-04-17,1,Health Outbreak,3,Yes
+INC0009,Jordan,Aqaba,2025-03-20,23,Health Outbreak,2,No
+INC0010,Brazil,Brasilia,2025-06-20,7,Health Outbreak,2,No
+INC0011,SOUTH AFRICA,Durban,2026-05-29,12,Transport Disruption,3,No
+INC0012,India,Mumbai,2025-09-30,21,Terrorism,4,Yes
+INC0013,Mexico,Monterrey,2025-07-14,13,Natural Disaster,2,No
+INC0014,Indonesia,Jakarta,2025-02-27,12,Civil Unrest,3,Yes
+INC0015,United States,Houston,2025-10-30,12,Transport Disruption,3,Yes
+INC0016,Indonesia,Jakarta,2026-01-11,0,Crime,5,Yes
+INC0017,Mexico,Monterrey,2025-08-06,9,Transport Disruption,4,Yes
+INC0018,Jordan,Amman,2025-02-04,14,Transport Disruption,2,No
+INC0019,Colombia,Medellin,2026-06-30,18,Civil Unrest,4,Yes
+INC0020,India,Bangalore,2025-02-27,10,Transport Disruption,3,Yes
+INC0021,Nigeria,Abuja,2025-02-01,1,Health Outbreak,2,No
+INC0022,Turkey,Istanbul,2025-12-03,21,Civil Unrest,1,No
+INC0023,Kenya,Nairobi,2025-03-25,1,Transport Disruption,3,Yes
+INC0024,Egypt,Cairo,2025-01-17,3,Transport Disruption,3,No
+INC0025,Philippines,Davao,2026-02-23,8,Terrorism,4,Yes
+INC0026,United States,Houston,2025-10-13,16,Health Outbreak,1,No
+INC0027,South Africa,Durban,2026-05-07,21,Health Outbreak,1,No
+INC0028,Egypt,Giza,2026-01-13,13,Terrorism,5,Yes
+INC0029,Jordan,Irbid,2025-05-10,0,Terrorism,1,Yes
+INC0030,Nigeria,Port Harcourt,2025-12-28,23,Natural Disaster,3,Yes
+INC0031,France,Paris,2025-07-16,16,Crime,1,No
+INC0032,Egypt,Cairo,2025-03-24,9,Terrorism,3,No
+INC0033,Nigeria,Lagos,2025-08-01,19,Natural Disaster,3,No
+INC0034,Colombia,Bogota,2026-04-17,6,Crime,5,No
+INC0035, spain ,Barcelona,2026-02-27,21,Health Outbreak,1,No
+INC0036,Colombia,Medellin,2026-05-12,22,Civil Unrest,4,Yes
+INC0037,Colombia,Cali,2025-08-06,11,Crime,3,No
+INC0038,BRAZIL,Sao Paulo,2026-01-18,19,Civil Unrest,2,Yes
+INC0039,Brazil,Brasilia,2025-11-23,3,Transport Disruption,2,No
+INC0040,South Africa,Cape Town,2026-04-06,16,Transport Disruption,1,No
+INC0041,Colombia,Bogota,2026-05-01,4,Civil Unrest,2,No
+INC0042,Mexico,Guadalajara,2025-06-13,18,Transport Disruption,3,No
+INC0043,Turkey,Ankara,2026-03-05,2,Terrorism,1,No
+INC0044,Philippines,Davao,2026-01-17,12,Transport Disruption,4,Yes
+INC0045,Egypt,Alexandria,2025-11-28,19,Terrorism,3,No
+INC0046,India,Bangalore,2025-05-30,14,Civil Unrest,4,Yes
+INC0047,Egypt,Alexandria,2025-07-07,6,Crime,2,No
+INC0048,Turkey,Istanbul,2026-02-12,2,Transport Disruption,2,Yes
+INC0049,SOUTH AFRICA,Johannesburg,2026-01-06,7,Health Outbreak,3,Yes
+INC0050,Mexico,Mexico City,2025-10-05,6,Civil Unrest,2,No
+INC0051,COLOMBIA,Medellin,2025-11-11,11,Natural Disaster,5,Yes
+INC0052,Turkey,Istanbul,2026-05-02,2,Natural Disaster,1,Yes
+INC0053,United States,New York,2025-10-02,9,Health Outbreak,2,No
+INC0054,Indonesia,Bali,2026-04-20,21,Transport Disruption,2,No
+INC0055,Egypt,Cairo,2025-05-13,9,Civil Unrest,4,Yes
+INC0056,Nigeria,Port Harcourt,2025-08-03,1,Health Outbreak,4,No
+INC0057,Brazil,Brasilia,2025-07-30,6,Natural Disaster,3,Yes
+INC0058,INDIA,Mumbai,2025-02-22,7,Health Outbreak,2,No
+INC0059,Kenya,Nairobi,2025-12-14,13,Health Outbreak,2,Yes
+INC0060,Egypt,Giza,2026-02-10,5,Civil Unrest,4,No
+INC0061,South Africa,Durban,2026-02-26,11,Crime,4,Yes
+INC0062,Egypt,Giza,2025-03-08,14,Crime,4,Yes
+INC0063,Philippines,Manila,2026-01-14,10,Transport Disruption,3,No
+INC0064,Nigeria,Port Harcourt,2026-03-01,1,Natural Disaster,3,Yes
+INC0065,Nigeria,Abuja,2025-08-21,4,Crime,5,Yes
+INC0066,Egypt,Cairo,2025-02-16,1,Terrorism,3,Yes
+INC0067,Philippines,Cebu,2025-03-19,20,Terrorism,4,Yes
+INC0068,Indonesia,Jakarta,2026-04-24,1,Natural Disaster,2,No
+INC0069,Philippines,Manila,2025-12-16,21,Terrorism,4,Yes
+INC0070,Nigeria,Abuja,2025-04-05,21,Crime,3,No
+INC0071,Colombia,Medellin,2026-05-18,16,Health Outbreak,4,Yes
+INC0072,India,Delhi,2025-11-03,12,Natural Disaster,4,No
+INC0073,Philippines,Manila,2025-11-23,2,Transport Disruption,4,No
+INC0074,Colombia,Bogota,2026-01-14,23,Natural Disaster,5,Yes
+INC0075,Nigeria,Lagos,2025-11-09,7,Natural Disaster,4,No
+INC0076,Brazil,Brasilia,2026-03-20,4,Civil Unrest,4,Yes
+INC0077,Ghana,Kumasi,2026-04-06,22,Terrorism,1,No
+INC0078,United States,Chicago,2025-03-05,0,Natural Disaster,1,Yes
+INC0079,Kenya,Mombasa,2025-01-30,12,Health Outbreak,3,Yes
+INC0080,Jordan,Aqaba,2026-06-12,3,Civil Unrest,4,Yes
+INC0081,Brazil,Brasilia,2025-11-02,23,Crime,3,No
+INC0082,Turkey,Istanbul,2025-08-19,12,Natural Disaster,3,Yes
+INC0083, turkey ,Ankara,2025-08-24,12,Transport Disruption,2,No
+INC0084,Indonesia,Surabaya,2025-11-13,7,Health Outbreak,4,No
+INC0085,Kenya,Mombasa,2026-06-30,9,Terrorism,3,Yes
+INC0086, colombia ,Medellin,2025-09-16,8,Crime,5,Yes
+INC0087,Jordan,Irbid,2026-01-15,17,Civil Unrest,2,No
+INC0088,Australia,Sydney,2025-04-12,1,Natural Disaster,1,No
+INC0089,Turkey,Izmir,2026-02-23,11,Transport Disruption,3,Yes
+INC0090,Egypt,Alexandria,2025-01-28,19,Civil Unrest,4,No
+INC0091,Nigeria,Port Harcourt,2026-03-05,18,Transport Disruption,3,No
+INC0092,Colombia,Bogota,2025-10-19,13,Transport Disruption,5,No
+INC0093,Turkey,Ankara,2025-10-15,8,Natural Disaster,3,Yes
+INC0094,Philippines,Davao,2026-03-20,21,Civil Unrest,4,Yes
+INC0095,Nigeria,Lagos,2025-08-14,18,Transport Disruption,5,No
+INC0096,Nigeria,Abuja,2026-04-06,10,Crime,5,Yes
+INC0097, colombia ,Cali,2026-01-28,19,Health Outbreak,3,Yes
+INC0098,Jordan,Amman,2025-12-19,7,Crime,2,Yes
+INC0099,Mexico,Monterrey,2025-04-20,4,Terrorism,5,Yes
+INC0100,Philippines,Manila,2025-11-07,22,Civil Unrest,4,No
+INC0101,SOUTH AFRICA,Johannesburg,2026-06-23,16,Natural Disaster,3,No
+INC0102,NIGERIA,Abuja,2025-05-24,17,Crime,3,Yes
+INC0103,Brazil,Rio de Janeiro,2025-01-09,9,Transport Disruption,2,No
+INC0104,Colombia,Medellin,2025-12-02,22,Crime,4,Yes
+INC0105,Turkey,Istanbul,2025-05-05,6,Transport Disruption,4,Yes
+INC0106,Philippines,Cebu,2026-02-25,21,Civil Unrest,5,Yes
+INC0107,South Africa,Johannesburg,2026-01-25,9,Terrorism,4,Yes
+INC0108,Nigeria,Abuja,2025-03-29,1,Terrorism,5,No
+INC0109, jordan ,Aqaba,2025-06-08,21,Terrorism,3,No
+INC0110, kenya ,Mombasa,2026-06-02,9,Transport Disruption,2,Yes
+INC0111,Nigeria,Abuja,2026-02-12,20,Health Outbreak,3,No
+INC0112,Brazil,Rio de Janeiro,2025-06-25,15,Health Outbreak,4,Yes
+INC0113,Brazil,Brasilia,2026-06-11,18,Health Outbreak,3,Yes
+INC0114,Mexico,Monterrey,2025-11-12,12,Natural Disaster,2,No
+INC0115,Turkey,Istanbul,2025-03-22,3,Health Outbreak,2,Yes
+INC0116,Turkey,Izmir,2025-02-12,13,Civil Unrest,3,Yes
+INC0117,Philippines,Cebu,2025-05-02,12,Natural Disaster,4,Yes
+INC0118,Indonesia,Surabaya,2025-01-27,11,Crime,2,Yes
+INC0119,Nigeria,Lagos,2025-01-23,2,Civil Unrest,4,No
+INC0120, turkey ,Istanbul,2025-08-22,10,Crime,3,No
+INC0121,Turkey,Izmir,2025-08-22,6,Health Outbreak,1,No
+INC0122,India,Bangalore,2025-01-13,12,Civil Unrest,2,Yes
+INC0123,Colombia,Bogota,2025-05-11,2,Civil Unrest,4,Yes
+INC0124,South Africa,Cape Town,2026-04-14,12,Transport Disruption,3,No
+INC0125,Nigeria,Abuja,2025-10-05,4,Civil Unrest,5,Yes
+INC0126,Egypt,Cairo,2026-01-08,5,Health Outbreak,3,Yes
+INC0127,Nigeria,Abuja,2025-12-25,14,Transport Disruption,3,No
+INC0128,Nigeria,Port Harcourt,2025-08-15,12,Natural Disaster,3,No
+INC0129,United States,Houston,2025-08-03,8,Natural Disaster,3,Yes
+INC0130,Egypt,Cairo,2026-03-07,16,Crime,3,No
+INC0131,BRAZIL,Sao Paulo,2025-11-25,11,Transport Disruption,5,No
+INC0132,Egypt,Giza,2026-06-19,18,Terrorism,4,Yes
+INC0133,Egypt,Alexandria,2025-12-19,19,Health Outbreak,3,No
+INC0134,Egypt,Cairo,2025-04-24,5,Transport Disruption,2,No
+INC0135,NIGERIA,Lagos,2025-01-17,8,Transport Disruption,4,No
+INC0136,Brazil,Sao Paulo,2025-05-04,22,Terrorism,1,No
+INC0137,United States,Chicago,2025-01-14,7,Natural Disaster,3,No
+INC0138,Nigeria,Lagos,2025-11-23,17,Civil Unrest,5,Yes
+INC0139,Colombia,Bogota,2025-07-12,3,Terrorism,4,Yes
+INC0140,United States,Houston,2026-04-18,11,Natural Disaster,2,No
+INC0141,Brazil,Rio de Janeiro,2025-05-18,14,Natural Disaster,3,Yes
+INC0142, india ,Delhi,2026-02-15,2,Terrorism,2,Yes
+INC0143,Kenya,Kisumu,2025-03-25,5,Crime,4,Yes
+INC0144, egypt ,Alexandria,2025-11-25,7,Transport Disruption,4,Yes
+INC0145,Brazil,Brasilia,2025-01-19,17,Crime,3,Yes
+INC0146,Nigeria,Abuja,2025-03-30,9,Crime,4,Yes
+INC0147,Philippines,Manila,2026-03-24,22,Terrorism,3,Yes
+INC0148,Mexico,Guadalajara,2026-03-10,20,Crime,2,No
+INC0149,Kenya,Kisumu,2026-06-28,0,Terrorism,2,Yes
+INC0150,Philippines,Manila,2025-08-28,20,Transport Disruption,3,No
+INC0151,Brazil,Rio de Janeiro,2025-11-08,23,Civil Unrest,2,Yes
+INC0152,Jordan,Amman,2026-03-30,17,Terrorism,1,Yes
+INC0153,Brazil,Rio de Janeiro,2026-01-23,19,Civil Unrest,4,Yes
+INC0154,Ghana,Kumasi,2025-12-21,19,Terrorism,1,Yes
+INC0155,Japan,Tokyo,2026-05-16,0,Transport Disruption,3,Yes
+INC0156,Turkey,Istanbul,2025-10-24,8,Civil Unrest,2,Yes
+INC0157,Nigeria,Port Harcourt,2025-08-23,4,Health Outbreak,3,No
+INC0158,Philippines,Manila,2026-01-25,22,Crime,5,Yes
+INC0159,Colombia,Medellin,2025-07-21,21,Terrorism,4,No
+INC0160,France,Paris,2025-01-24,2,Health Outbreak,1,No
+INC0161, brazil ,Rio de Janeiro,2025-11-08,6,Transport Disruption,3,Yes
+INC0162,Philippines,Manila,2025-02-21,4,Civil Unrest,5,Yes
+INC0163,Nigeria,Lagos,2025-11-08,11,Terrorism,5,Yes
+INC0164,South Africa,Johannesburg,2025-05-08,10,Civil Unrest,3,Yes
+INC0165, philippines ,Cebu,2026-02-01,15,Health Outbreak,2,No
+INC0166,Turkey,Istanbul,2026-02-23,9,Health Outbreak,3,Yes
+INC0167, philippines ,Manila,2025-02-26,9,Transport Disruption,5,Yes
+INC0168,Indonesia,Surabaya,2025-11-03,23,Crime,4,No
+INC0169, mexico ,Guadalajara,2025-11-09,15,Terrorism,2,Yes
+INC0170,NIGERIA,Lagos,2025-03-26,7,Natural Disaster,5,Yes
+INC0171,India,Delhi,2025-09-07,21,Natural Disaster,2,Yes
+INC0172,PHILIPPINES,Manila,2025-05-25,18,Natural Disaster,4,Yes
+INC0173,Philippines,Davao,2025-05-09,20,Civil Unrest,2,Yes
+INC0174,Kenya,Nairobi,2025-04-04,11,Civil Unrest,4,Yes
+INC0175, kenya ,Kisumu,2026-05-24,9,Civil Unrest,1,No
+INC0176,India,Delhi,2025-02-23,22,Crime,4,Yes
+INC0177,KENYA,Kisumu,2025-06-05,11,Health Outbreak,3,Yes
+INC0178,India,Bangalore,2026-04-04,8,Civil Unrest,3,Yes
+INC0179,Philippines,Davao,2026-02-10,18,Crime,4,Yes
+INC0180,Kenya,Mombasa,2025-01-25,12,Civil Unrest,2,No
+INC0181,Indonesia,Bali,2025-01-20,4,Transport Disruption,2,No
+INC0182,Nigeria,Lagos,2026-06-15,16,Civil Unrest,3,No
+INC0183,Philippines,Davao,2025-12-22,1,Health Outbreak,4,Yes
+INC0184,Indonesia,Surabaya,2026-05-17,14,Terrorism,3,No
+INC0185,Nigeria,Port Harcourt,2025-06-13,17,Natural Disaster,4,No
+INC0186,Nigeria,Lagos,2025-05-05,9,Civil Unrest,3,No
+INC0187,Mexico,Mexico City,2025-02-18,4,Health Outbreak,4,No
+INC0188, colombia ,Medellin,2026-05-22,21,Transport Disruption,4,No
+INC0189,Colombia,Cali,2025-04-08,0,Transport Disruption,3,No
+INC0190,Egypt,Cairo,2025-07-04,15,Natural Disaster,2,Yes
+INC0191,SOUTH AFRICA,Cape Town,2025-04-27,0,Terrorism,3,No
+INC0192,Brazil,Brasilia,2026-02-19,9,Civil Unrest,4,No
+INC0193,Nigeria,Port Harcourt,2025-12-30,12,Health Outbreak,5,Yes
+INC0194,Mexico,Guadalajara,2025-02-25,0,Health Outbreak,3,Yes
+INC0195, kenya ,Nairobi,2026-01-25,15,Civil Unrest,4,Yes
+INC0196,Colombia,Medellin,2026-02-11,13,Natural Disaster,4,No
+INC0197,Egypt,Alexandria,2025-12-16,16,Transport Disruption,4,Yes
+INC0198,India,Bangalore,2026-06-22,6,Natural Disaster,3,Yes
+INC0199,Colombia,Cali,2025-08-26,20,Natural Disaster,4,Yes
+INC0200,South Africa,Durban,2025-07-20,10,Civil Unrest,3,No
+INC0201,Ghana,Accra,2025-01-17,7,Transport Disruption,2,No
+INC0202,Nigeria,Abuja,2026-05-23,20,Health Outbreak,4,Yes
+INC0203,Colombia,Bogota,2025-10-26,14,Crime,4,Yes
+INC0204, brazil ,Sao Paulo,2025-04-15,6,Natural Disaster,3,No
+INC0205,Nigeria,Lagos,2025-09-02,2,Transport Disruption,3,No
+INC0206,Turkey,Ankara,2025-11-15,12,Terrorism,4,No
+INC0207,Indonesia,Surabaya,2026-01-28,5,Crime,4,Yes
+INC0208,Brazil,Sao Paulo,2026-03-05,9,Transport Disruption,3,No
+INC0209,Philippines,Davao,2025-05-29,18,Terrorism,5,No
+INC0210,NIGERIA,Lagos,2025-01-02,1,Transport Disruption,3,No
+INC0211,Egypt,Alexandria,2025-11-26,4,Crime,3,No
+INC0212,BRAZIL,Rio de Janeiro,2026-05-31,14,Civil Unrest,4,No
+INC0213,South Africa,Johannesburg,2025-09-25,8,Transport Disruption,3,No
+INC0214,Egypt,Giza,2025-08-29,20,Transport Disruption,4,No
+INC0215,South Africa,Cape Town,2026-01-16,4,Transport Disruption,1,No
+INC0216, uae ,Abu Dhabi,2025-08-17,6,Transport Disruption,1,Yes
+INC0217,United States,New York,2026-06-08,1,Natural Disaster,2,No
+INC0218,Australia,Sydney,2025-11-26,7,Transport Disruption,1,No
+INC0219,India,Delhi,2025-12-24,8,Civil Unrest,2,No
+INC0220,Egypt,Cairo,2025-08-04,10,Health Outbreak,2,No
+INC0221,South Africa,Durban,2025-12-12,22,Terrorism,2,Yes
+INC0222,UAE,Sharjah,2025-01-17,2,Terrorism,1,No
+INC0223,Philippines,Cebu,2025-05-01,0,Civil Unrest,4,Yes
+INC0224,Colombia,Bogota,2026-02-21,2,Crime,4,Yes
+INC0225,Turkey,Istanbul,2025-12-23,23,Crime,1,No
+INC0226, australia ,Perth,2025-11-26,6,Natural Disaster,1,No
+INC0227,Brazil,Brasilia,2025-08-17,12,Civil Unrest,5,Yes
+INC0228,Nigeria,Port Harcourt,2025-06-18,17,Health Outbreak,5,Yes
+INC0229,Mexico,Mexico City,2025-08-30,16,Health Outbreak,4,No
+INC0230,COLOMBIA,Cali,2025-08-07,6,Terrorism,3,Yes
+INC0231,Turkey,Izmir,2025-05-17,14,Health Outbreak,1,Yes
+INC0232,Brazil,Rio de Janeiro,2026-05-01,18,Transport Disruption,3,No
+INC0233,Colombia,Cali,2025-10-14,13,Natural Disaster,4,Yes
+INC0234,Turkey,Izmir,2025-07-28,5,Terrorism,3,Yes
+INC0235,Indonesia,Bali,2025-06-13,12,Transport Disruption,2,No
+INC0236,Colombia,Bogota,2026-02-01,23,Health Outbreak,5,Yes
+INC0237,South Africa,Johannesburg,2025-07-24,10,Health Outbreak,2,No
+INC0238,Mexico,Mexico City,2026-05-11,6,Transport Disruption,2,No
+INC0239,Indonesia,Surabaya,2026-01-15,10,Terrorism,3,No
+INC0240,South Africa,Cape Town,2026-04-02,20,Natural Disaster,5,Yes
+INC0241,Nigeria,Abuja,2026-04-27,21,Crime,5,No
+INC0242,Colombia,Bogota,2025-05-25,18,Transport Disruption,4,No
+INC0243,Brazil,Rio de Janeiro,2025-07-20,10,Terrorism,3,Yes
+INC0244,Indonesia,Jakarta,2026-04-30,17,Health Outbreak,4,Yes
+INC0245,South Africa,Johannesburg,2025-01-12,7,Transport Disruption,3,No
+INC0246,Nigeria,Lagos,2025-05-24,3,Transport Disruption,5,Yes
+INC0247,INDIA,Bangalore,2026-04-17,20,Terrorism,2,Yes
+INC0248,Kenya,Kisumu,2025-10-04,9,Natural Disaster,4,Yes
+INC0249,India,Delhi,2025-07-01,13,Crime,2,No
+INC0250,Philippines,Davao,2025-09-16,15,Health Outbreak,4,Yes
+INC0251,Egypt,Alexandria,2025-11-10,22,Transport Disruption,3,No
+INC0252,Colombia,Bogota,2025-12-16,18,Crime,4,Yes
+INC0253,Colombia,Cali,2025-11-23,3,Natural Disaster,4,No
+INC0254,Ghana,Takoradi,2025-10-08,21,Crime,1,No
+INC0255,South Africa,Johannesburg,2026-02-16,3,Transport Disruption,4,No
+INC0256,Indonesia,Surabaya,2025-08-22,13,Terrorism,3,Yes
+INC0257,Turkey,Ankara,2025-07-19,20,Health Outbreak,2,Yes
+INC0258,Colombia,Cali,2026-06-08,0,Civil Unrest,3,No
+INC0259,UAE,Sharjah,2025-08-25,4,Terrorism,1,No
+INC0260,Kenya,Kisumu,2025-11-15,7,Crime,4,Yes
+INC0261,Brazil,Sao Paulo,2025-07-30,2,Civil Unrest,4,Yes
+INC0262,Philippines,Manila,2025-12-05,9,Health Outbreak,4,Yes
+INC0263,Turkey,Izmir,2025-02-10,19,Terrorism,4,Yes
+INC0264,COLOMBIA,Bogota,2026-02-02,21,Crime,4,No
+INC0265,Colombia,Medellin,2026-06-06,10,Health Outbreak,3,Yes
+INC0266,Brazil,Rio de Janeiro,2025-08-21,10,Civil Unrest,2,Yes
+INC0267,Egypt,Giza,2026-05-01,15,Transport Disruption,3,No
+INC0268,Mexico,Monterrey,2025-02-13,13,Crime,3,No
+INC0269, mexico ,Mexico City,2026-06-09,1,Terrorism,4,Yes
+INC0270,Indonesia,Surabaya,2025-06-02,22,Terrorism,3,Yes
+INC0271,Turkey,Izmir,2026-03-03,20,Terrorism,3,Yes
+INC0272,South Africa,Durban,2025-11-03,16,Natural Disaster,2,Yes
+INC0273,Indonesia,Jakarta,2025-07-02,22,Civil Unrest,2,No
+INC0274,Nigeria,Port Harcourt,2026-03-05,10,Civil Unrest,4,Yes
+INC0275,Mexico,Monterrey,2025-09-11,13,Transport Disruption,3,No
+INC0276,Kenya,Mombasa,2025-09-25,19,Natural Disaster,2,No
+INC0277,INDONESIA,Surabaya,2025-10-23,9,Natural Disaster,4,No
+INC0278,Nigeria,Lagos,2025-02-12,14,Civil Unrest,4,Yes
+INC0279,Jordan,Amman,2026-06-25,4,Terrorism,2,Yes
+INC0280,Brazil,Sao Paulo,2025-05-20,22,Crime,1,No
+INC0281,Indonesia,Surabaya,2025-01-22,13,Civil Unrest,2,No
+INC0282,France,Lyon,2025-02-01,3,Transport Disruption,1,No
+INC0283, ghana ,Takoradi,2025-09-24,5,Health Outbreak,2,No
+INC0284,Mexico,Monterrey,2026-03-29,12,Civil Unrest,3,No
+INC0285,Philippines,Davao,2025-09-26,11,Crime,4,Yes
+INC0286,Philippines,Davao,2026-02-09,15,Civil Unrest,5,Yes
+INC0287,Jordan,Irbid,2025-06-14,11,Transport Disruption,2,No
+INC0288,Indonesia,Jakarta,2025-02-13,11,Health Outbreak,4,Yes
+INC0289,Brazil,Sao Paulo,2025-07-11,13,Natural Disaster,4,No
+INC0290,Colombia,Medellin,2025-11-10,19,Natural Disaster,4,No
+INC0291,Jordan,Aqaba,2026-01-07,16,Natural Disaster,1,No
+INC0292,Philippines,Manila,2025-04-04,21,Natural Disaster,3,Yes
+INC0293,South Africa,Johannesburg,2025-06-03,15,Civil Unrest,3,No
+INC0294,Nigeria,Abuja,2025-02-07,7,Terrorism,4,No
+INC0295,Brazil,Sao Paulo,2025-12-15,5,Civil Unrest,3,Yes
+INC0296,TURKEY,Izmir,2026-01-10,23,Civil Unrest,2,No
+INC0297,Kenya,Kisumu,2025-06-28,21,Natural Disaster,1,No
+INC0298,Philippines,Manila,2026-02-28,17,Terrorism,4,Yes
+INC0299, brazil ,Brasilia,2025-08-28,18,Natural Disaster,1,No
+INC0300,Nigeria,Abuja,2026-06-26,17,Health Outbreak,4,Yes
+INC0301,Colombia,Cali,2026-06-10,21,Natural Disaster,5,Yes
+INC0302, south africa ,Durban,2026-06-06,19,Natural Disaster,3,No
+INC0303,Indonesia,Surabaya,2026-05-06,15,Transport Disruption,2,No
+INC0304,Philippines,Davao,2026-05-04,18,Natural Disaster,3,Yes
+INC0305,Egypt,Alexandria,2025-01-27,20,Health Outbreak,3,No
+INC0306,Ghana,Accra,2025-04-14,10,Transport Disruption,2,No
+INC0307,COLOMBIA,Cali,2026-04-17,2,Natural Disaster,3,Yes
+INC0308,Egypt,Giza,2025-06-06,19,Natural Disaster,2,No
+INC0309,Colombia,Medellin,2026-01-12,4,Civil Unrest,3,No
+INC0310,India,Mumbai,2026-01-07,8,Natural Disaster,1,No
+INC0311,Nigeria,Port Harcourt,2025-11-28,11,Terrorism,5,Yes
+INC0312,Colombia,Bogota,2025-03-03,5,Terrorism,4,Yes
+INC0313,Kenya,Nairobi,2025-06-28,22,Transport Disruption,4,No
+INC0314,Colombia,Cali,2025-05-25,12,Civil Unrest,5,Yes
+INC0315,Nigeria,Lagos,2025-10-06,18,Health Outbreak,3,Yes
+INC0316,India,Mumbai,2026-04-13,15,Transport Disruption,3,No
+INC0317,Kenya,Kisumu,2025-05-03,23,Natural Disaster,3,No
+INC0318,COLOMBIA,Medellin,2025-05-09,3,Health Outbreak,5,Yes
+INC0319,Philippines,Manila,2026-03-30,21,Natural Disaster,2,No
+INC0320,Colombia,Medellin,2025-04-09,21,Natural Disaster,4,Yes
+INC0321,Philippines,Davao,2025-03-18,13,Civil Unrest,3,Yes
+INC0322,Kenya,Nairobi,2025-08-01,16,Crime,5,Yes
+INC0323,Jordan,Aqaba,2025-04-07,1,Terrorism,4,Yes
+INC0324,Jordan,Aqaba,2025-08-16,21,Crime,4,No
+INC0325,Philippines,Manila,2025-09-23,11,Civil Unrest,4,Yes
+INC0326,Colombia,Medellin,2025-06-06,23,Health Outbreak,3,No
+INC0327,United States,New York,2026-03-04,19,Terrorism,4,No
+INC0328,Nigeria,Lagos,2025-03-11,22,Civil Unrest,3,Yes
+INC0329,Turkey,Izmir,2025-04-02,15,Health Outbreak,5,Yes
+INC0330,Philippines,Davao,2025-01-02,1,Transport Disruption,3,No
+INC0331,South Africa,Johannesburg,2026-05-31,0,Crime,3,Yes
+INC0332,Colombia,Medellin,2025-11-30,1,Natural Disaster,2,Yes
+INC0333,Brazil,Sao Paulo,2025-12-17,0,Health Outbreak,2,Yes
+INC0334,Mexico,Guadalajara,2025-03-26,2,Civil Unrest,4,Yes
+INC0335,India,Mumbai,2026-03-03,17,Transport Disruption,2,Yes
+INC0336,United States,Houston,2025-06-07,13,Transport Disruption,2,No
+INC0337,Mexico,Monterrey,2026-04-19,5,Crime,2,Yes
+INC0338,Colombia,Bogota,2025-05-21,9,Terrorism,5,Yes
+INC0339,South Africa,Durban,2025-01-04,9,Transport Disruption,2,No
+INC0340,South Africa,Cape Town,2025-11-16,8,Terrorism,4,Yes
+INC0341,Mexico,Monterrey,2025-12-14,19,Health Outbreak,2,No
+INC0342,Nigeria,Port Harcourt,2026-02-07,7,Terrorism,4,Yes
+INC0343,Indonesia,Surabaya,2025-08-31,12,Crime,3,No
+INC0344,Jordan,Amman,2026-05-15,21,Transport Disruption,2,No
+INC0345,Turkey,Izmir,2025-12-18,20,Terrorism,2,Yes
+INC0346,Indonesia,Jakarta,2025-12-15,10,Natural Disaster,3,Yes
+INC0347,Philippines,Manila,2025-08-18,3,Crime,4,No
+INC0348,Mexico,Mexico City,2025-03-23,0,Transport Disruption,3,No
+INC0349,Philippines,Davao,2026-04-03,14,Crime,5,Yes
+INC0350,Colombia,Medellin,2025-09-24,4,Transport Disruption,5,Yes
+INC0351, nigeria ,Abuja,2025-11-16,13,Civil Unrest,4,Yes
+INC0352,United States,Chicago,2025-05-16,10,Terrorism,1,Yes
+INC0353,Ghana,Takoradi,2026-01-25,17,Transport Disruption,1,No
+INC0354,NIGERIA,Abuja,2025-06-24,17,Health Outbreak,5,Yes
+INC0355,Australia,Sydney,2025-11-16,5,Terrorism,1,No
+INC0356, south africa ,Durban,2025-07-07,18,Transport Disruption,5,No
+INC0357,Indonesia,Jakarta,2025-04-17,21,Crime,4,No
+INC0358,Colombia,Cali,2026-05-28,23,Terrorism,4,Yes
+INC0359,Colombia,Medellin,2025-02-03,23,Natural Disaster,3,Yes
+INC0360,Colombia,Cali,2025-08-14,13,Health Outbreak,4,No
+INC0361,Egypt,Cairo,2025-08-22,19,Natural Disaster,3,No
+INC0362,Brazil,Brasilia,2025-02-07,7,Crime,3,No
+INC0363,Colombia,Cali,2025-04-25,15,Health Outbreak,5,Yes
+INC0364,South Africa,Johannesburg,2025-12-10,1,Civil Unrest,4,No
+INC0365,South Africa,Cape Town,2025-02-16,11,Crime,4,Yes
+INC0366,United States,New York,2025-09-02,16,Health Outbreak,3,Yes
+INC0367,Egypt,Giza,2026-04-17,16,Natural Disaster,3,Yes
+INC0368,Mexico,Mexico City,2025-07-07,16,Terrorism,5,Yes
+INC0369,Kenya,Mombasa,2026-01-27,16,Health Outbreak,1,No
+INC0370,Philippines,Manila,2025-02-19,2,Civil Unrest,3,Yes
+INC0371,Colombia,Cali,2025-10-09,7,Natural Disaster,5,Yes
+INC0372, nigeria ,Abuja,2025-06-25,22,Crime,4,No
+INC0373,KENYA,Nairobi,2026-05-21,14,Transport Disruption,4,No
+INC0374,United States,New York,2025-01-09,20,Transport Disruption,1,No
+INC0375,Indonesia,Jakarta,2025-05-31,20,Terrorism,5,No
+INC0376,Egypt,Giza,2025-01-22,13,Natural Disaster,2,No
+INC0377,Indonesia,Bali,2025-11-19,23,Transport Disruption,3,No
+INC0378,Colombia,Cali,2026-06-21,12,Civil Unrest,3,Yes
+INC0379,Kenya,Mombasa,2026-06-01,18,Crime,1,No
+INC0380,Egypt,Cairo,2025-11-19,4,Crime,3,No
+INC0381,South Africa,Cape Town,2025-03-12,18,Civil Unrest,3,Yes
+INC0382,France,Paris,2025-08-18,6,Health Outbreak,2,No
+INC0383,Colombia,Cali,2025-11-27,8,Health Outbreak,5,Yes
+INC0384,India,Delhi,2026-02-11,22,Crime,4,Yes
+INC0385,Egypt,Alexandria,2025-09-08,0,Natural Disaster,3,Yes
+INC0386,Philippines,Cebu,2025-05-10,1,Natural Disaster,4,Yes
+INC0387,Indonesia,Jakarta,2025-05-11,2,Natural Disaster,5,Yes
+INC0388,Philippines,Manila,2025-01-28,5,Civil Unrest,3,No
+INC0389,Indonesia,Jakarta,2026-02-02,10,Health Outbreak,3,Yes
+INC0390,Colombia,Medellin,2026-04-12,23,Crime,3,No
+INC0391,Colombia,Medellin,2025-05-15,13,Civil Unrest,4,Yes
+INC0392,Indonesia,Jakarta,2025-10-03,4,Terrorism,3,Yes
+INC0393,Mexico,Guadalajara,2025-01-24,4,Natural Disaster,3,Yes
+INC0394,South Africa,Cape Town,2026-06-15,6,Civil Unrest,2,No
+INC0395,South Africa,Cape Town,2025-10-16,3,Civil Unrest,1,No
+INC0396,Philippines,Cebu,2025-09-19,2,Civil Unrest,3,Yes
+INC0397,India,Mumbai,2025-08-24,15,Transport Disruption,3,No
+INC0398, nigeria ,Port Harcourt,2026-06-21,15,Natural Disaster,4,Yes
+INC0399,Indonesia,Bali,2026-02-12,10,Civil Unrest,3,Yes
+INC0400,South Africa,Cape Town,2025-06-15,1,Health Outbreak,3,Yes
+INC0401,Kenya,Nairobi,2025-12-04,16,Transport Disruption,3,No
+INC0402,Brazil,Rio de Janeiro,2025-02-10,17,Crime,5,No
+INC0403,Ghana,Kumasi,2025-08-29,1,Transport Disruption,2,No
+INC0404,Kenya,Mombasa,2025-03-19,9,Terrorism,2,Yes
+INC0405,Philippines,Manila,2026-01-29,3,Terrorism,4,Yes
+INC0406,Kenya,Mombasa,2026-04-21,13,Health Outbreak,2,No
+INC0407,Ghana,Takoradi,2026-02-04,22,Natural Disaster,1,No
+INC0408,France,Paris,2025-02-20,22,Health Outbreak,2,Yes
+INC0409,NIGERIA,Lagos,2025-11-27,20,Natural Disaster,3,Yes
+INC0410,Colombia,Bogota,2026-02-11,21,Crime,3,Yes
+INC0411, ghana ,Accra,2025-06-06,22,Crime,3,No
+INC0412,Philippines,Davao,2025-11-13,19,Civil Unrest,2,Yes
+INC0413,Philippines,Davao,2025-09-15,14,Natural Disaster,4,No
+INC0414,Kenya,Kisumu,2025-11-14,21,Civil Unrest,1,No
+INC0415,India,Mumbai,2026-03-06,16,Terrorism,3,Yes
+INC0416,India,Delhi,2025-10-28,16,Terrorism,4,Yes
+INC0417,United States,Chicago,2025-09-18,7,Health Outbreak,2,Yes
+INC0418,Nigeria,Abuja,2025-11-24,17,Crime,5,Yes
+INC0419,Philippines,Davao,2025-02-02,21,Terrorism,5,Yes
+INC0420,Mexico,Guadalajara,2026-05-23,1,Transport Disruption,1,No
+INC0421,Brazil,Rio de Janeiro,2026-04-21,13,Transport Disruption,4,No
+INC0422,Mexico,Mexico City,2025-07-20,12,Health Outbreak,4,No
+INC0423,Brazil,Rio de Janeiro,2025-01-18,23,Civil Unrest,1,No
+INC0424,Mexico,Mexico City,2025-07-20,5,Transport Disruption,3,No
+INC0425,Turkey,Istanbul,2026-01-17,11,Civil Unrest,3,No
+INC0426,Philippines,Davao,2026-01-02,9,Civil Unrest,3,No
+INC0427,Australia,Sydney,2025-02-23,10,Terrorism,1,No
+INC0428,Philippines,Manila,2025-06-18,14,Natural Disaster,2,No
+INC0429,Brazil,Sao Paulo,2026-03-15,14,Transport Disruption,3,Yes
+INC0430,Indonesia,Jakarta,2025-01-23,22,Terrorism,1,No
+INC0431,Nigeria,Abuja,2025-01-03,12,Crime,3,No
+INC0432,KENYA,Mombasa,2026-02-01,6,Natural Disaster,3,Yes
+INC0433,Nigeria,Port Harcourt,2025-02-05,2,Transport Disruption,5,Yes
+INC0434,Colombia,Cali,2025-05-21,8,Transport Disruption,5,Yes
+INC0435,Colombia,Medellin,2025-02-01,6,Terrorism,5,Yes
+INC0436,Egypt,Cairo,2025-06-05,23,Natural Disaster,1,No
+INC0437,JORDAN,Aqaba,2026-04-20,18,Health Outbreak,2,Yes
+INC0438,Indonesia,Bali,2025-07-18,5,Civil Unrest,5,Yes
+INC0439,Turkey,Ankara,2025-11-16,11,Civil Unrest,2,No
+INC0440,Philippines,Davao,2025-09-15,0,Transport Disruption,5,No
+INC0441, colombia ,Bogota,2025-05-23,10,Crime,5,Yes
+INC0442,Philippines,Cebu,2025-11-26,20,Civil Unrest,4,No
+INC0443,Turkey,Izmir,2026-03-30,3,Crime,2,No
+INC0444,Kenya,Kisumu,2026-05-15,12,Health Outbreak,3,Yes
+INC0445,Nigeria,Port Harcourt,2025-11-28,0,Transport Disruption,5,No
+INC0446,Nigeria,Port Harcourt,2025-08-30,23,Civil Unrest,3,Yes
+INC0447,India,Delhi,2026-02-24,20,Health Outbreak,4,No
+INC0448,South Africa,Johannesburg,2026-02-15,19,Terrorism,3,No
+INC0449,Philippines,Manila,2026-02-18,9,Transport Disruption,5,No
+INC0450, uae ,Dubai,2026-03-18,19,Health Outbreak,2,No
+INC0451,UAE,Dubai,2025-11-02,7,Transport Disruption,2,No
+INC0452,Mexico,Monterrey,2025-01-26,4,Transport Disruption,4,No
+INC0453,Colombia,Medellin,2025-11-22,16,Health Outbreak,5,Yes
+INC0454,Turkey,Izmir,2026-01-15,2,Natural Disaster,4,Yes
+INC0455,UAE,Sharjah,2025-04-30,6,Health Outbreak,1,No
+INC0456,Philippines,Davao,2025-09-15,3,Natural Disaster,5,Yes
+INC0457,Australia,Perth,2025-02-25,1,Crime,1,No
+INC0458,Brazil,Brasilia,2025-12-30,3,Transport Disruption,4,Yes
+INC0459,Colombia,Medellin,2025-04-20,19,Crime,4,Yes
+INC0460,Germany,Berlin,2026-01-28,1,Health Outbreak,2,No
+INC0461,Kenya,Kisumu,2025-03-27,20,Health Outbreak,3,No
+INC0462,Mexico,Guadalajara,2025-05-28,17,Transport Disruption,2,No
+INC0463,India,Delhi,2025-08-30,23,Civil Unrest,2,Yes
+INC0464,Brazil,Rio de Janeiro,2025-08-11,12,Natural Disaster,3,No
+INC0465,South Africa,Johannesburg,2025-06-22,4,Terrorism,2,Yes
+INC0466,Colombia,Medellin,2025-06-08,7,Terrorism,3,Yes
+INC0467,Kenya,Mombasa,2026-03-18,11,Natural Disaster,5,Yes
+INC0468,Mexico,Guadalajara,2025-12-28,17,Health Outbreak,4,Yes
+INC0469, brazil ,Sao Paulo,2025-05-03,5,Civil Unrest,3,Yes
+INC0470,India,Delhi,2025-12-25,18,Terrorism,2,No
+INC0471,Philippines,Cebu,2025-06-18,4,Transport Disruption,5,Yes
+INC0472,Egypt,Cairo,2026-01-04,2,Natural Disaster,3,Yes
+INC0473,Philippines,Cebu,2025-03-04,14,Transport Disruption,5,No
+INC0474,Mexico,Monterrey,2026-02-24,22,Transport Disruption,3,Yes
+INC0475,Mexico,Monterrey,2025-11-24,19,Civil Unrest,3,No
+INC0476,Nigeria,Lagos,2025-06-23,22,Health Outbreak,5,Yes
+INC0477,Mexico,Mexico City,2026-02-27,15,Transport Disruption,2,No
+INC0478,Nigeria,Abuja,2025-10-18,18,Transport Disruption,4,Yes
+INC0479,PHILIPPINES,Cebu,2026-04-04,23,Terrorism,4,No
+INC0480,Colombia,Cali,2025-10-21,15,Transport Disruption,5,No
+INC0481,Mexico,Monterrey,2025-10-13,10,Transport Disruption,3,No
+INC0482,Colombia,Medellin,2026-03-24,19,Health Outbreak,4,No
+INC0483,India,Mumbai,2025-01-19,19,Health Outbreak,3,Yes
+INC0484,United States,New York,2025-01-10,15,Civil Unrest,1,No
+INC0485,Kenya,Mombasa,2025-08-27,14,Civil Unrest,3,No
+INC0486,Brazil,Brasilia,2025-01-06,0,Crime,2,Yes
+INC0487,Nigeria,Abuja,2025-07-10,21,Crime,3,No
+INC0488,Philippines,Manila,2025-05-14,9,Transport Disruption,4,No
+INC0489, mexico ,Monterrey,2026-04-24,15,Natural Disaster,3,Yes
+INC0490,Colombia,Medellin,2025-09-30,19,Terrorism,4,Yes
+INC0491,South Africa,Durban,2025-04-03,22,Health Outbreak,4,No
+INC0492,Philippines,Cebu,2025-08-13,4,Terrorism,3,Yes
+INC0493,Nigeria,Lagos,2025-01-25,5,Terrorism,5,Yes
+INC0494,INDONESIA,Bali,2026-06-19,21,Health Outbreak,3,No
+INC0495,Kenya,Mombasa,2025-09-26,9,Transport Disruption,4,No
+INC0496,Nigeria,Abuja,2025-08-09,22,Terrorism,5,Yes
+INC0497,Kenya,Mombasa,2026-01-29,23,Terrorism,4,Yes
+INC0498,Indonesia,Jakarta,2025-09-29,17,Natural Disaster,2,No
+INC0499,Indonesia,Bali,2026-02-01,13,Health Outbreak,2,Yes
+INC0500,India,Mumbai,2025-10-22,10,Health Outbreak,4,Yes
+INC0501,Mexico,Mexico City,2025-11-21,11,Crime,2,No
+INC0502,India,Mumbai,2025-09-23,17,Health Outbreak,4,No
+INC0503,Philippines,Davao,2025-01-29,8,Health Outbreak,5,Yes
+INC0504,Germany,Frankfurt,2025-12-01,0,Terrorism,1,No
+INC0505,Egypt,Giza,2026-02-10,12,Civil Unrest,2,No
+INC0506,Australia,Melbourne,2026-03-28,11,Terrorism,1,No
+INC0507,Japan,Tokyo,2025-08-09,20,Natural Disaster,1,No
+INC0508,Ghana,Kumasi,2025-09-26,3,Civil Unrest,4,Yes
+INC0509,Egypt,Cairo,2025-05-23,1,Crime,3,Yes
+INC0510, turkey ,Ankara,2025-07-17,12,Natural Disaster,3,Yes
+INC0511,Japan,Tokyo,2025-06-04,19,Health Outbreak,1,No
+INC0512,Turkey,Ankara,2025-11-20,21,Natural Disaster,4,Yes
+INC0513,Ghana,Kumasi,2025-07-25,7,Civil Unrest,2,No
+INC0514,Colombia,Bogota,2025-12-12,16,Natural Disaster,4,Yes
+INC0515,Ghana,Accra,2025-02-16,12,Health Outbreak,1,Yes
+INC0516,Philippines,Cebu,2025-04-05,11,Civil Unrest,5,Yes
+INC0517,Egypt,Cairo,2025-08-05,14,Terrorism,3,Yes
+INC0518,Japan,Osaka,2025-09-11,16,Health Outbreak,3,Yes
+INC0519,Colombia,Cali,2025-03-09,16,Transport Disruption,4,No
+INC0520,Colombia,Medellin,2025-10-27,6,Transport Disruption,3,No
+INC0521,Brazil,Rio de Janeiro,2025-12-28,9,Natural Disaster,4,Yes
+INC0522,Ghana,Accra,2026-01-07,22,Crime,3,Yes
+INC0523,India,Delhi,2026-05-04,23,Civil Unrest,3,No
+INC0524,Turkey,Izmir,2026-01-19,20,Terrorism,2,No
+INC0525,India,Bangalore,2025-04-01,1,Transport Disruption,2,No
+INC0526, indonesia ,Surabaya,2026-06-03,11,Natural Disaster,4,Yes
+INC0527,Nigeria,Lagos,2025-08-14,3,Transport Disruption,5,Yes
+INC0528,Egypt,Alexandria,2025-07-09,20,Health Outbreak,2,No
+INC0529,Colombia,Cali,2025-08-31,8,Civil Unrest,3,No
+INC0530,Nigeria,Lagos,2025-04-15,8,Health Outbreak,4,Yes
+INC0531,Philippines,Manila,2026-02-24,23,Health Outbreak,3,Yes
+INC0532,Colombia,Cali,2026-03-29,9,Crime,5,Yes
+INC0533,Colombia,Cali,2025-12-17,3,Civil Unrest,4,No
+INC0534,Brazil,Brasilia,2026-01-08,20,Health Outbreak,1,No
+INC0535,TURKEY,Istanbul,2025-02-13,23,Transport Disruption,3,Yes
+INC0536,Philippines,Cebu,2026-06-22,17,Health Outbreak,3,No
+INC0537,Philippines,Cebu,2025-02-13,6,Terrorism,4,Yes
+INC0538,Nigeria,Lagos,2025-09-06,4,Terrorism,3,Yes
+INC0539,Philippines,Manila,2026-02-20,8,Crime,3,No
+INC0540,Brazil,Sao Paulo,2026-01-22,4,Health Outbreak,2,No
+INC0541,South Africa,Johannesburg,2026-04-16,14,Crime,1,No
+INC0542,Colombia,Medellin,2025-02-06,6,Transport Disruption,4,Yes
+INC0543,Mexico,Mexico City,2025-12-13,14,Crime,5,Yes
+INC0544,Turkey,Izmir,2026-01-27,6,Natural Disaster,2,No
+INC0545,Japan,Tokyo,2026-05-13,5,Crime,1,No
+INC0546,Nigeria,Port Harcourt,2025-03-01,16,Terrorism,5,Yes
+INC0547,BRAZIL,Brasilia,2026-06-11,2,Civil Unrest,4,Yes
+INC0548,Nigeria,Abuja,2026-01-09,11,Terrorism,5,Yes
+INC0549,AUSTRALIA,Perth,2026-02-23,21,Transport Disruption,1,No
+INC0550,Kenya,Kisumu,2026-03-17,14,Natural Disaster,3,Yes
+INC0551,Turkey,Istanbul,2025-03-21,17,Civil Unrest,3,Yes
+INC0552,Kenya,Nairobi,2025-02-12,20,Civil Unrest,3,Yes
+INC0553,Colombia,Bogota,2025-03-31,22,Terrorism,3,No
+INC0554,Brazil,Rio de Janeiro,2026-06-04,0,Natural Disaster,2,Yes
+INC0555,France,Lyon,2026-03-31,0,Crime,2,Yes
+INC0556,Colombia,Cali,2025-07-14,20,Terrorism,3,Yes
+INC0557,Philippines,Manila,2025-02-06,13,Crime,4,No
+INC0558,Jordan,Irbid,2025-11-06,2,Natural Disaster,3,No
+INC0559,Colombia,Bogota,2026-03-16,15,Natural Disaster,4,Yes
+INC0560,Egypt,Alexandria,2025-11-28,0,Health Outbreak,3,No
+INC0561,Turkey,Izmir,2025-02-11,16,Civil Unrest,2,No
+INC0562,India,Mumbai,2025-01-21,7,Natural Disaster,2,No
+INC0563,United States,Chicago,2025-08-02,5,Transport Disruption,3,Yes
+INC0564,South Africa,Durban,2026-04-27,2,Terrorism,2,Yes
+INC0565,United States,New York,2026-05-08,16,Crime,2,No
+INC0566,Philippines,Cebu,2025-01-07,3,Civil Unrest,3,No
+INC0567,South Africa,Cape Town,2025-07-07,3,Crime,2,Yes
+INC0568,Philippines,Davao,2025-05-22,13,Health Outbreak,4,Yes
+INC0569,Nigeria,Port Harcourt,2025-02-21,3,Crime,5,Yes
+INC0570,Indonesia,Jakarta,2025-07-19,6,Transport Disruption,4,Yes
+INC0571,South Africa,Johannesburg,2025-05-13,6,Terrorism,3,Yes
+INC0572,Indonesia,Bali,2026-02-10,5,Health Outbreak,4,Yes
+INC0573,United States,New York,2026-01-11,19,Crime,3,No
+INC0574,Philippines,Davao,2025-07-23,7,Transport Disruption,3,No
+INC0575,Colombia,Bogota,2026-04-15,16,Terrorism,4,Yes
+INC0576,Brazil,Sao Paulo,2026-06-08,23,Health Outbreak,3,No
+INC0577, philippines ,Cebu,2025-01-12,6,Health Outbreak,4,Yes
+INC0578,Colombia,Cali,2026-05-08,8,Crime,5,Yes
+INC0579, australia ,Sydney,2025-03-04,7,Natural Disaster,1,No
+INC0580,Kenya,Kisumu,2025-12-20,6,Transport Disruption,3,No
+INC0581,South Africa,Johannesburg,2025-09-03,13,Transport Disruption,3,No
+INC0582, nigeria ,Lagos,2026-06-20,15,Crime,5,Yes
+INC0583,Indonesia,Surabaya,2025-11-19,13,Civil Unrest,2,No
+INC0584,Turkey,Istanbul,2025-10-03,16,Natural Disaster,2,No
+INC0585,Nigeria,Port Harcourt,2025-11-01,8,Transport Disruption,5,No
+INC0586,India,Mumbai,2025-10-31,20,Terrorism,2,Yes
+INC0587,Australia,Melbourne,2025-10-13,0,Transport Disruption,1,No
+INC0588,Colombia,Medellin,2026-05-08,0,Terrorism,3,No
+INC0589,Colombia,Bogota,2025-04-24,21,Natural Disaster,4,Yes
+INC0590,Egypt,Alexandria,2025-05-16,7,Civil Unrest,5,Yes
+INC0591,Nigeria,Lagos,2025-01-21,17,Terrorism,5,No
+INC0592,Kenya,Mombasa,2025-02-14,12,Transport Disruption,1,No
+INC0593,INDONESIA,Jakarta,2025-05-07,20,Transport Disruption,5,Yes
+INC0594,Australia,Sydney,2025-07-14,5,Terrorism,1,Yes
+INC0595,Nigeria,Abuja,2026-03-16,5,Crime,5,Yes
+INC0596,Philippines,Manila,2025-06-26,4,Terrorism,5,Yes
+INC0597,Nigeria,Abuja,2026-02-18,2,Terrorism,4,Yes
+INC0598,South Africa,Johannesburg,2025-09-27,5,Crime,3,No
+INC0599,Brazil,Brasilia,2026-02-04,21,Transport Disruption,2,No
+INC0600,Nigeria,Lagos,2026-03-16,19,Transport Disruption,3,Yes

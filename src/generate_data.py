@@ -28,6 +28,22 @@ INCIDENT_TYPES = {  # type: how much it pushes escalation up
 }
 DEPARTMENTS = ["Engineering", "Sales", "Operations", "Finance", "HR", "Logistics"]
 OFFICES = ["London", "Manchester", "Dubai", "Singapore", "New York"]
+# Main cities per country (cities are picked with a separate random generator,
+# so adding them doesn't change any of the other generated values)
+CITIES = {
+    "France": ["Paris", "Lyon", "Marseille"], "Germany": ["Berlin", "Munich", "Frankfurt"],
+    "Spain": ["Madrid", "Barcelona", "Valencia"], "Turkey": ["Istanbul", "Ankara", "Izmir"],
+    "United States": ["New York", "Houston", "Chicago"], "Mexico": ["Mexico City", "Monterrey", "Guadalajara"],
+    "Brazil": ["Sao Paulo", "Rio de Janeiro", "Brasilia"], "Colombia": ["Bogota", "Medellin", "Cali"],
+    "Kenya": ["Nairobi", "Mombasa", "Kisumu"], "Nigeria": ["Lagos", "Abuja", "Port Harcourt"],
+    "South Africa": ["Johannesburg", "Cape Town", "Durban"], "Ghana": ["Accra", "Kumasi", "Takoradi"],
+    "Egypt": ["Cairo", "Alexandria", "Giza"], "Jordan": ["Amman", "Aqaba", "Irbid"],
+    "UAE": ["Dubai", "Abu Dhabi", "Sharjah"], "India": ["Mumbai", "Delhi", "Bangalore"],
+    "Indonesia": ["Jakarta", "Surabaya", "Bali"], "Japan": ["Tokyo", "Osaka", "Yokohama"],
+    "Philippines": ["Manila", "Cebu", "Davao"], "Australia": ["Sydney", "Melbourne", "Perth"],
+}
+city_rng = random.Random(99)
+CANONICAL = {c.lower(): c for c in CITIES}  # " kenya " -> "Kenya"
 # Fictional client organisations - invented names, not real companies
 CLIENTS = ["Acme Logistics", "Bluepeak Mining", "Harbourline Engineering",
            "Northstar Energy", "Silverleaf Consulting"]
@@ -81,6 +97,10 @@ trips += random.sample(trips, 30)  # duplicate rows from a double export
 random.shuffle(trips)
 trips = pd.DataFrame(trips)
 
+trip_city = {tid: city_rng.choice(CITIES[CANONICAL[c.strip().lower()]])
+             for tid, c in zip(trips["trip_id"], trips["country"])}  # duplicates share a city
+trips.insert(3, "city", trips["trip_id"].map(trip_city))
+
 # 4. Incidents (higher-risk countries get more incidents)
 clean_trips = trips.drop_duplicates("trip_id").assign(c=lambda d: d["country"].str.strip().str.title())
 incidents = []
@@ -109,6 +129,8 @@ for i in range(1, 601):
         "escalated": "Yes" if escalated else "No",
     })
 incidents = pd.DataFrame(incidents)
+incidents.insert(2, "city", [city_rng.choice(CITIES[CANONICAL[c.strip().lower()]])
+                             for c in incidents["country"]])
 
 RAW.mkdir(parents=True, exist_ok=True)
 for name, df in {"countries": countries, "travellers": travellers,
