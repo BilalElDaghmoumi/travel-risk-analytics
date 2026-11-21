@@ -44,6 +44,30 @@ CITIES = {
 }
 city_rng = random.Random(99)
 CANONICAL = {c.lower(): c for c in CITIES}  # " kenya " -> "Kenya"
+# City coordinates (latitude, longitude) so Tableau doesn't have to guess
+# ambiguous names like Houston. Lookups only - no randomness involved.
+CITY_COORDS = {
+    "Paris": (48.8566, 2.3522), "Lyon": (45.7640, 4.8357), "Marseille": (43.2965, 5.3698),
+    "Berlin": (52.5200, 13.4050), "Munich": (48.1351, 11.5820), "Frankfurt": (50.1109, 8.6821),
+    "Madrid": (40.4168, -3.7038), "Barcelona": (41.3874, 2.1686), "Valencia": (39.4699, -0.3763),
+    "Istanbul": (41.0082, 28.9784), "Ankara": (39.9334, 32.8597), "Izmir": (38.4237, 27.1428),
+    "New York": (40.7128, -74.0060), "Houston": (29.7604, -95.3698), "Chicago": (41.8781, -87.6298),
+    "Mexico City": (19.4326, -99.1332), "Monterrey": (25.6866, -100.3161), "Guadalajara": (20.6597, -103.3496),
+    "Sao Paulo": (-23.5505, -46.6333), "Rio de Janeiro": (-22.9068, -43.1729), "Brasilia": (-15.7975, -47.8919),
+    "Bogota": (4.7110, -74.0721), "Medellin": (6.2442, -75.5812), "Cali": (3.4516, -76.5320),
+    "Nairobi": (-1.2921, 36.8219), "Mombasa": (-4.0435, 39.6682), "Kisumu": (-0.0917, 34.7680),
+    "Lagos": (6.5244, 3.3792), "Abuja": (9.0765, 7.3986), "Port Harcourt": (4.8156, 7.0498),
+    "Johannesburg": (-26.2041, 28.0473), "Cape Town": (-33.9249, 18.4241), "Durban": (-29.8587, 31.0218),
+    "Accra": (5.6037, -0.1870), "Kumasi": (6.6885, -1.6244), "Takoradi": (4.8845, -1.7554),
+    "Cairo": (30.0444, 31.2357), "Alexandria": (31.2001, 29.9187), "Giza": (30.0131, 31.2089),
+    "Amman": (31.9454, 35.9284), "Aqaba": (29.5321, 35.0063), "Irbid": (32.5556, 35.8500),
+    "Dubai": (25.2048, 55.2708), "Abu Dhabi": (24.4539, 54.3773), "Sharjah": (25.3463, 55.4209),
+    "Mumbai": (19.0760, 72.8777), "Delhi": (28.7041, 77.1025), "Bangalore": (12.9716, 77.5946),
+    "Jakarta": (-6.2088, 106.8456), "Surabaya": (-7.2575, 112.7521), "Bali": (-8.6705, 115.2126),
+    "Tokyo": (35.6762, 139.6503), "Osaka": (34.6937, 135.5023), "Yokohama": (35.4437, 139.6380),
+    "Manila": (14.5995, 120.9842), "Cebu": (10.3157, 123.8854), "Davao": (7.1907, 125.4553),
+    "Sydney": (-33.8688, 151.2093), "Melbourne": (-37.8136, 144.9631), "Perth": (-31.9505, 115.8605),
+}
 # Fictional client organisations - invented names, not real companies
 CLIENTS = ["Acme Logistics", "Bluepeak Mining", "Harbourline Engineering",
            "Northstar Energy", "Silverleaf Consulting"]
@@ -131,6 +155,8 @@ for i in range(1, 601):
 incidents = pd.DataFrame(incidents)
 incidents.insert(2, "city", [city_rng.choice(CITIES[CANONICAL[c.strip().lower()]])
                              for c in incidents["country"]])
+incidents.insert(3, "latitude", incidents["city"].map(lambda c: CITY_COORDS[c][0]))
+incidents.insert(4, "longitude", incidents["city"].map(lambda c: CITY_COORDS[c][1]))
 
 RAW.mkdir(parents=True, exist_ok=True)
 for name, df in {"countries": countries, "travellers": travellers,

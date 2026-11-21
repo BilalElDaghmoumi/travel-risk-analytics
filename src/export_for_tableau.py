@@ -4,7 +4,7 @@ import sqlite3
 import pandas as pd
 
 INCIDENTS_SQL = """
-SELECT i.incident_id, i.country, i.city, c.region, c.risk_level,
+SELECT i.incident_id, i.country, i.city, i.latitude, i.longitude, c.region, c.risk_level,
        i.incident_date, i.incident_hour, i.incident_type, i.severity, i.escalated,
        COUNT(DISTINCT t.traveller_id) AS travellers_exposed
 FROM incidents i
@@ -16,7 +16,7 @@ GROUP BY i.incident_id
 """
 
 EXPOSURES_SQL = """
-SELECT i.incident_id, i.country, i.city, c.region, i.incident_date, i.incident_type,
+SELECT i.incident_id, i.country, i.city, i.latitude, i.longitude, c.region, i.incident_date, i.incident_type,
        i.severity, i.escalated, t.trip_id, tr.traveller_id, tr.client, tr.department
 FROM incidents i
 JOIN countries c ON c.country = i.country
